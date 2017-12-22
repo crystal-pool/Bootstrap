@@ -1,0 +1,52 @@
+---
+packages:
+- id: dotNetRDF
+  version: 2.0.0-pre0010
+uti: com.xamarin.workbook
+id: 6c646118-7b11-4983-ba69-5daccf6951e3
+title: Rdf
+platforms:
+- DotNetCore
+---
+
+```csharp
+#r "dotNetRDF"
+```
+
+```csharp
+using VDS.RDF;
+using VDS.Common;
+using VDS.RDF.Parsing;
+using VDS.RDF.Query;
+using VDS.RDF.Query.Datasets;
+```
+
+```csharp
+var graph = new Graph();
+FileLoader.Load(graph, "wbdump.ttl");
+var dataSet = new InMemoryDataset(graph);
+```
+
+```csharp
+graph.GetTriplesWithObject(graph.GetUriNode("wd:Q57"))
+```
+
+```csharp
+var parser = new SparqlQueryParser();
+var query = parser.ParseFromString(@"
+prefix wdt: <https://crystalpool.cxuesong.com/prop/direct/>
+SELECT ?i WHERE { ?i wdt:P68 '978-0060000028' } LIMIT 1
+");
+var proc = new LeviathanQueryProcessor(dataSet);
+var r = proc.ProcessQuery(query);
+```
+
+```csharp
+var parser = new SparqlQueryParser();
+var query = parser.ParseFromString(@"
+prefix wdt: <https://crystalpool.cxuesong.com/prop/direct/>
+SELECT ?i WHERE { ?i wdt:P68 '978-0060000028' } LIMIT 1
+");
+var proc = new LeviathanQueryProcessor(dataSet);
+var r = proc.ProcessQuery(query);
+```

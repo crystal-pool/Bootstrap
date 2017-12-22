@@ -1,0 +1,670 @@
+Q10	mandatory constraint	强制约束
+Q100	work	作品
+Q101	Into the Wild	
+Q102	hardback	精装书
+Q103	paperback	平装书
+Q104	digital distribution	数字发行
+Q105	HarperCollins	哈珀柯林斯
+Q106	China Children's Press & Publication Group	中国少年儿童出版社
+Q107	publisher	出版社
+Q108	volume	卷
+Q109	chapter	章
+Q11	distinct values constraint	不同值约束
+Q110	audiobook	有声书
+Q111	Library binding	图书馆装订
+Q113	Into the Wild	
+Q114	Dave Stevenson	
+Q115	Into the Wild	
+Q116	graphic novel	漫画小说
+Q117	comic book album	
+Q12	multi-value constraint	多值约束
+Q126	Super Edition	长篇外传
+Q127	The Untold Stories	不为人知的故事
+Q128	Tales from the Clans	族群的传说
+Q129	Shadows of the Clans	族群的阴影
+Q13	used as qualifier constraint	用作限定符约束
+Q130	Legends of the Clans	族群的传奇
+Q131	Novella Compilation	短篇小说集
+Q132	The Field Guide	荒野手册
+Q134	Graystripe's Adventure	灰条历险记
+Q135	Tigerstar and Sasha	虎星与莎夏
+Q136	Ravenpaw's Path	乌爪的旅程
+Q137	SkyClan and the Stranger	天族与陌生者
+Q138	Victoria Holmes	维多利亚·霍姆斯
+Q139	Midnight	午夜追踪
+Q14	single value constraint	单一值约束
+Q140	Moonrise	新月危机
+Q141	Dawn	重现家园
+Q142	Starlight	星光指路
+Q143	Twilight	黄昏战争
+Q144	Sunset	日落和平
+Q15	symmetric constraint	对称约束
+Q152	The Sight	预视力量
+Q153	Dark River	暗河汹涌
+Q154	Outcast	驱逐之战
+Q155	Eclipse	天蚀遮月
+Q156	Long Shadows	暗夜长影
+Q157	Sunrise	拂晓之光
+Q158	The Fourth Apprentice	第四学徒
+Q159	Fading Echoes	战声渐近
+Q16	type constraint	类型约束
+Q160	Night Whispers	暗夜密语
+Q161	Sign of the Moon	月光印记
+Q162	The Forgotten Warrior	武士归来
+Q163	The Last Hope	群星之战
+Q164	The Sun Trail	追随太阳
+Q165	Thunder Rising	雷电崛起
+Q166	The First Battle	首次战争
+Q167	The Blazing Star	燃烧之星
+Q168	A Forest Divided	占地为王
+Q169	Path of Stars	群星之路
+Q17	value type constraint	值类型约束
+Q170	The Apprentice's Quest	学徒探索
+Q171	Thunder and Shadow	族群情仇
+Q172	Shattered Sky	天空破碎
+Q173	Darkest Night	极夜无光
+Q174	River of Fire	
+Q175	The Raging Storm	
+Q176	Firestar's Quest	火星的探索
+Q177	Bluestar's Prophecy	蓝星的预言
+Q178	SkyClan's Destiny	天族外传
+Q179	Crookedstar's Promise	钩星的承诺
+Q18	inverse constraint	相反约束
+Q180	Yellowfang's Secret	黄牙的秘密
+Q181	Tallstar's Revenge	高星的复仇
+Q182	Bramblestar's Storm	黑莓星的风暴
+Q183	Moth Flight's Vision	蛾飞的幻象
+Q184	Hawkwing's Journey	鹰翅的旅程
+Q185	Tigerheart's Shadow	虎心的阴影
+Q186	Crowfeather's Trial	Crowfeather's Trial
+Q187	Hollyleaf's Story	冬青叶的故事
+Q188	Mistystar's Omen	雾星的征兆
+Q189	Cloudstar's Journey	云星的旅程
+Q19	item requires statement constraint	项要求声称约束
+Q190	Tigerclaw's Fury	虎掌的愤怒
+Q191	Leafpool's Wish	叶池的希望
+Q192	Dovewing's Silence	鸽翅的沉默
+Q193	Mapleshade's Vengeance	枫荫的复仇
+Q194	Goosefeather's Curse	鹅羽的诅咒
+Q195	Ravenpaw's Farewell	乌爪的告别
+Q196	Spottedleaf's Heart	斑叶的心声
+Q197	Pinestar's Choice	松星的抉择
+Q198	Thunderstar's Echo	雷星的怀响
+Q199	Secrets of the Clans	族群的秘密
+Q2	Universe	宇宙
+Q20	value requires statement constraint	值要求声明约束
+Q200	Cats of the Clans	族群的猫
+Q201	Code of the Clans	族群的守则
+Q202	Battles of the Clans	族群的战争
+Q203	Enter the Clans	进入族群
+Q204	The Ultimate Guide	终极指南
+Q205	The Warriors Guide	武士指南
+Q206	The Rise of Scourge	长鞭崛起
+Q207	The Lost Warrior	武士失踪
+Q208	Warrior's Refuge	武士避难
+Q209	Warrior's Return	武士回归
+Q21	conflicts-with constraint	冲突约束
+Q210	Into the Woods	进入森林
+Q211	Escape from the Forest	逃出森林
+Q212	Return to the Clans	返回族群
+Q213	Shattered Peace	和平破碎
+Q214	A Clan in Need	族群救星
+Q215	The Heart of a Warrior	武士之心
+Q216	The Rescue	救援
+Q217	Beyond the Code	超越守则
+Q218	After the Flood	洪水过后
+Q219	Dan Jolley	丹·乔利
+Q22	one-of constraint	之一约束
+Q220	Tui Sutherland	杜依·苏特兰
+Q221	Clarissa Hutton	
+Q222	Barnes & Noble	巴诺书店
+Q223	Wayne McLoughlin	
+Q224	Turtleback	
+Q225	business enterprise	企业
+Q226	e-book	电子书
+Q227	James L. Barry	詹姆斯·巴利
+Q228	Tokyopop	TOKYOPOP
+Q229	imprint	出版社品牌
+Q231	Collins	柯林斯
+Q232	HarperCollins Children's Books	哈珀柯林斯儿童出版社
+Q233		
+Q234	Allen Douglas	
+Q235	Owen Richardson	
+Q236	HarperAudio	
+Q237	Kathleen McInerney	
+Q238	Don Hudson	丹·哈德森
+Q239	Nanette Savard	
+Q24	mandatory qualifier constraint	强制限定符约束
+Q240	Harper Trophy	
+Q241	Bettina M. Kurkoski	贝蒂娜·卡克斯克
+Q242	MacLeod Andrews	
+Q245	Goosefeather's Curse	
+Q246	Thunder and Shadow	
+Q247	Thunder and Shadow	
+Q248	Thunder and Shadow	
+Q249	The Warriors Guide	
+Q25	allowed qualifiers constraint	允许的限定符约束
+Q250	Eclipse	
+Q251	Eclipse	
+Q252	Eclipse	
+Q255	Cats of the Clans	
+Q256	Bluestar's Prophecy	
+Q257	Bluestar's Prophecy	
+Q258	Bluestar's Prophecy	
+Q259	Code of the Clans	
+Q26	range constraint	范围约束
+Q260	Code of the Clans	
+Q261	Bramblestar's Storm	
+Q262	Bramblestar's Storm	
+Q263	Tallstar's Revenge	
+Q264	Tallstar's Revenge	
+Q265	Tallstar's Revenge	
+Q266	The Blazing Star	
+Q267	The Blazing Star	
+Q268	The Blazing Star	
+Q269	Secrets of the Clans	
+Q27	difference within range constraint	差异在范围之内约束
+Q270	Secrets of the Clans	
+Q271	The Lost Warrior	
+Q272	The Lost Warrior	
+Q273	Warrior's Refuge	
+Q274	Sign of the Moon	
+Q275	Sign of the Moon	
+Q276	Sign of the Moon	
+Q278	Sign of the Moon	
+Q279	River of Fire	
+Q28	Commons link constraint	共享资源链接约束
+Q280	River of Fire	
+Q281	The Untold Stories	
+Q282	Shattered Sky	
+Q283	Shattered Sky	
+Q284	Shattered Sky	
+Q285	Escape from the Forest	
+Q286	Escape from the Forest	
+Q287	Dawn	
+Q288	Dawn	
+Q289	Dawn	
+Q29	format constraint	格式约束
+Q290	Dawn	
+Q292	Dawn	
+Q293	Beyond the Code	
+Q294	Graystripe's Adventure	
+Q295	Fading Echoes	
+Q296	Fading Echoes	
+Q297	Fading Echoes	
+Q298	Fading Echoes	
+Q299	The First Battle	
+Q30	used for values only constraint	只用作值约束
+Q300	The First Battle	
+Q301	The First Battle	
+Q302	The First Battle	
+Q303	Power of Three	
+Q304	Power of Three	
+Q305	Path of Stars	
+Q306	Path of Stars	
+Q307	Path of Stars	
+Q308	Tigerheart's Shadow	
+Q309	Tigerheart's Shadow	
+Q31	used as reference constraint	用作参考文献约束
+Q310	Ravenpaw's Path	
+Q311	The Ultimate Guide	
+Q312	Twilight	
+Q313	Twilight	
+Q314	Twilight	
+Q315	Twilight	
+Q316	Twilight	
+Q317	After the Flood	
+Q318	Warrior's Return	
+Q319	The Sight	
+Q32	instance of	原型
+Q320	The Sight	
+Q321	The Sight	
+Q322	The Sight	
+Q323	The Sight	
+Q324	The Rise of Scourge	
+Q325	The Rise of Scourge	
+Q326	Legends of the Clans	
+Q327	Legends of the Clans	
+Q328	Yellowfang's Secret	
+Q329	Yellowfang's Secret	
+Q33	subclass of	上一级分类
+Q330	Yellowfang's Secret	
+Q331	Dawn of the Clans	
+Q332	The Last Hope	
+Q333	The Last Hope	
+Q334	The Last Hope	
+Q335	The Last Hope	
+Q336	The Forgotten Warrior	
+Q337	The Forgotten Warrior	
+Q338	The Forgotten Warrior	
+Q339	The Forgotten Warrior	
+Q340	Return to the Clans	
+Q341	Shattered Peace	
+Q342	Ravenpaw's Farewell	
+Q343	Long Shadows	
+Q344	Long Shadows	
+Q345	Long Shadows	
+Q346	Long Shadows	
+Q347	Into the Woods	
+Q348	Into the Woods	
+Q349	A Heart of a Warrior	
+Q35	year	年
+Q350	Outcast	
+Q351	Outcast	
+Q352	Outcast	
+Q353	Outcast	
+Q354	Moth Flight's Vision	
+Q355	Moth Flight's Vision	
+Q356	Moth Flight's Vision	
+Q357	Night Whispers	
+Q358	Night Whispers	
+Q359	Night Whispers	
+Q36	second	秒
+Q360	Night Whispers	
+Q361	Midnight	
+Q362	Midnight	
+Q363	Midnight	
+Q364	Midnight	
+Q365	Midnight	
+Q366	SkyClan's Destiny	
+Q367	SkyClan's Destiny	
+Q368	SkyClan's Destiny	
+Q369	Shadows of the Clans	
+Q37	Warriors	猫武士
+Q370	The Fourth Apprentice	
+Q371	The Fourth Apprentice	
+Q372	The Fourth Apprentice	
+Q373	The Fourth Apprentice	
+Q374	Rising Storm	
+Q375	Rising Storm	
+Q376	Rising Storm	
+Q377	Rising Storm	
+Q378	Rising Storm	
+Q379	Mapleshade's Vengeance	
+Q38	Erin Hunter	艾琳·亨特
+Q380	Moonrise	
+Q381	Moonrise	
+Q382	Moonrise	
+Q383	Moonrise	
+Q384	A Forest Divided	
+Q385	A Forest Divided	
+Q386	A Forest Divided	
+Q387	Forest of Secrets	
+Q388	Forest of Secrets	
+Q389	Forest of Secrets	
+Q390	Forest of Secrets	
+Q391	Forest of Secrets	
+Q392	The Apprentice's Quest	
+Q393	The Apprentice's Quest	
+Q394	The Apprentice's Quest	
+Q395	A Dangerous Path	
+Q396	A Dangerous Path	
+Q397	A Dangerous Path	
+Q398	A Dangerous Path	
+Q399	Starlight	
+Q4	Earth	地球
+Q40	Warriors Wiki	猫武士维基
+Q400	Starlight	
+Q401	Starlight	
+Q402	Starlight	
+Q403	Starlight	
+Q404	Firestar's Quest	
+Q405	Firestar's Quest	
+Q406	Sunset	
+Q407	Sunset	
+Q408	Sunset	
+Q409	Sunset	
+Q41	Warriors Wiki language edition	猫武士维基语言版本
+Q410	Crookedstar's Promise	
+Q411	Crookedstar's Promise	
+Q412	Crookedstar's Promise	
+Q413	Darkest Night	
+Q414	Darkest Night	
+Q415	The Rescue	
+Q416	The Rescue	
+Q417	Tales from the Clans	
+Q418	Tales from the Clans	
+Q419	The Prophecies Begin	
+Q420	The Prophecies Begin	
+Q421	The Prophecies Begin	
+Q422	The Darkest Hour	
+Q423	The Darkest Hour	
+Q424	The Darkest Hour	
+Q425	The Darkest Hour	
+Q426	The Darkest Hour	
+Q427	New Prophecy	
+Q428	The New Prophecy	
+Q429	Sunrise	
+Q43	English Warriors Wiki	猫武士英语维基
+Q430	Sunrise	
+Q431	Thunder Rising	
+Q432	Thunder Rising	
+Q433	Thunder Rising	
+Q434	Thunder Rising	
+Q435	Fire and Ice	
+Q436	Fire and Ice	
+Q437	Fire and Ice	
+Q438	Fire and Ice	
+Q441	Fire and Ice	
+Q442	Omen of the Stars	
+Q443	Omen of the Stars	
+Q444	A Clan in Need	
+Q445	Battles of the Clans	
+Q446	Battles of the Clans	
+Q447	Enter the Clans	
+Q448	Enter the Clans	
+Q449	The Sun Trail	
+Q45	Chinese Warriors Wiki	猫武士中文维基
+Q450	The Sun Trail	
+Q451	The Sun Trail	
+Q452	The Sun Trail	
+Q453	Hawkwing's Journey	
+Q454	Hawkwing's Journey	
+Q455	Hawkwing's Journey	
+Q456	Into the Wild	
+Q457	Into the Wild	
+Q46	book	图书
+Q460	Dark River	
+Q461	Dark River	
+Q462	Dark River	
+Q463	Dark River	
+Q464	Into the Wild	
+Q465	box set	盒装
+Q466	Future Publishing House	未来出版社
+Q467	Wuhan Press	武汉出版社
+Q468	Gansu People's Publishing House	甘肃人民美术出版社
+Q469		三俗公社
+Q47	edition	书籍版本
+Q470	Gao Yinqian	高尹倩
+Q471	Zhou Ying	周鹰
+Q472	Geng Zimei	高子梅
+Q473	Meng Xiaobao	孟小豹
+Q474	Yang Bin	杨冰
+Q475	Zhang Zimo	张子漠
+Q476	Bo Xuejing	卜薛婧
+Q477	Ma Zhiliang	马智良
+Q478	Han Yichen	韩宜辰
+Q479	Zhao Zhenzhong	赵振中
+Q48	arc	子系列
+Q480	Xie Yawen	谢雅文
+Q481	Li Ke	李珂
+Q487		逃出森林
+Q488		燃烧之星
+Q489		重现家园
+Q49	book series	丛书
+Q490		天蚀遮月
+Q491		蓝星的预言
+Q492		蓝星的预言
+Q493		高星的复仇
+Q494		武士失踪
+Q495		预视力量
+Q496		武士归来
+Q497		月光印记
+Q498		首次战争
+Q499		群星之路
+Q50	The Prophecies Begin	预言开始
+Q500		黄昏战争
+Q501		战声渐近
+Q502		群星之战
+Q503		武士回归
+Q504		长鞭崛起
+Q505		族群的秘密
+Q506		族群的猫
+Q507		族群的守则
+Q508		黄牙的秘密
+Q509		不为人知的故事
+Q51	series of creative works	系列
+Q510		武士避难
+Q511		午夜追踪
+Q512		驱逐之战
+Q513		暗夜密语
+Q514		暗夜长影
+Q515		第四学徒
+Q516		险路惊魂
+Q517		险路惊魂
+Q52	New Prophecy	新预言
+Q520		险路惊魂
+Q521		风起云涌
+Q522		风起云涌
+Q524		险路惊魂
+Q528		风起云涌
+Q529		风起云涌
+Q53	Power of Three	三力量
+Q530		新月危机
+Q531		占地为王
+Q532		疑云重重
+Q533		疑云重重
+Q534		疑云重重
+Q535		天族外传
+Q536		天族外传
+Q537		钩星的承诺
+Q538		钩星的承诺
+Q539		寒冰烈火
+Q54	Omen of the Stars	星预言
+Q540		寒冰烈火
+Q541		火星的探索
+Q543		火星的探索
+Q544		力挽狂澜
+Q545		力挽狂澜
+Q546		拂晓之光
+Q547		星光指路
+Q548		族群的战争
+Q549		追随太阳
+Q55	Dawn of the Clans	族群黎明
+Q550		呼唤野性
+Q551		呼唤野性
+Q552		雷电崛起
+Q553		暗河汹涌
+Q554		
+Q555		
+Q556		
+Q557		
+Q558		
+Q559		
+Q56	A Vision of Shadows	暗影幻象
+Q560		
+Q561		
+Q562		
+Q563		
+Q564		
+Q565		
+Q566		
+Q567		
+Q568		
+Q569		
+Q57	Into the Wild	呼唤野性
+Q570		
+Q571		
+Q572		
+Q573		
+Q574		
+Q575		
+Q576		
+Q577		
+Q578		
+Q579		
+Q580		
+Q581		
+Q582		
+Q583		
+Q584		
+Q585		
+Q586		
+Q587		
+Q588		
+Q589		
+Q59	Fire and Ice	寒冰烈火
+Q590		
+Q591		
+Q592		
+Q593		
+Q594		
+Q595		
+Q596		
+Q597		
+Q598		
+Q599		
+Q6	life	生命
+Q60	Forest of Secrets	疑云重重
+Q600		
+Q601		
+Q602		
+Q603		
+Q604		
+Q605		
+Q606		
+Q607		
+Q608		
+Q609		
+Q61	Kate Cary	凯特·卡里
+Q610		
+Q611		
+Q612		
+Q613		
+Q614		
+Q615		
+Q616		
+Q617		
+Q618		
+Q619		
+Q62	collective pseudonym	共用笔名
+Q620		
+Q621	Firestar	火星
+Q622	fictional cat character	虚构猫人物
+Q623	cat	猫
+Q624	fictional character	虚构人物
+Q626	fictional human	虚构人类
+Q627	ThunderClan	雷族
+Q628	ShadowClan	影族
+Q629	clan of cats	族群
+Q63	Cherith Baldry	基立·鲍德卓
+Q630	RiverClan	河族
+Q631	WindClan	风族
+Q632	SkyClan	天族
+Q633	fictional group of cats	虚构猫群
+Q634	StarClan	星族
+Q635	Place of No Stars	无星之地
+Q636	BloodClan	血族
+Q637	Tribe	部落
+Q638	Tribe of Rushing Water	现代急水部落
+Q639	Tribe of Rushing Water	远古急水部落
+Q64	novel series	系列小说
+Q640	Tribe of Endless Hunting	杀无尽部落
+Q641	Great Clans	巨猫族
+Q642	LionClan	狮族
+Q643	TigerClan	虎族
+Q644	LeopardClan	豹族
+Q645	Modern TigerClan	现代虎族
+Q646	Modern LionClan	现代狮族
+Q647	kittypet	宠物猫
+Q648	loner	独行猫
+Q649	rogue	泼皮猫
+Q65	Rising Storm	风起云涌
+Q650	Darktail's Group	暗尾猫群
+Q651	The Kin	同胞
+Q652	The Guardian Cats	守护者
+Q653	The Ancients	远古猫
+Q654	The Early Settlers	早期定居者
+Q655	Tall Shadow's Camp	高影营地
+Q656	Clear Sky's Camp	晴天营地
+Q657	Wind Runner's Camp	风逐营地
+Q658	River Ripple's Camp	河波营地
+Q659	Thunder's Camp	雷电营地
+Q66	A Dangerous Path	险路惊魂
+Q660	Slash's Group	刀疤猫群
+Q661	Slash's Camp	刀疤营地
+Q662	Cats of the Park	公园猫
+Q663	Nowhere	无名星空
+Q664	None	虚无
+Q665	Unnamed residence	无名居所
+Q666	SkyClan's Ancestors	天族祖先
+Q668	color	颜色
+Q669	fictional office, position, or title	虚构职位、职务或头衔
+Q67	The Darkest Hour	力挽狂澜
+Q670	fictional entity	虚构实体
+Q671	role of Clan	族群分工
+Q672	Teller of the Pointed Stones	尖石的预言者
+Q673	Twoleg	两脚兽
+Q675	male	男性
+Q677	female	女性
+Q678	male organism	雄性
+Q679	female organism	雌性
+Q680	Kit	幼崽
+Q681	apprentice	学徒
+Q682	warrior	武士
+Q683	mentor	导师
+Q684	medicine cat	巫医
+Q685	Queen	猫后
+Q686	deputy	副族长
+Q687	fictional leader	虚构领导者
+Q688	clan leader	族长
+Q689	role of Tribe	部落分工
+Q69	Czech	捷克语
+Q690	role of Ancients	远古猫分工
+Q691	fictional healer	虚构治疗者
+Q692	Elder	长老
+Q693	role of Early Settlers	早期定居者分工
+Q694	leader	首领
+Q695	fictional psychic	虚构通灵者
+Q696	To-Be	半大猫
+Q697	Cave-Guard	护穴猫
+Q698	Prey-Hunter	狩猎猫
+Q699	Kit-Mother	猫妈妈
+Q700	Softpaw	柔掌
+Q701	Sharpclaw	利爪
+Q702	Hunter	猎者
+Q703	group of spiritual cats	亡猫群体
+Q704	role of Guardian Cats	守护者分工
+Q705	healer	治疗者
+Q706	fictional trainee	虚构受训者
+Q707	fictional hunter	虚构捕猎者
+Q708	fictional fighter	虚构战斗者
+Q709	fictional caregiver	虚构看护者
+Q71	German	德语
+Q710	guardian cats	守护者
+Q711	Lionheart	狮心
+Q712	Tigerstar	虎星
+Q713	Bluestar	蓝星
+Q714	Graystripe	灰条
+Q715	Whitestorm	白风
+Q716	Redtail	红尾
+Q717	Sandstorm	沙风
+Q718	Dustpelt	尘毛
+Q719	Ravenpaw	乌爪
+Q720	Spottedleaf	斑叶
+Q721	Longtail	长尾
+Q722	Darkstripe	黑条
+Q723	Runningwind	奔风
+Q724	Mousefur	鼠毛
+Q725	Willowpelt	柳带
+Q726	Frostfur	霜毛
+Q727	Brindleface	纹脸
+Q728	Goldenflower	金花
+Q729	Speckletail	纹尾
+Q73	English	英语
+Q730	Dappletail	斑尾
+Q731	Smallear	小耳
+Q732	Patchpelt	团毛
+Q733	One-eye	一只眼
+Q734	Halftail	半尾
+Q735	Jake	杰克
+Q736	Nutmeg	娜特玛格
+Q737	book design	书籍设计
+Q75	Spanish	西班牙语
+Q77	Finnish	芬兰语
+Q79	French	法语
+Q8	death	死亡
+Q81	Italian	意大利语
+Q83	Japanese	日语
+Q84	Lithuanian	立陶宛语
+Q86	Dutch	荷兰语
+Q88	Polish	波兰语
+Q9	human	人类
+Q90	Russian	俄语
+Q91	Ukrainian	乌克兰语
+Q93	Chinese	汉语
+Q94	British English	英式英语
+Q95	Simplified Chinese	简体中文
+Q96	American English	美国英语
+Q97	Traditional Chinese	繁体中文
+Q99	publication	出版物

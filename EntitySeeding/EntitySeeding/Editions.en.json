@@ -1,0 +1,5280 @@
+﻿{
+  "Goosefeather's Curse": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Goosefeather's Curse",
+      "coverImg": {
+        "file": "Nov 8 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-09-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Goosefeathers-Curse-Novella-ebook/dp/B00QQNPOCY/",
+        "name": "Nov8_US-ebook",
+        "title": "Warriors: Goosefeather's Curse (Warriors Novella) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Goosefeather's Curse",
+      "isbn": "978-1534745643",
+      "pubDate": "2016-06-18",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Goosefeathers-Curse-Novella/dp/1534745645/",
+        "name": "Nov8_US-paperback",
+        "title": "Warriors: Goosefeather's Curse (Warriors Novella) Paperback – June 18, 2016"
+      }
+    }
+  ],
+  "Thunder and Shadow": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Thunder and Shadow",
+      "isbn": "978-0062386410",
+      "coverImg": {
+        "file": "VOS 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-09-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Thunder-Shadow/dp/0062386417/",
+        "name": "VOS2_US-hardcover",
+        "title": "Warriors: A Vision of Shadows #2: Thunder and Shadow Hardcover – September 6, 2016"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Thunder and Shadow",
+      "isbn": "978-0062386434",
+      "pubDate": "2017-11-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Thunder-Shadow/dp/0062386433/",
+        "name": "VOS2_US-paperback",
+        "title": "Warriors: A Vision of Shadows #2: Thunder and Shadow Paperback – November 7, 2017"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Thunder and Shadow",
+      "isbn": "978-0062386427",
+      "pubDate": "2016-09-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Thunder-Shadow/dp/0062386425/",
+        "name": "VOS2_US-libraryBinding",
+        "title": "Warriors: A Vision of Shadows #2: Thunder and Shadow Library Binding – September 6, 2016"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Thunder and Shadow",
+      "pubDate": "2016-09-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Thunder-Shadow-ebook/dp/B019C3NSIQ/",
+        "name": "VOS2_US-ebook",
+        "title": "Warriors: A Vision of Shadows #2: Thunder and Shadow Kindle Edition"
+      }
+    }
+  ],
+  //"Novella Compilation": [
+  //  {
+  //    "mediaType": "平装套书",
+  //    "publisher": "HarperCollins",
+  //    "title": "Novella Box Set",
+  //    "isbn": "978-0062747174",
+  //    "coverImg": {
+  //      "file": "NovC 1 boxset.jpg",
+  //      "title": "英文",
+  //      "area": "北美&英国"
+  //    },
+  //    "pubDate": "2018-04-10",
+  //    "ref": {
+  //      "work": "Amazon",
+  //      "url": "https://www.amazon.com/Warriors-Novella-Box-Set-Stories/dp/0062747177/",
+  //      "name": "NovC_EN-paperback-boxset",
+  //      "title": "Warriors Novella Box Set: The Untold Stories, Tales from the Clans, Shadows of the Clans, Legends of the Clans Paperback – April 10, 2018"
+  //    }
+  //  }
+  //],
+  "The Warriors Guide": [
+    {
+      "mediaType": "精装书",
+      "publisher": "Barnes & Noble",
+      "title": "The Warriors Guide",
+      "isbn": "9781435132061",
+      "coverImg": {
+        "file": "Guide 7 cover.jpg",
+        "title": "英文",
+        "area": "北美"
+      },
+      "pubDate": "2012-08-31",
+      "ref": {
+        "work": "Barnes & Noble",
+        "url": "https://www.barnesandnoble.com/w/warriors-field-guide-erin-hunter/1102541706",
+        "name": "Guide7_US-hardcover",
+        "title": "The Warriors Field Guide"
+      }
+    }
+  ],
+  "Eclipse": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Eclipse",
+      "isbn": "978-0060892111",
+      "coverImg": {
+        "file": "PO3 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-09-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Eclipse-Warriors-Power-Three-4/dp/0060892110/",
+        "name": "PO34_EN-hardcover",
+        "title": "Eclipse (Warriors: Power of Three #4) Hardcover – September 2, 2008"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Eclipse",
+      "isbn": "978-0060892128",
+      "pubDate": "2008-09-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-4-Eclipse/dp/0060892129/",
+        "name": "PO34_N-libraryBinding",
+        "title": "Warriors: Power of Three #4: Eclipse Library Binding – September 2, 2008"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Eclipse",
+      "pubDate": "2009-06-28",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Erin-Hunter-Eclipse-Warriors-Power/dp/B00HTJYSH6/",
+        "name": "PO34_EN-paperback",
+        "title": "By Erin Hunter - Eclipse (Warriors: Power of Three, Book 4) (6/28/09) Paperback – June 28, 2009"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Eclipse",
+      "pubDate": "2009-10-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-4-Eclipse-ebook/dp/B0015DRPEK/",
+        "name": "PO34_EN-ebook",
+        "title": "Warriors: Power of Three #4: Eclipse Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Eclipse",
+      "isbn": "978-0062367112",
+      "coverImg": {
+        "file": "PO3 4 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-06-30",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-4-Eclipse/dp/0062367110/",
+        "name": "PO34_EN2-paperback",
+        "title": "Warriors: Power of Three #4: Eclipse Paperback – June 30, 2015"
+      }
+    }
+  ],
+  "Cats of the Clans": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Cats of the Clans",
+      "isbn": " 978-0061458569",
+      "coverImg": {
+        "file": "Guide 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-06-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Cats-Clans-Field-Guide/dp/0061458562/",
+        "name": "Guide2_US-hardcover",
+        "title": "Warriors: Cats of the Clans (Warriors Field Guide) Hardcover – June 24, 2008"
+      },
+      "illustrator": "Wayne Mcloughlin "
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Cats of the Clans",
+      "pubDate": "2009-06-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Cats-Clans-Field-Guide-ebook/dp/B0010SEMGO/",
+        "name": "Guide2_US-ebook",
+        "title": "Warriors: Cats of the Clans (Warriors Field Guide) Kindle Edition"
+      },
+      "illustrator": "Wayne Mcloughlin "
+    }
+  ],
+  "Pinestar's Choice": [],
+  "Bluestar's Prophecy": [
+    {
+      "mediaType": "精装书",
+      "isbn": "978-0061582479",
+      "pubDate": "2009-07-28",
+      "illustrator": "Wayne McLoughlin",
+      "publisher": "HarperCollins",
+      "title": "Bluestar's Prophecy",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bluestars-Erin-Hunter/dp/0061582476/",
+        "name": "SE2_US-hardcover",
+        "title": "Warriors Super Edition: Bluestar's Prophecy Hardcover – July 28, 2009"
+      },
+      "insidecoverImg": { "file": "SE 2 insidecover.jpg" },
+      "coverImg": {
+        "file": "SE 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Bluestar's Prophecy",
+      "isbn": "978-0061582493",
+      "pubDate": "2009-07-28",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bluestars-Erin-Hunter/dp/0061582492/",
+        "name": "SE2_US-libraryBinding",
+        "title": "Warriors Super Edition: Bluestar's Prophecy Library Binding – July 28, 2009"
+      },
+      "illustrator": "Wayne McLoughlin"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Bluestar's Prophecy",
+      "pubDate": "2009-06-16",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bluestars-Erin-Hunter-ebook/dp/B002HPRBYO/",
+        "name": "SE2_US-ebook",
+        "title": "Warriors Super Edition: Bluestar's Prophecy Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Bluestar's Prophecy",
+      "isbn": "978-0061131677",
+      "pubDate": "2010-06-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bluestars-Erin-Hunter/dp/0061582506/",
+        "name": "SE2_US-paperback",
+        "title": "Warriors Super Edition: Bluestar's Prophecy Paperback – June 1, 2010"
+      },
+      "illustrator": "Wayne McLoughlin"
+    }
+  ],
+  "Code of the Clans": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Code of the Clans",
+      "isbn": "978-0061660092",
+      "coverImg": {
+        "file": "Guide 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2009-06-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Code-Clans-Field-Guide/dp/0061660094/",
+        "name": "Guide3_US-hardcover",
+        "title": "Warriors: Code of the Clans (Warriors Field Guide) Hardcover – June 9, 2009"
+      },
+      "illustrator": "Wayne Mcloughlin "
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Code of the Clans",
+      "isbn": "978-0061660108",
+      "pubDate": "2009-06-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Code-Clans-Field-Guide/dp/0061660108/",
+        "name": "Guide3_US-libraryBinding",
+        "title": "Warriors: Code of the Clans (Warriors Field Guide) Library Binding – June 9, 2009"
+      },
+      "illustrator": "Wayne Mcloughlin "
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Code of the Clans",
+      "pubDate": "2009-10-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Code-Clans-Field-Guide-ebook/dp/B001NLKWM6/",
+        "name": "Guide3_US-ebook",
+        "title": "Warriors: Code of the Clans (Warriors Field Guide) Kindle Edition"
+      },
+      "illustrator": "Wayne Mcloughlin "
+    }
+  ],
+  "Bramblestar's Storm": [
+    {
+      "mediaType": "精装书",
+      "isbn": "978-0062291455",
+      "pubDate": "2014-08-26",
+      "illustrator": "James L. Barry",
+      "publisher": "HarperCollins",
+      "title": "Bramblestar's Storm",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bramblestars-Erin-Hunter/dp/0062291432/",
+        "name": "SE7_US-hardcover",
+        "title": "Warriors Super Edition: Bramblestar's Storm Hardcover – August 26, 2014"
+      },
+      "insidecoverImg": { "file": "SE 7 insidecover.jpg" },
+      "coverImg": {
+        "file": "SE 7 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "pubDate": "~2014-04-06",
+      "draftcoverImg": {
+        "file": "SE 7 cover draft.png",
+        "title": "英文",
+        "area": "北美"
+      },
+      "ref": {
+        "work": "wikia.de",
+        "url": "http://de.warrior-cats.wikia.com/wiki/Datei:Bramblestars_Storm_EN3.png",
+        "name": "SE7_US-design",
+        "title": "Bramblestars Storm EN3.png"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Bramblestar's Storm",
+      "isbn": "978-0062291448",
+      "pubDate": "2014-08-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bramblestars-Erin-Hunter/dp/0062291440/",
+        "name": "SE7_US-libraryBinding",
+        "title": "Warriors Super Edition: Bramblestar's Storm Library Binding – August 26, 2014"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Bramblestar's Storm",
+      "pubDate": "2014-08-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bramblestars-Erin-Hunter-ebook/dp/B00H1UHN84/",
+        "name": "SE7_US-ebook",
+        "title": "Warriors Super Edition: Bramblestar's Storm Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Bramblestar's Storm",
+      "isbn": "978-0062291455",
+      "pubDate": "2016-01-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Bramblestars-Erin-Hunter/dp/0062291459/",
+        "name": "SE7_US-paperback",
+        "title": "Warriors Super Edition: Bramblestar's Storm Paperback – January 26, 2016"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Tallstar's Revenge": [
+    {
+      "mediaType": "精装书",
+      "isbn": "978-0062218049",
+      "pubDate": "2013-07-02",
+      "illustrator": "James L. Barry",
+      "publisher": "HarperCollins",
+      "title": "Tallstar's Revenge",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Tallstars-Erin-Hunter/dp/0062218042/",
+        "name": "SE6_US-hardcover",
+        "title": "Warriors Super Edition: Tallstar's Revenge Hardcover – July 2, 2013"
+      },
+      "insidecoverImg": { "file": "SE 6 insidecover.jpg" },
+      "coverImg": {
+        "file": "SE 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Tallstar's Revenge",
+      "isbn": "978-0062218056",
+      "pubDate": "2013-07-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Tallstars-Erin-Hunter/dp/0062218050/",
+        "name": "SE6_US-libraryBinding",
+        "title": "Warriors Super Edition: Tallstar's Revenge Library Binding – July 2, 2013"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Tallstar's Revenge",
+      "pubDate": "2013-07-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Tallstars-Erin-Hunter-ebook/dp/B009NG3DJM/",
+        "name": "SE6_US-ebook",
+        "title": "Warriors Super Edition: Tallstar's Revenge Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Tallstar's Revenge",
+      "isbn": "978-0062218063",
+      "pubDate": "2014-08-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Tallstars-Erin-Hunter/dp/0062218069/",
+        "name": "SE6_US-paperback",
+        "title": "Warriors Super Edition: Tallstar's Revenge Paperback – August 26, 2014"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "The Blazing Star": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Blazing Star",
+      "isbn": "978-0062063588",
+      "coverImg": {
+        "file": "DOTC 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2014-11-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Blazing-Star/dp/0062063588/",
+        "name": "DOTC4_US-hardcover",
+        "title": "Warriors: Dawn of the Clans #4: The Blazing Star Hardcover – November 4, 2014"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The Blazing Star",
+      "isbn": "978-0062063595",
+      "pubDate": "2014-11-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Blazing-Star/dp/0062063596/",
+        "name": "DOTC4_US-libraryBinding",
+        "title": "Warriors: Dawn of the Clans #4: The Blazing Star Library Binding – November 4, 2014"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Blazing Star",
+      "pubDate": "2014-11-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Blazing-Star-ebook/dp/B00ICM6I7M/",
+        "name": "DOTC4_US-ebook",
+        "title": "Warriors: Dawn of the Clans #4: The Blazing Star (Warriors - Dawn Of The Clans) Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Blazing Star",
+      "isbn": "978-0062410030",
+      "coverImg": {
+        "file": "DOTC 4 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Blazing-Star/dp/0062410032/",
+        "name": "DOTC4_US2-paperback",
+        "title": "Warriors: Dawn of the Clans #4: The Blazing Star Paperback – March 15, 2016"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    }
+  ],
+  "Secrets of the Clans": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Secrets of the Clans",
+      "isbn": "978-0061239038",
+      "coverImg": {
+        "file": "Guide 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2007-05-29",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Secrets-Clans-Field-Guide/dp/0061239038/",
+        "name": "Guide1_US-hardcover",
+        "title": "Warriors: Secrets of the Clans (Warriors Field Guide) Hardcover – May 29, 2007"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Secrets of the Clans",
+      "isbn": "978-0061239045",
+      "pubDate": "2007-05-29",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Secrets-Clans-Field-Guide/dp/0061239046/",
+        "name": "Guide1_US-libraryBinding",
+        "title": "Warriors: Secrets of the Clans (Warriors Field Guide) Library Binding – May 29, 2007"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Secrets of the Clans",
+      "pubDate": "2009-10-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Secrets-Clans-Field-Guide-ebook/dp/B001RS8KZQ/",
+        "name": "Guide1_US-ebook",
+        "title": "Warriors: Secrets of the Clans (Warriors Field Guide) Kindle Edition"
+      }
+    }
+  ],
+  "The Lost Warrior": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Lost Warrior",
+      "isbn": "978-0061240201",
+      "coverImg": {
+        "file": "Manga 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2007-04-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Lost-Warrior-Erin-Hunter/dp/0061240206/",
+        "name": "Manga1_US-paperback",
+        "title": "Warriors: The Lost Warrior Paperback – April 24, 2007"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "The Lost Warrior",
+      "isbn": "978-1417775347",
+      "pubDate": "2007-04-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warrior-Turtleback-Library-Binding-Warriors/dp/1417775343/",
+        "name": "Manga1_US-libraryBinding",
+        "title": "Lost Warrior (Turtleback School & Library Binding Edition) (Warriors Graphic Novels) Library Binding – April 24, 2007"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Lost Warrior",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Lost-Warrior-Manga-ebook/dp/B01767Z29S/",
+        "name": "Manga1_US-ebook",
+        "title": "Warriors: The Lost Warrior (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Warrior's Refuge": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Warrior's Refuge",
+      "isbn": "978-0061252310",
+      "coverImg": {
+        "file": "Manga 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2007-12-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Refuge-Erin-Hunter/dp/006125231X/",
+        "name": "Manga2_US-paperback",
+        "title": "Warriors: Warrior's Refuge Paperback – December 26, 2007"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Warrior's Refuge",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Refuge-Manga-ebook/dp/B01767Z2MU/",
+        "name": "Manga2_US-ebook",
+        "title": "Warriors: Warrior's Refuge (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Sign of the Moon": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Sign of the Moon",
+      "isbn": "978-0061555183",
+      "coverImg": {
+        "file": "OOTS 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2011-04-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sign-Moon-Warriors-Omen-Stars/dp/0061555185/",
+        "name": "OOTS4_EN-hardcover",
+        "title": "Sign of the Moon (Warriors: Omen of the Stars #4) Hardcover – April 5, 2011"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Sign of the Moon",
+      "isbn": "978-0061555206",
+      "pubDate": "2011-04-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Sign-Moon/dp/0061555207/",
+        "name": "OOTS4_N-libraryBinding",
+        "title": "Warriors: Omen of the Stars #4: Sign of the Moon Library Binding – April 5, 2011"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Sign of the Moon",
+      "isbn": "978-0061555213",
+      "pubDate": "2012-04-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Sign-Moon/dp/0061555215/",
+        "name": "OOTS4_EN-paperback",
+        "title": "Warriors: Omen of the Stars #4: Sign of the Moon Paperback – April 3, 2012"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Sign of the Moon",
+      "pubDate": "2011-04-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Sign-Moon-ebook/dp/B004CFA8Y2/",
+        "name": "OOTS4_EN-ebook",
+        "title": "Warriors: Omen of the Stars #4: Sign of the Moon Kindle Edition"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2011-12-22",
+      "publisher": "HarperAudio",
+      "title": "Sign of the Moon",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sign-Moon-Warriors-Omen-Stars/dp/B006OTSMHO/",
+        "name": "OOTS4_EN-audiobook",
+        "title": "Sign of the Moon: Warriors: Omen of the Stars #4   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "OOTS 4 cover a.jpg",
+        "title": "英语",
+        "area": "北美"
+      },
+      "narrator": "Kathleen McInerney"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Sign of the Moon",
+      "isbn": "978-0062382610",
+      "coverImg": {
+        "file": "OOTS 4 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-3",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Sign-Moon/dp/0062382616/",
+        "name": "OOTS4_EN2-paperback",
+        "title": "Warriors: Omen of the Stars #4: Sign of the Moon Paperback – November 3, 2015"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    }
+  ],
+  "Leafpool's Wish": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Leafpool's Wish",
+      "coverImg": {
+        "file": "Nov 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2014-4-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Leafpools-Wish-Novella-ebook/dp/B00FJ37C5E/",
+        "name": "Nov5_US-ebook",
+        "title": "Warriors: Leafpool's Wish (Warriors Novella) Kindle Edition"
+      }
+    }
+  ],
+  "River of Fire": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "River of Fire",
+      "isbn": " 978-0062386533",
+      "coverImg": {
+        "file": "VOS 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2018-04-10",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-River-Fire/dp/0062386530/",
+        "name": "VOS5_US-hardcover",
+        "title": "Warriors: A Vision of Shadows #5: River of Fire Hardcover – April 10, 2018"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "River of Fire",
+      "isbn": "978-0062386540",
+      "pubDate": "2018-04-10",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-River-Fire/dp/0062386549/",
+        "name": "VOS5_US-libraryBinding",
+        "title": "Warriors: A Vision of Shadows #5: River of Fire Library Binding – April 10, 2018"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "River of Fire",
+      "pubDate": "2018-04-10",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-River-Fire-ebook/dp/B07119CNQ1/",
+        "name": "VOS5_US-ebook",
+        "title": "Warriors: A Vision of Shadows #5: River of Fire Kindle Edition"
+      }
+    }
+  ],
+  "The Untold Stories": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Untold Stories",
+      "isbn": "978-0062232922",
+      "coverImg": {
+        "file": "NovC 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2013-07-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Untold-Stories-Novella/dp/0062232924/",
+        "name": "NovC1_US-paperback",
+        "title": "Warriors: The Untold Stories (Warriors Novella) Paperback – July 2, 2013"
+      },
+      "illustrator": "Wayne McLoughlin"
+    }
+  ],
+  "Shattered Sky": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Shattered Sky",
+      "isbn": "978-0062386458",
+      "coverImg": {
+        "file": "VOS 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2017-04-11",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Shattered-Sky-Erin-Hunter/dp/006238645X/",
+        "name": "VOS3_US-hardcover",
+        "title": "Shattered Sky Hardcover – April 11, 2017"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Shattered Sky",
+      "isbn": "978-0062386472",
+      "pubDate": "2018-04-10",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Shattered-Sky/dp/0062386476/",
+        "name": "VOS3_US-paperback",
+        "title": "Warriors: A Vision of Shadows #3: Shattered Sky Paperback – April 10, 2018"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Shattered Sky",
+      "isbn": "978-0062386465",
+      "pubDate": "2017-04-11",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Shattered-Sky/dp/0062386468/",
+        "name": "VOS3_US-libraryBinding",
+        "title": "Warriors: A Vision of Shadows #3: Shattered Sky Library Binding – April 11, 2017"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Shattered Sky",
+      "pubDate": "2017-04-11",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Shattered-Sky-ebook/dp/B01IMYCVXY/",
+        "name": "VOS3_US-ebook",
+        "title": "Warriors: A Vision of Shadows #3: Shattered Sky Kindle Edition"
+      }
+    }
+  ],
+  "Escape from the Forest": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Escape from the Forest",
+      "isbn": "978-0061547935",
+      "coverImg": {
+        "file": "Manga 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-12-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tigerstar-Sasha-Escape-Forest/dp/006154793X/",
+        "name": "Manga6_US-paperback",
+        "title": "Warriors: Tigerstar and Sasha #2: Escape from the Forest Paperback – December 23, 2008"
+      },
+      "illustrator": "Don Hudson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Escape from the Forest",
+      "isbn": "978-0606105682",
+      "pubDate": "2008-12-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Escape-Turtleback-Library-Binding-Warriors/dp/0606105689/",
+        "name": "Manga6_US-libraryBinding",
+        "title": "Escape From The Forest (Turtleback School & Library Binding Edition) (Warriors: Tigerstar & Sasha) Library Binding – December 23, 2008"
+      },
+      "illustrator": "Don Hudson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Escape from the Forest",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tigerstar-Sasha-Escape-Forest-ebook/dp/B01767Z428/",
+        "name": "Manga6_US-ebook",
+        "title": "Warriors: Tigerstar and Sasha #2: Escape from the Forest (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "Don Hudson"
+    }
+  ],
+  "Dawn": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Dawn",
+      "isbn": "978-0060744557",
+      "coverImg": {
+        "file": "NP 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2005-12-27",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Dawn-Warriors-New-Prophecy-Book/dp/0060744553/",
+        "name": "NP3_EN-hardcover",
+        "title": "Dawn (Warriors: The New Prophecy, Book 3) Hardcover – December 27, 2005"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Dawn",
+      "isbn": "978-0060744564",
+      "pubDate": "2005-12-27",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Dawn-Warriors-New-Prophecy-Book/dp/0060744561/",
+        "name": "NP3_EN-libraryBinding",
+        "title": "Dawn (Warriors: The New Prophecy, Book 3) Library Binding – December 27, 2005"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Dawn",
+      "isbn": "978-0060744571",
+      "pubDate": "2006-11-14",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Dawn-Warriors-New-Prophecy-Book/dp/006074457X/",
+        "name": "NP3_EN-paperback",
+        "title": "Dawn (Warriors: The New Prophecy, Book 3) Paperback – November 14, 2006"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Dawn",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-3-Dawn-ebook/dp/B000W93B0U/",
+        "name": "NP3_EN-ebook",
+        "title": "Warriors: The New Prophecy #3: Dawn Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Dawn",
+      "isbn": "978-0062367044",
+      "coverImg": {
+        "file": "NP 3 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-3-Dawn/dp/0062367048/",
+        "name": "NP3_EN2-paperback",
+        "title": "Warriors: The New Prophecy #3: Dawn Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Dawn",
+      "isbn": "978-0007419234",
+      "coverImg": {
+        "file": "NP 3 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2011-06-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/DAWN-Warriors-New-Prophecy-Book/dp/0007419244/",
+        "name": "NP3_EN_UK-paperback",
+        "title": "DAWN (Warriors: The New Prophecy, Book 3) Paperback – 7 Jul 2011"
+      }
+    }
+  ],
+  "Beyond the Code": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Beyond the Code",
+      "isbn": "978-0606235983",
+      "coverImg": {
+        "file": "Manga 12 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2011-11-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-SkyClan-Stranger-Beyond-Manga/dp/0062008374/",
+        "name": "Manga12_US-paperback",
+        "title": "Warriors: SkyClan and the Stranger #2: Beyond the Code (Warriors Manga) Paperback – November 22, 2011"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Beyond the Code",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-SkyClan-Stranger-Beyond-Manga-ebook/dp/B01767Z2XE/",
+        "name": "Manga12_US-ebook",
+        "title": "Warriors: SkyClan and the Stranger #2: Beyond the Code (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Graystripe's Adventure": [
+    {
+      "mediaType": "平装书；全彩合集",
+      "publisher": "HarperCollins",
+      "title": "Graystripe's Adventure",
+      "isbn": "978-0062573001",
+      "coverImg": {
+        "file": "MangaC 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2017-08-08",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Graystripes-Adventure-Warrior-Refuge/dp/0062573004",
+        "name": "MangaC1_US-paperback",
+        "title": "Warriors: Graystripe's Adventure: The Lost Warrior, Warrior's Refuge, Warrior's Return (Warriors Manga) Paperback – August 8, 2017"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书；全彩合集",
+      "publisher": "HarperCollins",
+      "title": "Graystripe's Adventure",
+      "pubDate": "2017-08-08",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Graystripes-Adventure-Warrior-Refuge-ebook/dp/B01N91ST8B",
+        "name": "MangaC1_US-ebook",
+        "title": "Warriors: Graystripe's Adventure: The Lost Warrior, Warrior's Refuge, Warrior's Return (Warriors Manga) Kindle Edition"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Fading Echoes": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Fading Echoes",
+      "isbn": "978-0061555121",
+      "coverImg": {
+        "file": "OOTS 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2010-03-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Fading-Echoes-Warriors-Omen-Stars/dp/0061555126/",
+        "name": "OOTS2_EN-hardcover",
+        "title": "Fading Echoes Warriors: Omen of the Stars, No. 2 Hardcover – March 23, 2010"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Fading Echoes",
+      "isbn": "978-0606377232",
+      "pubDate": "2010-03-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Fading-Turtleback-Library-Binding-Warriors/dp/0606377239/",
+        "name": "OOTS2_N-libraryBinding",
+        "title": "Fading Echoes (Turtleback School & Library Binding Edition) (Warriors: Omen of the Stars) Library Binding – November 3, 2015"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Fading Echoes",
+      "isbn": "978-0061555138",
+      "pubDate": "2010-03-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fading-Echoes/dp/0061555134/",
+        "name": "OOTS2_EN-paperback",
+        "title": "Warriors: Omen of the Stars #2: Fading Echoes Paperback – March 23, 2010"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Fading Echoes",
+      "pubDate": "2009-11-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fading-Echoes-ebook/dp/B003AYZB8O/",
+        "name": "OOTS2_EN-ebook",
+        "title": "Warriors: Omen of the Stars #2: Fading Echoes Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2011-03-23",
+      "publisher": "HarperAudio",
+      "title": "Fading Echoes",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Fading-Echoes-Warriors-Omen-Stars/dp/B003DQVE7G/",
+        "name": "OOTS2_EN-audiobook",
+        "title": "Fading Echoes: Warriors: Omen of the Stars, Book 2   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "OOTS 2 cover a.jpg",
+        "title": "英语",
+        "area": "北美"
+      },
+      "narrator": "Kathleen McInerney"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Fading Echoes",
+      "isbn": "978-0062382597",
+      "coverImg": {
+        "file": "OOTS 2 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fading-Echoes-ebook/dp/B003AYZB8O/",
+        "name": "OOTS2_EN2-paperback",
+        "title": "Warriors: Omen of the Stars #2: Fading Echoes Kindle Edition"
+      }
+    }
+  ],
+  "The First Battle": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The First Battle",
+      "isbn": "978-0062063533",
+      "coverImg": {
+        "file": "DOTC 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2014-04-08",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/First-Battle-Warriors-Dawn-Clans/dp/0062063537/",
+        "name": "DOTC3_US-hardcover",
+        "title": "The First Battle (Warriors: Dawn of the Clans, Book 3) Hardcover – April 8, 2014"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The First Battle",
+      "isbn": "978-0062063557",
+      "pubDate": "2014-04-08",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-First-Battle/dp/0062063553/",
+        "name": "DOTC3_US-libraryBinding",
+        "title": "Warriors: Dawn of the Clans #3: The First Battle Library Binding – April 8, 2014"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The First Battle",
+      "pubDate": "2014-04-08",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-First-Battle-ebook/dp/B00DB2WPF2/",
+        "name": "DOTC3_US-ebook",
+        "title": "Warriors: Dawn of the Clans #3: The First Battle Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The First Battle",
+      "isbn": "978-0062063564",
+      "pubDate": "2015-04-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-First-Battle/dp/0062063561/",
+        "name": "DOTC3_US-paperback",
+        "title": "Warriors: Dawn of the Clans #3: The First Battle Paperback – April 7, 2015"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The First Battle",
+      "isbn": "978-0062410023",
+      "coverImg": {
+        "file": "DOTC 3 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-First-Battle/dp/0062410024/",
+        "name": "DOTC3_US2-paperback",
+        "title": "Warriors: Dawn of the Clans #3: The First Battle Paperback – March 15, 2016"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    }
+  ],
+  "Power of Three": [
+    {
+      "mediaType": "平装套书",
+      "publisher": "HarperCollins",
+      "title": "Power of Three",
+      "isbn": "9780061957055",
+      "coverImg": {
+        "file": "PO3 boxset.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2010-09-28",
+      "ref": {
+        "work": "Barnes&Noble",
+        "url": "https://www.barnesandnoble.com/w/warriors-erin-hunter/1020694461?ean=9780061957055",
+        "name": "PO3_EN-paperback-boxset",
+        "title": "Warriors: Power of Three Box Set: Volumes 1 to 6"
+      }
+    },
+    {
+      "mediaType": "平装套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Power of Three",
+      "isbn": "978-0062367167",
+      "coverImg": {
+        "file": "PO3 boxset 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-06-30",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-Box-Volumes/dp/0062367161/",
+        "name": "PO3_EN2-paperback-boxset",
+        "title": "Warriors: Power of Three Box Set: Volumes 1 to 6 Paperback – June 30, 2015"
+      }
+    },
+    {
+      "mediaType": "电子套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Power of Three",
+      "pubDate": "2015-06-30",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-6-Book/dp/B017B5U9UC/",
+        "name": "PO3_EN2-ebook-boxset",
+        "title": "Warriors: Power of Three (6 Book Series) Kindle Edition"
+      }
+    }
+  ],
+  "Path of Stars": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Path of Stars",
+      "isbn": "978-0062063663",
+      "coverImg": {
+        "file": "DOTC 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-09-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Path-Stars/dp/0062063669/",
+        "name": "DOTC6_US-hardcover",
+        "title": "Warriors: Dawn of the Clans #6: Path of Stars Hardcover – September 1, 2015"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Path of Stars",
+      "isbn": "978-0062063670",
+      "pubDate": "2015-09-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Path-Stars/dp/0062063677/",
+        "name": "DOTC6_US-libraryBinding",
+        "title": "Warriors: Dawn of the Clans #6: Path of Stars Library Binding – September 1, 2015"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Path of Stars",
+      "pubDate": "2015-09-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Path-Stars-ebook/dp/B00QQL2XVG/",
+        "name": "DOTC6_US-ebook",
+        "title": "Warriors: Dawn of the Clans #6: Path of Stars Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Path of Stars",
+      "isbn": "978-0062410047",
+      "coverImg": {
+        "file": "DOTC 6 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-09-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Path-Stars/dp/0062410040/",
+        "name": "DOTC6_US2-paperback",
+        "title": "Warriors: Dawn of the Clans #6: Path of Stars Paperback – September 6, 2016"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    }
+  ],
+  "Tigerheart's Shadow": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Tigerheart's Shadow",
+      "isbn": "978-0062467720",
+      "coverImg": {
+        "file": "SE 10 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2017-09-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Tigerhearts-Erin-Hunter/dp/0062467727/",
+        "name": "SE10_US-hardcover",
+        "title": "Warriors Super Edition: Tigerheart's Shadow Hardcover – September 5, 2017"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Tigerheart's Shadow",
+      "isbn": "978-0062467737",
+      "pubDate": "2017-09-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Tigerhearts-Erin-Hunter/dp/0062467735/",
+        "name": "SE10_US-libraryBinding",
+        "title": "Warriors Super Edition: Tigerheart's Shadow Library Binding – September 5, 2017"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Tigerheart's Shadow",
+      "pubDate": "2017-09-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Tigerhearts-Erin-Hunter-ebook/dp/B01N9J89J7/",
+        "name": "SE10_US-ebook",
+        "title": "Warriors Super Edition: Tigerheart's Shadow Kindle Edition"
+      }
+    }
+  ],
+  "Ravenpaw's Path": [
+    {
+      "mediaType": "平装书；合集",
+      "publisher": "HarperCollins",
+      "title": "Ravenpaw's Path",
+      "isbn": "9780062748249",
+      "pubDate": "2018-06-26",
+      "ref": {
+        "work": "HarperCollins",
+        "url": "https://www.harpercollins.com/9780062748249/warriors-ravenpaws-path",
+        "name": "MangaC2_US-paperback",
+        "title": "Warriors: Ravenpaw's Path"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书；合集",
+      "publisher": "HarperCollins",
+      "title": "Ravenpaw's Path",
+      "pubDate": "2018-06-26",
+      "ref": {
+        "work": "HarperCollins",
+        "url": "https://www.harpercollins.com/9780062748256/warriors-ravenpaws-path",
+        "name": "MangaC2_US-ebook",
+        "title": "Warriors: Ravenpaw's Path"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "The Ultimate Guide": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Ultimate Guide",
+      "isbn": "978-0062245335",
+      "coverImg": {
+        "file": "Guide 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2013-11-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ultimate-Guide-Field/dp/0062245333/",
+        "name": "Guide6_US-hardcover",
+        "title": "Warriors: The Ultimate Guide (Warriors Field Guide) Hardcover – Unabridged, November 5, 2013"
+      },
+      "illustrator": "Wayne McLoughlin"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Ultimate Guide",
+      "pubDate": "2013-11-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ultimate-Guide-Field-ebook/dp/B00BATKYRE/",
+        "name": "Guide6_US-ebook",
+        "title": "Warriors: The Ultimate Guide (Warriors Field Guide) Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin"
+    }
+  ],
+  "Twilight": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Twilight",
+      "isbn": "978-0060827649",
+      "coverImg": {
+        "file": "NP 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2006-08-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Twilight-Warriors-New-Prophecy-Book/dp/0060827645/",
+        "name": "NP5_EN-hardcover",
+        "title": "Twilight (Warriors: The New Prophecy, Book 5) Hardcover – August 22, 2006"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Twilight",
+      "isbn": "978-1417808199",
+      "pubDate": "2006-08-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Twilight-Turtleback-Library-Binding-Warriors/dp/1417808195/",
+        "name": "NP5_EN-libraryBinding",
+        "title": "Twilight (Turtleback School & Library Binding Edition) (Warriors: The New Prophecy) Library Binding – August 1, 2007"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Twilight",
+      "isbn": "978-0060827649",
+      "pubDate": "2007-07-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Twilight-Warriors-New-Prophecy-Book/dp/006082767X/",
+        "name": "NP5_EN-paperback",
+        "title": "Twilight (Warriors: The New Prophecy, Book 5) Paperback – July 3, 2007"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Twilight",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/TWILIGHT-Warriors-New-Prophecy-Book-ebook/dp/B00FOO9RCY/",
+        "name": "NP5_EN-ebook",
+        "title": "TWILIGHT (Warriors: The New Prophecy, Book 5) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2006-11-22",
+      "publisher": "HarperAudio",
+      "title": "Twilight",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Twilight-Warriors-New-Prophecy-5/dp/B000KWZ6MA/",
+        "name": "NP5_EN-audiobook",
+        "title": "Twilight: Warriors - The New Prophecy 5   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "NP 5 cover a.jpg",
+        "title": "英语",
+        "area": "北美"
+      },
+      "narrator": "Nanette Savard"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Twilight",
+      "isbn": "978-0062367068",
+      "coverImg": {
+        "file": "NP 5 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-5-Twilight/dp/0062367064/",
+        "name": "NP5_EN2-paperback",
+        "title": "Warriors: The New Prophecy #5: Twilight Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Twilight",
+      "isbn": "978-0007419265",
+      "coverImg": {
+        "file": "NP 5 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2011-09-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/TWILIGHT-Warriors-New-Prophecy-Book/dp/0007419260/",
+        "name": "NP5_EN_UK-paperback",
+        "title": "TWILIGHT (Warriors: The New Prophecy, Book 5) Paperback – 1 Sep 2011"
+      }
+    }
+  ],
+  "After the Flood": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "After the Flood",
+      "isbn": "978-0606235976",
+      "coverImg": {
+        "file": "Manga 13 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2012-04-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-SkyClan-Stranger-After-Flood/dp/0062008382/",
+        "name": "Manga13_US-paperback",
+        "title": "Warriors: SkyClan and the Stranger #3: After the Flood Paperback – April 3, 2012"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "After the Flood",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-SkyClan-Stranger-After-Flood-ebook/dp/B01765NBKC/",
+        "name": "Manga13_US-ebook",
+        "title": "Warriors: SkyClan and the Stranger #3: After the Flood (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Warrior's Return": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Warrior's Return",
+      "isbn": "978-0061252334",
+      "coverImg": {
+        "file": "Manga 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-04-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Return-Erin-Hunter/dp/0061252336/",
+        "name": "Manga3_US-paperback",
+        "title": "Warriors: Warrior's Return Paperback – April 22, 2008"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Warrior's Return",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Return-Manga-ebook/dp/B01767Z3BK/",
+        "name": "Manga3_US-ebook",
+        "title": "Warriors: Warrior's Refuge (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "The Sight": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Sight",
+      "isbn": "978-0060892012",
+      "coverImg": {
+        "file": "PO3 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2007-04-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sight-Warriors-Power-Three-Book/dp/0060892013/",
+        "name": "PO31_EN-hardcover",
+        "title": "The Sight (Warriors: Power of Three, Book 1) Hardcover – April 24, 2007"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The Sight",
+      "isbn": "978-0060892036",
+      "pubDate": "2007-04-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-1-Sight/dp/006089203X/",
+        "name": "PO31_N-libraryBinding",
+        "title": "Warriors: Power of Three #1: The Sight Library Binding – April 24, 2007"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Sight",
+      "isbn": "978-0060892043",
+      "pubDate": "2008-03-11",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sight-Warriors-Power-Three-Book/dp/0060892048/",
+        "name": "PO31_EN-paperback",
+        "title": "The Sight (Warriors: Power of Three, Book 1) Paperback – March 11, 2008"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Sight",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-1-Sight-ebook/dp/B000SEGK3Y/",
+        "name": "PO31_EN-ebook",
+        "title": "Warriors: Power of Three #1: The Sight Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Sight",
+      "isbn": "978-0062367082",
+      "coverImg": {
+        "file": "PO3 1 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-06-30",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-1-Sight/dp/0062367080/",
+        "name": "PO31_EN2-paperback",
+        "title": "Warriors: Power of Three #1: The Sight Paperback – June 30, 2015"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "Harper Trophy",
+      "title": "The Sight",
+      "isbn": "978-0060892043",
+      "coverImg": {
+        "file": "PO3 1 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2008-03-11",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/SIGHT-Hunter-Author-Paperback-11-Mar-2008/dp/B005HNBIP6/",
+        "name": "PO31_EN_UK-paperback",
+        "title": "THE SIGHT By Hunter, Erin (Author) Paperback on 11-Mar-2008 Paperback – 11 Mar 2008"
+      }
+    }
+  ],
+  "The Rise of Scourge": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Rise of Scourge",
+      "isbn": "978-0061478673",
+      "coverImg": {
+        "file": "Manga 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-06-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Rise-Scourge-Erin-Hunter/dp/0061478679/",
+        "name": "Manga4_US-paperback",
+        "title": "Warriors: The Rise of Scourge Paperback – June 24, 2008"
+      },
+      "illustrator": "Bettina M. Kurkoski"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "The Rise of Scourge",
+      "isbn": "978-1439582343",
+      "pubDate": "2009-04-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Rise-Scourge-Erin-Hunter/dp/1439582343/",
+        "name": "Manga4_US-libraryBinding",
+        "title": "Warriors, the Rise of Scourge Library Binding – April 9, 2009"
+      },
+      "illustrator": "Bettina M. Kurkoski"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Rise of Scourge",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Rise-Scourge-Manga-ebook/dp/B01767Z2CU/",
+        "name": "Manga4_US-ebook",
+        "title": "Warriors: The Rise of Scourge (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "Bettina M. Kurkoski"
+    }
+  ],
+  "Legends of the Clans": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Legends of the Clans",
+      "pubDate": "2017-04-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Legends-Clans-Novella-ebook/dp/B01IMYMFH6/",
+        "name": "NovC4_US-ebook",
+        "title": "Warriors: Legends of the Clans (Warriors Novella) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Legends of the Clans",
+      "isbn": "978-0062560872",
+      "coverImg": {
+        "file": "NovC 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2017-04-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Legends-Clans-Novella/dp/0062560875/",
+        "name": "NovC4_US-paperback",
+        "title": "Warriors: Legends of the Clans (Warriors Novella) Paperback – April 11, 2017"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Legends of the Clans",
+      "isbn": "978-0606396424",
+      "pubDate": "2017-05-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Legends-Turtleback-Library-Binding-Warriors/dp/060639642X/",
+        "name": "NovC4_US-libraryBinding",
+        "title": "TLegends Of The Clans (Turtleback School & Library Binding Edition) (Warriors Novella) Library Binding – May 2, 2017"
+      }
+    }
+  ],
+  "Spottedleaf's Heart": [],
+  "Thunderstar's Echo": [],
+  "Yellowfang's Secret": [
+    {
+      "mediaType": "精装书",
+      "isbn": "978-0062082145",
+      "pubDate": "2012-10-09",
+      "illustrator": "James L. Barry",
+      "publisher": "HarperCollins",
+      "title": "Yellowfang's Secret",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Yellowfangs-Erin-Hunter/dp/0062082140/",
+        "name": "SE5_US-hardcover",
+        "title": "Warriors Super Edition: Yellowfang's Secret Hardcover – October 9, 2012"
+      },
+      "insidecoverImg": { "file": "SE 5 insidecover.jpg" },
+      "coverImg": {
+        "file": "SE 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Yellowfang's Secret",
+      "isbn": "978-0062082152",
+      "pubDate": "2012-10-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Yellowfangs-Erin-Hunter/dp/0062082159/",
+        "name": "SE5_US-libraryBinding",
+        "title": "Warriors Super Edition: Yellowfang's Secret Library Binding – October 9, 2012"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Yellowfang's Secret",
+      "pubDate": "2012-10-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Yellowfangs-Erin-Hunter-ebook/dp/B008CH22MW/",
+        "name": "SE5_US-ebook",
+        "title": "Warriors Super Edition: Yellowfang's Secret Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Yellowfang's Secret",
+      "isbn": "978-0062082169",
+      "pubDate": "2014-08-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Yellowfangs-Erin-Hunter/dp/0062082167/",
+        "name": "SE5_US-paperback",
+        "title": "Warriors Super Edition: Yellowfang's Secret Paperback – April 8, 2014"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Dawn of the Clans": [
+    {
+      "mediaType": "平装套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Dawn of the Clans",
+      "isbn": "978-0062410078",
+      "coverImg": {
+        "file": "DOTC boxset.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-09-20",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Box-Volumes/dp/0062410075/",
+        "name": "DOTC_EN-paperback-boxset",
+        "title": "Warriors: Dawn of the Clans Box Set: Volumes 1 to 6 Paperback – September 20, 2016"
+      }
+    }
+  ],
+  "The Last Hope": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Last Hope",
+      "isbn": "978-0061555275",
+      "coverImg": {
+        "file": "OOTS 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2012-04-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Last-Hope-Warriors-Omen-Stars/dp/0061555274/",
+        "name": "OOTS6_EN-hardcover",
+        "title": "The Last Hope (Warriors: Omen of the Stars No. 6) Hardcover – April 3, 2012"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The Last Hope",
+      "isbn": "978-0061555282",
+      "pubDate": "2012-04-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Last-Hope/dp/0061555282/",
+        "name": "OOTS6_N-libraryBinding",
+        "title": "Warriors: Omen of the Stars #6: The Last Hope Library Binding – April 3, 2012"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Last Hope",
+      "isbn": "978-0061555299",
+      "pubDate": "2012-12-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Last-Hope/dp/0061555290/",
+        "name": "OOTS6_EN-paperback",
+        "title": "Warriors: Omen of the Stars #6: The Last Hope Paperback – April 2, 2013"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Last Hope",
+      "pubDate": "2012-04-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Last-Hope-ebook/dp/B005WJ2DAY/",
+        "name": "OOTS6_EN-ebook",
+        "title": "Warriors: Omen of the Stars #6: The Last Hope Kindle Edition"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Last Hope",
+      "isbn": "978-0062382634",
+      "coverImg": {
+        "file": "OOTS 6 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Last-Hope/dp/0062382632/",
+        "name": "OOTS6_EN2-paperback",
+        "title": "Warriors: Omen of the Stars #6: The Last Hope Paperback – November 3, 2015"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    }
+  ],
+  "The Forgotten Warrior": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Forgotten Warrior",
+      "isbn": "978-0061555220",
+      "coverImg": {
+        "file": "OOTS 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2011-11-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Forgotten-Warrior-Warriors-Omen-Stars/dp/0061555223/",
+        "name": "OOTS5_EN-hardcover",
+        "title": "The Forgotten Warrior: Warriors- Omen of the Stars, No. 5 Hardcover – November 22, 2011"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The Forgotten Warrior",
+      "isbn": "978-0061555244",
+      "pubDate": "2011-11-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Forgotten-Warrior/dp/006155524X/",
+        "name": "OOTS5_N-libraryBinding",
+        "title": "Warriors: Omen of the Stars #5: The Forgotten Warrior Library Binding – November 22, 2011"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Forgotten Warrior",
+      "isbn": "978-0061555268",
+      "pubDate": "2012-12-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Sign-Moon/dp/0061555215/",
+        "name": "OOTS5_EN-paperback",
+        "title": "Warriors: Omen of the Stars #5: The Forgotten Warrior Paperback – December 26, 2012"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Forgotten Warrior",
+      "pubDate": "2011-11-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Forgotten-Warrior-ebook/dp/B0053K3M8E/",
+        "name": "OOTS5_EN-ebook",
+        "title": "Warriors: Omen of the Stars #5: The Forgotten Warrior Kindle Edition"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Forgotten Warrior",
+      "isbn": "978-0062382627",
+      "coverImg": {
+        "file": "OOTS 5 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Forgotten-Warrior/dp/0062382624/",
+        "name": "OOTS5_EN2-paperback",
+        "title": "Warriors: Omen of the Stars #5: The Forgotten Warrior Paperback – November 3, 2015"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    }
+  ],
+  "Hollyleaf's Story": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Hollyleaf's Story",
+      "coverImg": {
+        "file": "Nov 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2012-03-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Hollyleafs-Story-Erin-Hunter-ebook/dp/B005O079FA/",
+        "name": "Nov1_US-ebook",
+        "title": "Warriors: Hollyleaf's Story Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin"
+    }
+  ],
+  "Return to the Clans": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Return to the Clans",
+      "isbn": "978-0061547942",
+      "coverImg": {
+        "file": "Manga 7 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2009-06-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tigerstar-Sasha-Return-Clans/dp/0061547948/",
+        "name": "Manga7_US-paperback",
+        "title": "Warriors: Tigerstar and Sasha #3: Return to the Clans (Warriors Manga) Paperback – June 9, 2009"
+      },
+      "illustrator": "Don Hudson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Return to the Clans",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tigerstar-Sasha-Return-Clans-ebook/dp/B01767Z2FW/",
+        "name": "Manga7_US-ebook",
+        "title": "Warriors: Tigerstar and Sasha #3: Return to the Clans (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "Don Hudson"
+    }
+  ],
+  "Shattered Peace": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Shattered Peace",
+      "isbn": "978-0061688652",
+      "coverImg": {
+        "file": "Manga 8 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2009-11-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Path-Shattered-Peace/dp/0061688657/",
+        "name": "Manga8_US-paperback",
+        "title": "Warriors: Ravenpaw's Path #1: Shattered Peace Paperback – November 24, 2009"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Shattered Peace",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Shattered-Peace-Manga-ebook/dp/B01767Z1NA/",
+        "name": "Manga8_US-ebook",
+        "title": "Warriors: Ravenpaw's Path #1: Shattered Peace (Warriors Manga - Ravenpaw's Path) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Ravenpaw's Farewell": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Ravenpaw's Farewell",
+      "pubDate": "2016-1-26",
+      "ref": "http://www.harpercollins.com/9780062343314/warriors-ravenpaws-farewell"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Ravenpaw's Farewell",
+      "coverImg": {
+        "file": "Nov 9 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-01-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Farewell-Novella-ebook/dp/B00X3MTBDY/",
+        "name": "Nov9_US-ebook",
+        "title": "Warriors: Ravenpaw's Farewell (Warriors Novella) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Ravenpaw's Farewell",
+      "isbn": "978-1534746015",
+      "pubDate": "2016-06-18",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Farewell-Erin-Hunter/dp/1534746013/",
+        "name": "Nov9_US-paperback",
+        "title": "Warriors: Ravenpaw's Farewell Paperback – June 18, 2016"
+      }
+    }
+  ],
+  "Long Shadows": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Long Shadows",
+      "isbn": "978-0060892142",
+      "coverImg": {
+        "file": "PO3 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-11-25",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-Long-Shadows/dp/0060892145/",
+        "name": "PO35_EN-hardcover",
+        "title": "Warriors: Power of Three #5: Long Shadows Hardcover – November 25, 2008"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Long Shadows",
+      "isbn": "978-0060892180",
+      "pubDate": "2010-01-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Shadows-Turtleback-Library-Binding-Warriors/dp/0606096922/",
+        "name": "PO35_N-libraryBinding",
+        "title": "Long Shadows (Turtleback School & Library Binding Edition) (Warriors: Power of Three) Library Binding – January 1, 2010"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Long Shadows",
+      "isbn": "978-0060892166",
+      "pubDate": "2009-12-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-Long-Shadows/dp/0060892145/",
+        "name": "PO35_EN-paperback",
+        "title": "Long Shadows (Warriors, Power of Three, Book 5) Paperback – December 22, 2009"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Long Shadows",
+      "pubDate": "2009-10-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-Long-Shadows-ebook/dp/B001BAGWLE/",
+        "name": "PO35_EN-ebook",
+        "title": "Warriors: Power of Three #5: Long Shadows Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Long Shadows",
+      "isbn": "978-0062367129",
+      "coverImg": {
+        "file": "PO3 5 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-06-30",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-Long-Shadows/dp/0062367129/",
+        "name": "PO35_EN2-paperback",
+        "title": "Warriors: Power of Three #5: Long Shadows Paperback – June 30, 2015"
+      }
+    }
+  ],
+  "Into the Woods": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Into the Woods",
+      "isbn": "978-0061547928",
+      "coverImg": {
+        "file": "Manga 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-09-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tigerstar-Sasha-Into-Woods/dp/0061547921/",
+        "name": "Manga5_US-paperback",
+        "title": "Warriors: Tigerstar and Sasha #1: Into the Woods Paperback – September 2, 2008"
+      },
+      "illustrator": "Don Hudson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Into the Woods",
+      "isbn": "978-1417829330",
+      "pubDate": "2008-09-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Turtleback-School-Library-Binding-Warriors/dp/1417829338/",
+        "name": "Manga5_US-libraryBinding",
+        "title": "Into The Woods (Turtleback School & Library Binding Edition) (Warriors: Tigerstar & Sasha) Library Binding – September 2, 2008"
+      },
+      "illustrator": "Don Hudson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Into the Woods",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tigerstar-Sasha-Woods-Manga-ebook/dp/B01767Z2D4/",
+        "name": "Manga5_US-ebook",
+        "title": "Warriors: Tigerstar and Sasha #1: Into the Woods (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "Don Hudson"
+    }
+  ],
+  "The Heart of a Warrior": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "A Heart of a Warrior",
+      "isbn": "978-0061688676",
+      "coverImg": {
+        "file": "Manga 10 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2010-08-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Heart-Warrior-Manga/dp/0061688673/",
+        "name": "Manga10_US-paperback",
+        "title": "Warriors: Ravenpaw's Path #3: The Heart of a Warrior (Warriors Manga) Paperback – August 3, 2010"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "A Heart of a Warrior",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Heart-Warrior-Manga-ebook/dp/B01767Z1MQ/",
+        "name": "Manga10_US-ebook",
+        "title": "Warriors: Ravenpaw's Path #3: The Heart of a Warrior (Warriors Manga - Ravenpaw's Path) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Outcast": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Outcast",
+      "isbn": "978-0060892081",
+      "coverImg": {
+        "file": "PO3 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-4-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Outcast-Warriors-Power-Three-Book/dp/0060892080/",
+        "name": "PO33_EN-hardcover",
+        "title": "Outcast (Warriors: Power of Three, Book 3) Hardcover – April 22, 2008"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Outcast",
+      "isbn": "978-0060892098",
+      "pubDate": "2008-4-22",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-3-Outcast/dp/0060892099/",
+        "name": "PO33_N-libraryBinding",
+        "title": "Warriors: Power of Three #3: Outcast Library Binding – April 22, 2008"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Outcast",
+      "isbn": "978-0060892104",
+      "pubDate": "2009-03-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-3-Outcast/dp/0060892102/",
+        "name": "PO33_EN-paperback",
+        "title": "Warriors: Power of Three #3: Outcast Paperback – March 24, 2009"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Outcast",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-3-Outcast-ebook/dp/B0010SENU4/",
+        "name": "PO33_EN-ebook",
+        "title": "Warriors: Power of Three #3: Outcast Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Outcast",
+      "isbn": "978-0062367105",
+      "coverImg": {
+        "file": "PO3 3 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-06-30",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-3-Outcast/dp/0062367102/",
+        "name": "PO33_EN2-paperback",
+        "title": "Warriors: Power of Three #3: Outcast Paperback – June 30, 2015"
+      }
+    }
+  ],
+  "Tigerclaw's Fury": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Tigerclaw's Fury",
+      "coverImg": {
+        "file": "Nov 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2014-01-28",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tigerclaws-Fury-Erin-Hunter-ebook/dp/B00DB3D6EK/",
+        "name": "Nov4_US-ebook",
+        "title": "Warriors: Tigerclaw's Fury Kindle Edition"
+      }
+    }
+  ],
+  "Dovewing's Silence": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Dovewing's Silence",
+      "coverImg": {
+        "file": "Nov 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2014-11-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dovewings-Silence-Novella-ebook/dp/B00ICMX1LI/",
+        "name": "Nov6_US-ebook",
+        "title": "Warriors: Dovewing's Silence (Warriors Novella) Kindle Edition"
+      }
+    }
+  ],
+  "The Raging Storm": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Raging Storm",
+      "pubDate": "2018-11-06",
+      "ref": {
+        "work": "BookShout",
+        "url": "https://www.bookshout.com/ebooks/warriors-a-vision-of-shadows-6",
+        "name": "VOS6_US-ebook",
+        "title": "Warriors: A Vision of Shadows #6: The Raging Storm (eBook)"
+      }
+    }
+  ],
+  "Moth Flight's Vision": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Moth Flight's Vision",
+      "isbn": "978-0062291479",
+      "coverImg": {
+        "file": "SE 8 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Moth-Flights-Vision/dp/0062291475/",
+        "name": "SE8_US-hardcover",
+        "title": "Warriors Super Edition: Moth Flight's Vision Hardcover – November 3, 2015"
+      },
+      "illustrator": "James L. Barry, Owen Richardson"
+    },
+    {
+      "pubDate": "~2015-03-05",
+      "draftcoverImg": {
+        "title": "英文",
+        "file": "SE 8 cover draft.jpg"
+      },
+      "ref": {
+        "work": "wikia.de",
+        "url": "http://de.warrior-cats.wikia.com/wiki/Datei:Moth_Flights_Vision_EN2.jpg",
+        "name": "SE8_US-design",
+        "title": "Moth Flights Vision EN2.jpg"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Moth Flight's Vision",
+      "isbn": "978-0062291486",
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Moth-Flights-Vision/dp/0062291483/",
+        "name": "SE8_US-libraryBinding",
+        "title": "Warriors Super Edition: Moth Flight's Vision Library Binding – November 3, 2015"
+      },
+      "illustrator": "James L. Barry, Owen Richardson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Moth Flight's Vision",
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Moth-Flights-Vision-ebook/dp/B00TE8NVQE/",
+        "name": "SE8_US-ebook",
+        "title": "Warriors Super Edition: Moth Flight's Vision Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Moth Flight's Vision",
+      "isbn": "978-0062291493",
+      "pubDate": "2016-11-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Moth-Flights-Vision/dp/0062291491/",
+        "name": "SE8_US-paperback",
+        "title": "Warriors Super Edition: Moth Flight's Vision Paperback – November 1, 2016"
+      },
+      "illustrator": "James L. Barry, Owen Richardson"
+    }
+  ],
+  "Night Whispers": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Night Whispers",
+      "isbn": "978-0061555152",
+      "coverImg": {
+        "file": "OOTS 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2010-11-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Night-Whispers/dp/0061555150/",
+        "name": "OOTS3_EN-hardcover",
+        "title": "Warriors: Omen of the Stars #3: Night Whispers Hardcover – November 23, 2010"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Night Whispers",
+      "isbn": "978-0061555169",
+      "pubDate": "2010-11-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Night-Whispers/dp/0061555169/",
+        "name": "OOTS3_N-libraryBinding",
+        "title": "Warriors: Omen of the Stars #3: Night Whispers Library Binding – November 23, 2010"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Night Whispers",
+      "isbn": "978-0061555176",
+      "pubDate": "2011-12-27",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Night-Whispers/dp/0061555177/",
+        "name": "OOTS3_EN-paperback",
+        "title": "Warriors: Omen of the Stars #3: Night Whispers Paperback – December 27, 2011"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Night Whispers",
+      "pubDate": "2010-11-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Night-Whispers-ebook/dp/B003VIWO7U/",
+        "name": "OOTS3_EN-ebook",
+        "title": "Warriors: Omen of the Stars #3: Night Whispers Kindle Edition"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2011-04-05",
+      "publisher": "HarperAudio",
+      "title": "Night Whispers",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Night-Whispers-Warriors-Omen-Stars/dp/B004DHX2Y2/",
+        "name": "OOTS3_EN-audiobook",
+        "title": "Night Whispers: Warriors: Omen of the Stars, Book 3   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "OOTS 3 cover a.jpg",
+        "title": "英语",
+        "area": "北美"
+      },
+      "narrator": "Kathleen McInerney"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Night Whispers",
+      "isbn": "978-0062382603",
+      "coverImg": {
+        "file": "OOTS 3 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Night-Whispers/dp/0062382608/",
+        "name": "OOTS3_EN2-paperback",
+        "title": "Warriors: Omen of the Stars #3: Night Whispers Paperback – November 3, 2015"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    }
+  ],
+  "Midnight": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Midnight",
+      "isbn": "978-0060744496",
+      "coverImg": {
+        "file": "NP 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2005-05-10",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Midnight-Warriors-New-Prophecy-Book/dp/0060744499/",
+        "name": "NP1_EN-hardcover",
+        "title": "Midnight (Warriors: The New Prophecy, Book 1) Hardcover – May 10, 2005"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Midnight",
+      "isbn": "978-0060744502",
+      "pubDate": "2005-05-10",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Midnight-Warriors-New-Prophecy-Book/dp/0060744502/",
+        "name": "NP1_EN-libraryBinding",
+        "title": "Midnight (Warriors: The New Prophecy, Book 1) Library Binding – May 10, 2005"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Midnight",
+      "isbn": "978-0060744519",
+      "pubDate": "2006-04-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Midnight-Warriors-New-Prophecy-Book/dp/0060744510/",
+        "name": "NP1_EN-paperback",
+        "title": "Midnight (Warriors: The New Prophecy, Book 1) Paperback – April 4, 2006"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Midnight",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-1-Midnight-ebook/dp/B000W916LG/",
+        "name": "NP1_EN-ebook",
+        "title": "Warriors: The New Prophecy #1: Midnight Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Midnight",
+      "isbn": "978-0062367020",
+      "coverImg": {
+        "file": "NP 1 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-1-Midnight/dp/0062367021/",
+        "name": "NP1_EN2-paperback",
+        "title": "Warriors: The New Prophecy #1: Midnight Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Midnight",
+      "isbn": "978-0007419227",
+      "coverImg": {
+        "file": "NP 1 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2011-04-28",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/MIDNIGHT-Warriors-New-Prophecy-Book/dp/0007419228/",
+        "name": "NP1_EN_UK-paperback",
+        "title": "MIDNIGHT (Warriors: The New Prophecy, Book 1) Paperback – 28 Apr 2011"
+      }
+    }
+  ],
+  "SkyClan's Destiny": [
+    {
+      "mediaType": "精装书",
+      "isbn": "978-0061699948",
+      "pubDate": "2010-08-03",
+      "illustrator": "Wayne McLoughlin",
+      "publisher": "HarperCollins",
+      "title": "SkyClan's Destiny",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-SkyClans-Erin-Hunter/dp/0061699942/",
+        "name": "SE3_US-hardcover",
+        "title": "Warriors Super Edition: SkyClan's Destiny Hardcover – August 3, 2010"
+      },
+      "insidecoverImg": { "file": "SE 3 insidecover.jpg" },
+      "coverImg": {
+        "file": "SE 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "SkyClan's Destiny",
+      "isbn": "978-0061699955",
+      "pubDate": "2010-08-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-SkyClans-Erin-Hunter/dp/0061699950/",
+        "name": "SE3_US-libraryBinding",
+        "title": "Warriors Super Edition: SkyClan's Destiny Library Binding – August 3, 2010"
+      },
+      "illustrator": "Wayne McLoughlin"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "SkyClan's Destiny",
+      "pubDate": "2010-08-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-SkyClans-Erin-Hunter-ebook/dp/B003VIWO8E/",
+        "name": "SE3_US-ebook",
+        "title": "Warriors Super Edition: SkyClan's Destiny Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "SkyClan's Destiny",
+      "isbn": "978-0061699962",
+      "pubDate": "2011-04-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/SkyClans-Destiny-Warriors-Super-Hunter/dp/0061699969/",
+        "name": "SE3_US-paperback",
+        "title": "SkyClan's Destiny (Warriors Super Edition) Paperback – April 26, 2011"
+      },
+      "illustrator": "Wayne McLoughlin"
+    }
+  ],
+  "Shadows of the Clans": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Shadows of the Clans",
+      "pubDate": "2016-01-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Shadows-Clans-Novella/dp/B01MSEKA2Q/",
+        "name": "NovC3_US-ebook",
+        "title": "Warriors: Shadows of the Clans (Warriors Novella) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Shadows of the Clans",
+      "isbn": "978-0062343321",
+      "coverImg": {
+        "file": "NovC 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-01-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Shadows-Clans-Novella/dp/0062343327/",
+        "name": "NovC3_US-paperback",
+        "title": "Warriors: Shadows of the Clans (Warriors Novella) Paperback – January 26, 2016"
+      }
+    }
+  ],
+  "The Fourth Apprentice": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Fourth Apprentice",
+      "isbn": "978-0061555091",
+      "coverImg": {
+        "file": "OOTS 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2009-11-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fourth-Apprentice/dp/0061555096/",
+        "name": "OOTS1_EN-hardcover",
+        "title": "Warriors: Omen of the Stars #1: The Fourth Apprentice Hardcover – November 24, 2009"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The Fourth Apprentice",
+      "isbn": "978-0061555107",
+      "pubDate": "2009-11-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fourth-Apprentice/dp/006155510X/",
+        "name": "OOTS1_N-libraryBinding",
+        "title": "Warriors: Omen of the Stars #1: The Fourth Apprentice Library Binding – November 24, 2009"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Fourth Apprentice",
+      "isbn": "978-0061555114",
+      "pubDate": "2010-12-21",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fourth-Apprentice/dp/0061555118/",
+        "name": "OOTS1_EN-paperback",
+        "title": "Warriors: Omen of the Stars #1: The Fourth Apprentice Paperback – December 21, 2010"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Fourth Apprentice",
+      "pubDate": "2009-11-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fourth-Apprentice-ebook/dp/B002VISNIU/",
+        "name": "OOTS1_EN-ebook",
+        "title": "Warriors: Omen of the Stars #1: The Fourth Apprentice Kindle Edition"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2009-11-24",
+      "publisher": "HarperAudio",
+      "title": "The Fourth Apprentice",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Fourth-Apprentice-Warriors-Omen-Stars/dp/B002YJZE5Q/",
+        "name": "OOTS1_EN-audiobook",
+        "title": "The Fourth Apprentice: Warriors: Omen of the Stars, Book 1   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "OOTS 1 cover a.jpg",
+        "title": "英语",
+        "area": "北美"
+      },
+      "narrator": "Kathleen McInerney"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Fourth Apprentice",
+      "isbn": "978-0062382573",
+      "coverImg": {
+        "file": "OOTS 1 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Fourth-Apprentice/dp/0062382578/",
+        "name": "OOTS1_EN2-paperback",
+        "title": "Warriors: Omen of the Stars #1: The Fourth Apprentice Paperback – November 3, 2015"
+      },
+      "illustrator": "Owen Richardson, Allen Douglas"
+    }
+  ],
+  "Rising Storm": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Rising Storm",
+      "isbn": "978-0060000059",
+      "coverImg": {
+        "file": "PB 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2004-01-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Rising-Storm-Warriors-Book-4/dp/0060000058/",
+        "name": "TPB4_EN-hardcover",
+        "title": "Rising Storm (Warriors, Book 4) Hardcover – January 6, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Rising Storm",
+      "isbn": "978-0060525620",
+      "pubDate": "2004-01-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Rising-Storm-Erin-Hunter/dp/0060525622/",
+        "name": "TPB4_US-libraryBinding",
+        "title": "Warriors #4: Rising Storm Library Binding – January 6, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Rising Storm",
+      "isbn": "978-0060525637",
+      "coverImg": {
+        "file": "PB 4 cover 3.jpg",
+        "title": "英文",
+        "area": "北美"
+      },
+      "pubDate": "2005-02-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Rising-Storm-Warriors-Book-4/dp/0060525630/",
+        "name": "TPB4_EN-paperback",
+        "title": "Rising Storm (Warriors, Book 4) Paperback – February 15, 2005"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Rising Storm",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Rising-Storm-Prophecies-Begin-ebook/dp/B000VYX8W2/",
+        "name": "TPB4_EN-ebook",
+        "title": "Warriors #4: Rising Storm (Warriors: The Prophecies Begin) Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Rising Storm",
+      "isbn": "978-0062366993",
+      "coverImg": {
+        "file": "PB 4 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-3-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Rising-Storm-Prophecies-Begin/dp/0062366998/",
+        "name": "TPB4_EN2-paperback",
+        "title": "Warriors #4: Rising Storm (Warriors: The Prophecies Begin) Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2017-10-10",
+      "publisher": "HarperAudio",
+      "title": "Rising Storm",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Rising-Storm-Warriors-Book-4/dp/B0735WSVHH/",
+        "name": "TPB4_EN-audiobook",
+        "title": "Rising Storm: Warriors, Book 4   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "PB 4 cover a.jpg",
+        "title": "英语",
+        "area": "北美&英国"
+      },
+      "narrator": "MacLeod Andrews"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Rising Storm",
+      "isbn": "978-0007140053",
+      "coverImg": {
+        "file": "PB 4 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2006-10-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/WARRIOR-CATS-4-RISING-STORM/dp/0007140053/",
+        "name": "TPB4_EN_UK-paperback",
+        "title": "Rising Storm (Warrior Cats) Paperback – October 2, 2006"
+      }
+    }
+  ],
+  "Mapleshade's Vengeance": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Mapleshade's Vengeance",
+      "coverImg": {
+        "file": "Nov 7 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Mapleshades-Vengeance-Novella-ebook/dp/B00LSRU7XE/",
+        "name": "Nov7_US-ebook",
+        "title": "Warriors: Mapleshade's Vengeance (Warriors Novella) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Mapleshade's Vengeance",
+      "isbn": "978-1534746091",
+      "pubDate": "2016-06-18",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Mapleshades-Vengeance-Novella/dp/1534746099/",
+        "name": "Nov7_US-paperback",
+        "title": "Warriors: Mapleshade's Vengeance (Warriors Novella) Paperback – June 18, 2016"
+      }
+    }
+  ],
+  "Moonrise": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Moonrise",
+      "isbn": "978-0060744526",
+      "coverImg": {
+        "file": "NP 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2005-08-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Moonrise-Warriors-New-Prophecy-Book/dp/0060744529/",
+        "name": "NP2_EN-hardcover",
+        "title": "Moonrise (Warriors: The New Prophecy, Book 2) Hardcover – August 2, 2005"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Moonrise",
+      "isbn": "978-0060744533",
+      "pubDate": "2005-08-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Moonrise-Warriors-New-Prophecy-Book/dp/0060744537/",
+        "name": "NP2_EN-libraryBinding",
+        "title": "Moonrise (Warriors: The New Prophecy, Book 2) Library Binding – August 2, 2005"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Moonrise",
+      "isbn": "978-0060744540",
+      "coverImg": {
+        "file": "NP 2 cover en-us.jpg",
+        "title": "英文",
+        "area": "北美"
+      },
+      "pubDate": "2006-07-25",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Moonrise-Warriors-New-Prophecy-Book/dp/0060744545/",
+        "name": "NP2_EN_US-paperback",
+        "title": "Moonrise (Warriors: The New Prophecy, Book 2) Paperback – July 25, 2006"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Moonrise",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-2-Moonrise-ebook/dp/B000W966PM/",
+        "name": "NP2_EN-ebook",
+        "title": "Warriors: The New Prophecy #2: Moonrise Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Moonrise",
+      "isbn": "978-0062367037",
+      "coverImg": {
+        "file": "NP 2 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-2-Moonrise/dp/006236703X/",
+        "name": "NP2_EN2-paperback",
+        "title": "Warriors: The New Prophecy #2: Moonrise Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Moonrise",
+      "isbn": "978-0007419234",
+      "coverImg": {
+        "file": "NP 2 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2011-06-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/d/cka/MOONRISE-Warriors-New-Prophecy-Book-Erin-Hunter/0007419236/",
+        "name": "NP2_EN_UK-paperback",
+        "title": "MOONRISE (Warriors: The New Prophecy, Book 2) Paperback – 9 Jun 2011"
+      }
+    }
+  ],
+  "A Forest Divided": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "A Forest Divided",
+      "isbn": "978-0062063625",
+      "coverImg": {
+        "file": "DOTC 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-04-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Forest-Divided/dp/0062063626/",
+        "name": "DOTC5_US-hardcover",
+        "title": "Warriors: Dawn of the Clans #5: A Forest Divided Hardcover – April 7, 2015"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "A Forest Divided",
+      "isbn": "978-0062063632",
+      "pubDate": "2015-04-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Forest-Divided/dp/0062063634/",
+        "name": "DOTC5_US-libraryBinding",
+        "title": "Warriors: Dawn of the Clans #5: A Forest Divided Library Binding – April 7, 2015"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "A Forest Divided",
+      "pubDate": "2015-04-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Forest-Divided-ebook/dp/B00LSQSIRW/",
+        "name": "DOTC5_US-ebook",
+        "title": "Warriors: Dawn of the Clans #5: A Forest Divided Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "A Forest Divided",
+      "isbn": "978-0062410054",
+      "coverImg": {
+        "file": "DOTC 5 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Forest-Divided/dp/0062410059/",
+        "name": "DOTC5_US2-paperback",
+        "title": "Warriors: Dawn of the Clans #5: A Forest Divided Paperback – March 15, 2016"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    }
+  ],
+  "Forest of Secrets": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Forest of Secrets",
+      "isbn": "978-0060000042",
+      "coverImg": {
+        "file": "PB 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2003-10-14",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Forest-Secrets-Prophecies-Begin/dp/006000004X/",
+        "name": "TPB3_EN-hardcover",
+        "title": "Warriors #3: Forest of Secrets (Warriors: The Prophecies Begin) Hardcover – October 14, 2003"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Forest of Secrets",
+      "isbn": "978-0060525606",
+      "pubDate": "2003-10-14",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Forest-Secrets-Erin-Hunter/dp/0060525606/",
+        "name": "TPB3_US-libraryBinding",
+        "title": "Warriors #3: Forest of Secrets (Warriors (Erin Hunter)) Library Binding – October 14, 2003"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Forest of Secrets",
+      "isbn": "978-0060525613",
+      "pubDate": "2004-10-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "http://www.amazon.com/Forest-Secrets-Warriors-Book-3/dp/0060525614/",
+        "name": "TPB3_EN-paperback",
+        "title": "Forest of Secrets (Warriors, Book 3) Paperback – October 5, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Forest of Secrets",
+      "pubDate": "2009-09-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Forest-Secrets-Prophecies-Begin-ebook/dp/B000VYX8MC/",
+        "name": "TPB3_EN-ebook",
+        "title": "Warriors #3: Forest of Secrets (Warriors: The Prophecies Begin) Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Forest of Secrets",
+      "isbn": "978-0062366986",
+      "coverImg": {
+        "file": "PB 3 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Forest-Secrets-Prophecies-Begin/dp/006236698X/",
+        "name": "TPB3_EN2-paperback",
+        "title": "Warriors #3: Forest of Secrets (Warriors: The Prophecies Begin) Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2017-10-10",
+      "publisher": "HarperAudio",
+      "title": "Forest of Secrets",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Forest-Secrets-Warriors-Book-3/dp/B0735VQ5TY/",
+        "name": "TPB3_EN-audiobook",
+        "title": "Forest of Secrets: Warriors, Book 3   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "PB 3 cover a.jpg",
+        "title": "英语",
+        "area": "北美&英国"
+      },
+      "narrator": "MacLeod Andrews"
+    },
+    //{
+    //  "publisher": "哈珀柯林斯儿童出版社",
+    //  "title": "Forest of Secrets",
+    //  "isbn": "978-0007140046",
+    //  "pubDate": "2006-04-03",
+    //  "coverImg": {
+    //    "file": "PB 3 cover en-uk.jpg",
+    //    "title": "英文",
+    //    "area": "英国"
+    //  },
+    //  "ref": {
+    //    "work": "OpenLibrary",
+    //    "url": "https://openlibrary.org/books/OL7262119M/Forest_of_Secrets_(Warrior_Cats)",
+    //    "name": "TPB3_EN_UK-paperback",
+    //    "title": "Forest of Secrets (Warrior Cats) "
+    //  }
+    //},
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Forest of Secrets",
+      "isbn": "978-0007140046",
+      "coverImg": {
+        "file": "PB 3 cover en-uk 2.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2006-04-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Forest-Secrets-Warrior-Cats-Hunter/dp/0007140045/",
+        "name": "TPB3_EN_UK2-paperback",
+        "title": "Forest of Secrets (Warrior Cats) Paperback – April 3, 2006"
+      }
+    }
+  ],
+  "Cloudstar's Journey": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Cloudstar's Journey",
+      "coverImg": {
+        "file": "Nov 3 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2013-01-29",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Cloudstars-Journey-Erin-Hunter-ebook/dp/B0089LOFL2/",
+        "name": "Nov3_US-ebook",
+        "title": "Warriors: Cloudstar's Journey Kindle Edition"
+      }
+    }
+  ],
+  "The Apprentice's Quest": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Apprentice's Quest",
+      "isbn": "978-0062386373",
+      "coverImg": {
+        "file": "VOS 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Apprentices-Quest/dp/0062386379/",
+        "name": "VOS1_US-hardcover",
+        "title": "Warriors: A Vision of Shadows #1: The Apprentice's Quest Hardcover – March 15, 2016"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Apprentice's Quest",
+      "isbn": "978-0062386397",
+      "pubDate": "2017-04-11",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Apprentices-Quest/dp/0062386395/",
+        "name": "VOS1_US-paperback",
+        "title": "Warriors: A Vision of Shadows #1: The Apprentice's Quest Paperback – April 11, 2017"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The Apprentice's Quest",
+      "isbn": "978-0062386380",
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Apprentices-Quest/dp/0062386387/",
+        "name": "VOS1_US-libraryBinding",
+        "title": "Warriors: A Vision of Shadows #1: The Apprentice's Quest Library Binding – March 15, 2016"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Apprentice's Quest",
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Apprentices-Quest-ebook/dp/B0105V61JC/",
+        "name": "VOS1_US-ebook",
+        "title": "Warriors: A Vision of Shadows #1: The Apprentice's Quest Kindle Edition"
+      }
+    }
+  ],
+  "A Dangerous Path": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "A Dangerous Path",
+      "isbn": "978-1417735570",
+      "coverImg": {
+        "file": "PB 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2004-06-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Dangerous-Path-Warriors-Book/dp/0060000066/",
+        "name": "TPB5_EN-hardcover",
+        "title": "A Dangerous Path (Warriors, Book 5) Hardcover – June 1, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "A Dangerous Path",
+      "isbn": "978-0060525644",
+      "pubDate": "2004-06-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-5-Dangerous-Erin-Hunter/dp/0060525649/",
+        "name": "TPB5_EN-libraryBinding",
+        "title": "Warriors #5: A Dangerous Path Library Binding – June 1, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "A Dangerous Path",
+      "isbn": "978-0060525651",
+      "pubDate": "2005-05-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "http://www.amazon.com/Dangerous-Path-Warriors-5/dp/0060525657/",
+        "name": "TPB5_EN-paperback",
+        "title": "A Dangerous Path (Warriors #5) Paperback – May 24, 2005"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "A Dangerous Path",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dangerous-Path-Prophecies-Begin-ebook/dp/B000VYX8VS/",
+        "name": "TPB5_EN-ebook",
+        "title": "Warriors #5: A Dangerous Path (Warriors: The Prophecies Begin) Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "A Dangerous Path",
+      "isbn": "978-0062367006",
+      "coverImg": {
+        "file": "PB 5 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dangerous-Path-Prophecies-Begin/dp/0062367005/",
+        "name": "TPB5_EN2-paperback",
+        "title": "Warriors #5: A Dangerous Path (Warriors: The Prophecies Begin) Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2017-10-10",
+      "publisher": "HarperAudio",
+      "title": "A Dangerous Path",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Dangerous-Path-Warriors-Book/dp/B0735VSWKW/",
+        "name": "TPB5_EN-audiobook",
+        "title": "A Dangerous Path: Warriors, Book 5   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "PB 5 cover a.jpg",
+        "title": "英语",
+        "area": "北美&英国"
+      },
+      "narrator": "MacLeod Andrews"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "A Dangerous Path",
+      "isbn": "978-0007140053",
+      "coverImg": {
+        "file": "PB 5 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2007-04-02",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/Warrior-Cats-5-Dangerous-Path/dp/0007140061/",
+        "name": "TPB5_EN_UK-paperback",
+        "title": "A Dangerous Path (Warrior Cats, Book 5) Paperback – 2 Apr 2007"
+      }
+    }
+  ],
+  "Starlight": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Starlight",
+      "isbn": "978-0060827588",
+      "coverImg": {
+        "file": "NP 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2006-04-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Starlight-Warriors-New-Prophecy-Book/dp/0060827580/",
+        "name": "NP4_EN-hardcover",
+        "title": "Starlight (Warriors: The New Prophecy, Book 4) Hardcover – April 4, 2006"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Starlight",
+      "isbn": "978-0060827601",
+      "pubDate": "2006-04-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Starlight-Warriors-New-Prophecy-Book/dp/0060827602/",
+        "name": "NP4_EN-libraryBinding",
+        "title": "Starlight (Warriors: The New Prophecy, Book 4) Library Binding – April 4, 2006"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Starlight",
+      "isbn": "978-0060827625",
+      "pubDate": "2007-03-27",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Starlight-Warriors-New-Prophecy-Book/dp/0060827629/",
+        "name": "NP4_EN-paperback",
+        "title": "Starlight (Warriors: The New Prophecy, Book 4) Paperback – March 27, 2007"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Starlight",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-4-Starlight-ebook/dp/B000W9162K/",
+        "name": "NP4_EN-ebook",
+        "title": "Warriors: The New Prophecy #4: Starlight Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2006-04-18",
+      "publisher": "HarperAudio",
+      "title": "Starlight",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Starlight-Warriors-New-Prophecy-Book/dp/B000FI9NXM/",
+        "name": "NP4_EN-audiobook",
+        "title": "Starlight: Warriors, The New Prophecy, Book 4   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "NP 4 cover a.jpg",
+        "title": "英语",
+        "area": "北美"
+      },
+      "narrator": "Nanette Savard"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Starlight",
+      "isbn": "978-0062367051",
+      "coverImg": {
+        "file": "NP 4 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-4-Starlight/dp/0062367056/",
+        "name": "NP4_EN2-paperback",
+        "title": "Warriors: The New Prophecy #4: Starlight Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Starlight",
+      "isbn": "978-0007419258",
+      "coverImg": {
+        "file": "NP 4 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2011-08-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/STARLIGHT-Warriors-New-Prophecy-Book/dp/0007419252/",
+        "name": "NP4_EN_UK-paperback",
+        "title": "STARLIGHT (Warriors: The New Prophecy, Book 4) Paperback – 4 Aug 2011"
+      }
+    }
+  ],
+  "Firestar's Quest": [
+    {
+      "mediaType": "精装书",
+      "isbn": "978-0061131646",
+      "pubDate": "2007-08-21",
+      "publisher": "HarperCollins",
+      "title": "Firestar's Quest",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Firestars-Erin-Hunter/dp/0061131644/",
+        "name": "SE1_US-hardcover",
+        "title": "Warriors Super Edition: Firestar's Quest Hardcover – August 21, 2007"
+      },
+      "insidecoverImg": { "file": "SE 1 insidecover.jpg" },
+      "coverImg": {
+        "file": "SE 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Firestar's Quest",
+      "isbn": "978-0061131660",
+      "pubDate": "2007-08-21",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Firestars-Erin-Hunter/dp/0061131660/",
+        "name": "SE1_US-libraryBinding",
+        "title": "Warriors Super Edition: Firestar's Quest Library Binding – August 21, 2007"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Firestar's Quest",
+      "isbn": "978-0061131677",
+      "pubDate": "2008-05-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Firestars-Quest-Warriors-Super-Hunter/dp/0061131679/",
+        "name": "SE1_US-paperback",
+        "title": "Firestar's Quest (Warriors Super Edition) Paperback – May 13, 2008"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Firestar's Quest",
+      "pubDate": "2009-10-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Firestars-Erin-Hunter-ebook/dp/B0015DRO7S/",
+        "name": "SE1_US-ebook",
+        "title": "Warriors Super Edition: Firestar's Quest Kindle Edition"
+      }
+    }
+  ],
+  "Sunset": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Sunset",
+      "isbn": "978-0060827694",
+      "coverImg": {
+        "file": "NP 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2006-12-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sunset-Warriors-New-Prophecy-Book/dp/0060827696/",
+        "name": "NP6_EN-hardcover",
+        "title": "Sunset (Warriors: The New Prophecy, Book 6) Hardcover – December 26, 2006"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Sunset",
+      "isbn": "978-1417808199",
+      "pubDate": "2006-12-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sunset-Warriors-New-Prophecy-Book/dp/006082770X/",
+        "name": "NP6_EN-libraryBinding",
+        "title": "Sunset (Warriors: The New Prophecy, Book 6) Library Binding – December 26, 2006"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Sunset",
+      "isbn": "978-0060827717",
+      "pubDate": "2007-09-25",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sunset-Warriors-New-Prophecy-Book/dp/0060827718/",
+        "name": "NP6_EN-paperback",
+        "title": "Sunset (Warriors: The New Prophecy, Book 6) Paperback – September 25, 2007"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Sunset",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-6-Sunset-ebook/dp/B000W94EN8/",
+        "name": "NP6_EN-ebook",
+        "title": "Warriors: The New Prophecy #6: Sunset Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "有声书",
+      "pubDate": "2006-12-26",
+      "publisher": "HarperAudio",
+      "title": "Sunset",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-6-Sunset/dp/B000M9BKGM/",
+        "name": "NP6_EN-audiobook",
+        "title": "Warriors: The New Prophecy 6, Sunset   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "NP 6 cover a.jpg",
+        "title": "英语",
+        "area": "北美"
+      },
+      "narrator": "Nanette Savard"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Sunset",
+      "isbn": "978-0062367075",
+      "coverImg": {
+        "file": "NP 6 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-6-Sunset/dp/0062367072/",
+        "name": "NP6_EN2-paperback",
+        "title": "Warriors: The New Prophecy #6: Sunset Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Sunset",
+      "isbn": "978-0007419272",
+      "coverImg": {
+        "file": "NP 6 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2011-09-29",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/SUNSET-Warriors-New-Prophecy-Book/dp/0007419279/",
+        "name": "NP6_EN_UK-paperback",
+        "title": "SUNSET (Warriors: The New Prophecy, Book 6) Paperback – 29 Sep 2011"
+      }
+    }
+  ],
+  "Crookedstar's Promise": [
+    {
+      "mediaType": "精装书",
+      "isbn": "978-0061980978",
+      "pubDate": "2011-07-05",
+      "publisher": "HarperCollins",
+      "title": "Crookedstar's Promise",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Crookedstars-Erin-Hunter/dp/0061980978/",
+        "name": "SE4_US-hardcover",
+        "title": "Warriors Super Edition: Crookedstar's Promise Hardcover – July 5, 2011"
+      },
+      "insidecoverImg": { "file": "SE 4 insidecover.jpg" },
+      "coverImg": {
+        "file": "SE 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Crookedstar's Promise",
+      "isbn": "978-0061980985",
+      "pubDate": "2011-07-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Crookedstars-Erin-Hunter/dp/0061980986/",
+        "name": "SE4_US-libraryBinding",
+        "title": "Warriors Super Edition: Crookedstar's Promise Library Binding – July 5, 2011"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Crookedstar's Promise",
+      "pubDate": "2011-07-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Crookedstars-Erin-Hunter-ebook/dp/B004IWR3SI/",
+        "name": "SE4_US-ebook",
+        "title": "Warriors Super Edition: Crookedstar's Promise Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Crookedstar's Promise",
+      "isbn": "978-0061980992",
+      "pubDate": "2012-04-24",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Crookedstars-Promise-Warriors-Super-Hunter/dp/0061980994/",
+        "name": "SE4_US-paperback",
+        "title": "Crookedstar's Promise (Warriors Super Edition) Paperback – April 24, 2012"
+      }
+    }
+  ],
+  "Darkest Night": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Darkest Night",
+      "isbn": "978-0062386496",
+      "coverImg": {
+        "file": "VOS 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2017-11-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Darkest-Night/dp/0062386492/",
+        "name": "VOS4_US-hardcover",
+        "title": "Warriors: A Vision of Shadows #4: Darkest Night Hardcover – November 7, 2017"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Darkest Night",
+      "isbn": "978-0062386502",
+      "pubDate": "2017-11-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Darkest-Night/dp/0062386506/",
+        "name": "VOS4_US-libraryBinding",
+        "title": "Warriors: A Vision of Shadows #4: Darkest Night Library Binding – November 7, 2017"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Darkest Night",
+      "pubDate": "2017-11-07",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Vision-Shadows-Darkest-Night-ebook/dp/B01MQV6XRV/",
+        "name": "VOS4_US-ebook",
+        "title": "Warriors: A Vision of Shadows #4: Darkest Night Kindle Edition"
+      }
+    }
+  ],
+  "The Rescue": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Rescue",
+      "isbn": "978-0062008367",
+      "coverImg": {
+        "file": "Manga 11 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2011-07-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-SkyClan-Stranger-Rescue-Manga/dp/0062008366/",
+        "name": "Manga11_US-paperback",
+        "title": "Warriors: SkyClan and the Stranger #1: The Rescue (Warriors Manga) Paperback – July 5, 2011"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "The Rescue",
+      "isbn": "978-0606230520",
+      "pubDate": "2011-07-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Turtleback-Library-Binding-Warriors-Graphic/dp/0606230521/",
+        "name": "Manga11_US-libraryBinding",
+        "title": "The Rescue (Turtleback School & Library Binding Edition) (Warriors Graphic Novels) Library Binding – July 5, 2011"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Rescue",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-SkyClan-Stranger-Rescue-Manga-ebook/dp/B01767Z25W/",
+        "name": "Manga11_US-ebook",
+        "title": "Warriors: SkyClan and the Stranger #1: The Rescue (Warriors Manga) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Tales from the Clans": [
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Tales from the Clans",
+      "isbn": "978-0606359702",
+      "pubDate": "2014-11-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Turtleback-School-Library-Binding-Warriors/dp/0606359702/",
+        "name": "NovC2_US-libraryBinding",
+        "title": "Tales From The Clans (Turtleback School & Library Binding Edition) (Warriors) Library Binding – November 4, 2014"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Tales from the Clans",
+      "isbn": "978-0062290854",
+      "coverImg": {
+        "file": "NovC 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2014-11-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Tales-Clans-Novella/dp/0062290851/",
+        "name": "NovC2_US-paperback",
+        "title": "Warriors: Tales from the Clans (Warriors Novella) Paperback – November 4, 2014"
+      },
+      "illustrator": "Wayne McLoughlin"
+    }
+  ],
+  "The Prophecies Begin": [
+    {
+      "mediaType": "平装套书",
+      "publisher": "HarperCollins",
+      "title": "The Prophecies Begin",
+      "isbn": "9780061477935",
+      "coverImg": {
+        "file": "PB boxset.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2007-10-09",
+      "ref": {
+        "work": "Barnes&Noble",
+        "url": "https://www.barnesandnoble.com/w/warriors-box-set-erin-hunter/1102466942",
+        "name": "TPB_EN-paperback-boxset",
+        "title": "Warriors Box Set: Volumes 1 to 6: The Complete First Series"
+      }
+    },
+    {
+      "mediaType": "平装套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Prophecies Begin",
+      "isbn": "978-0062367143",
+      "coverImg": {
+        "file": "PB boxset 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Box-Set-Complete-Prophecies/dp/0062367145/",
+        "name": "TPB_EN2-paperback-boxset",
+        "title": "Warriors Box Set: Volumes 1 to 6: The Complete First Series (Warriors: The Prophecies Begin) Paperback – March 17, 2015"
+      }
+    },
+    {
+      "mediaType": "电子套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Prophecies Begin",
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Prophecies-Begin-6-Book/dp/B00W8M8KAA/",
+        "name": "TPB_EN2-ebook-boxset",
+        "title": "Warriors - The Prophecies Begin (6 Book Series) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装套书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "The Prophecies Begin",
+      "isbn": "978-0007944040",
+      "coverImg": {
+        "file": "PB boxset en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2016",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/Warrior-Cats-Prophecies-Collection-Dangerous/dp/B00FGD2O3M/",
+        "name": "TPB_EN_UK-paperback-boxset",
+        "title": "Warrior Cats Series 1: The Prophecies Begin - 6 Books Collection Set By Erin Hunter (In to the Wild, Fire and Ice, Forest of Secrets, Rising Storm, A Dangerous Path, The Darkest Hour) Paperback – 2016"
+      }
+    }
+  ],
+  "The Darkest Hour": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Darkest Hour",
+      "isbn": "978-0060000073",
+      "coverImg": {
+        "file": "PB 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2004-10-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Darkest-Hour-Warriors-Book/dp/0060000074/",
+        "name": "TPB6_EN-hardcover",
+        "title": "The Darkest Hour (Warriors, Book 6) Hardcover – October 5, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "The Darkest Hour",
+      "isbn": "978-1417735587",
+      "pubDate": "2005-10-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Darkest-Turtleback-Library-Binding-Warriors/dp/1417735589/",
+        "name": "TPB6_EN-libraryBinding",
+        "title": "The Darkest Hour (Turtleback School & Library Binding Edition) (Warriors (Erin Hunter)) Library Binding – October 1, 2005"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Darkest Hour",
+      "isbn": "978-0060525859",
+      "pubDate": "2005-10-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Darkest-Hour-Warriors-Book/dp/0060525851/",
+        "name": "TPB6_EN-paperback",
+        "title": "The Darkest Hour (Warriors, Book 6) Paperback – October 4, 2005"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Darkest Hour",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Darkest-Hour-Prophecies-Begin-ebook/dp/B000VYX8WC/",
+        "name": "TPB6_EN-ebook",
+        "title": "Warriors #6: The Darkest Hour (Warriors: The Prophecies Begin) Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Darkest Hour",
+      "isbn": "978-0062367013",
+      "coverImg": {
+        "file": "PB 6 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-3-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Darkest-Hour-Prophecies-Begin/dp/0062367013/",
+        "name": "TPB6_EN2-paperback",
+        "title": "Warriors #6: The Darkest Hour (Warriors: The Prophecies Begin) Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2017-10-10",
+      "publisher": "HarperAudio",
+      "title": "The Darkest Hour",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Darkest-Hour-Warriors-Book/dp/B0735WDDC6/",
+        "name": "TPB6_EN-audiobook",
+        "title": "The Darkest Hour: Warriors, Book 6   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "PB 6 cover a.jpg",
+        "title": "英语",
+        "area": "北美&英国"
+      },
+      "narrator": "MacLeod Andrews"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "The Darkest Hour",
+      "isbn": "978-0007140077",
+      "coverImg": {
+        "file": "PB 6 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2008-02-04",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/Darkest-Hour-Warrior-Cats-Book/dp/000714007X",
+        "name": "TPB6_EN_UK-paperback",
+        "title": "The Darkest Hour (Warrior Cats, Book 6) Paperback – 4 Feb 2008"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "The Darkest Hour",
+      "coverImg": {
+        "file": "PB 6 cover en-uk 2.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2008",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/d/Books/Darkest-Hour-Warrior-Cats-Book-Hunter-Paperback/B00HRCTZHS/",
+        "name": "TPB6_EN_UK2-paperback",
+        "title": "The Darkest Hour (Warrior Cats, Book 6) by Hunter, Erin (2008) Paperback Paperback"
+      }
+    }
+  ],
+  "Crowfeather's Trial": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Crowfeather's Trial",
+      "pubDate": "2018-09-04",
+      "ref": {
+        "work": "BookShout",
+        "url": "https://www.bookshout.com/ebooks/warriors-super-edition-crowfeather-s-trial",
+        "name": "SE11_US-ebook",
+        "title": "Warriors Super Edition: Crowfeather's Trial (eBook)"
+      }
+    }
+  ],
+  "New Prophecy": [
+    {
+      "mediaType": "平装套书",
+      "publisher": "HarperCollins",
+      "title": "New Prophecy",
+      "isbn": "9780061448980",
+      "coverImg": {
+        "file": "NP boxset.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2008-09-30",
+      "ref": {
+        "work": "Barnes&Noble",
+        "url": "https://www.barnesandnoble.com/w/warriors-erin-hunter/1101752552?ean=9780061448980",
+        "name": "NP_EN-paperback-boxset",
+        "title": "Warriors: The New Prophecy Box Set: Volumes 1 to 6"
+      }
+    },
+    {
+      "mediaType": "平装套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The New Prophecy",
+      "isbn": "978-0062367150",
+      "coverImg": {
+        "file": "NP boxset 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Prophecy-Volumes-Complete-Second/dp/0062367153/",
+        "name": "NP_EN2-paperback-boxset",
+        "title": "Warriors: The New Prophecy Box Set: Volumes 1 to 6: The Complete Second Series Paperback – March 17, 2015"
+      }
+    },
+    {
+      "mediaType": "电子套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The New Prophecy",
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-New-Prophecy-6-Book/dp/B00W8RAU5S/",
+        "name": "NP_EN2-ebook-boxset",
+        "title": "Warriors: The New Prophecy (6 Book Series) Kindle Edition"
+      }
+    }
+  ],
+  "Sunrise": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Sunrise",
+      "isbn": "978-0060892173",
+      "coverImg": {
+        "file": "PO3 6 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2009-04-21",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sunrise-Warriors-Power-Three-6/dp/006089217X/",
+        "name": "PO36_EN-hardcover",
+        "title": "Sunrise (Warriors: Power of Three #6) Hardcover – April 21, 2009"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Sunrise",
+      "isbn": "978-0060892180",
+      "pubDate": "2009-04-21",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-6-Sunrise/dp/0060892188/",
+        "name": "PO36_N-libraryBinding",
+        "title": "Warriors: Power of Three #6: Sunrise Library Binding – April 21, 2009"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Sunrise",
+      "isbn": "978-0060892197",
+      "pubDate": "2010-03-09",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Sunrise-Warriors-Power-Three-6/dp/0060892196/",
+        "name": "PO36_EN-paperback",
+        "title": "Sunrise (Warriors: Power of Three #6) Paperback – March 9, 2010"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Sunrise",
+      "pubDate": "2009-04-21",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-6-Sunrise-ebook/dp/B001NLL9GY/",
+        "name": "PO36_EN-ebook",
+        "title": "Warriors: Power of Three #6: Sunrise Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Sunrise",
+      "coverImg": {
+        "file": "PO3 6 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-6-30",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-6-Sunrise/dp/0062367137/",
+        "name": "PO36_EN2-paperback",
+        "title": "Warriors: Power of Three #6: Sunrise Paperback – June 30, 2015"
+      }
+    }
+  ],
+  "Thunder Rising": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Thunder Rising",
+      "isbn": "978-0062063502",
+      "coverImg": {
+        "file": "DOTC 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2013-11-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Thunder-Rising/dp/0062063502/",
+        "name": "DOTC2_US-hardcover",
+        "title": "Warriors: Dawn of the Clans #2: Thunder Rising Hardcover – November 5, 2013"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Thunder Rising",
+      "isbn": "978-0062063519",
+      "pubDate": "2013-11-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Thunder-Rising/dp/0062063510/",
+        "name": "DOTC2_US-libraryBinding",
+        "title": "Warriors: Dawn of the Clans #2: Thunder Rising Library Binding – November 5, 2013"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Thunder Rising",
+      "pubDate": "2013-11-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Thunder-Rising-ebook/dp/B0092QPX9G/",
+        "name": "DOTC2_US-ebook",
+        "title": "Warriors: Dawn of the Clans #2: Thunder Rising Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Thunder Rising",
+      "isbn": "978-0062063526",
+      "pubDate": "2014-12-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Thunder-Rising/dp/0062063529/",
+        "name": "DOTC2_US-paperback",
+        "title": "Warriors: Dawn of the Clans #2: Thunder Rising Paperback – December 23, 2014"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Thunder Rising",
+      "isbn": "978-0062410016",
+      "coverImg": {
+        "file": "DOTC 2 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Thunder-Rising/dp/0062410016/",
+        "name": "DOTC2_US2-paperback",
+        "title": "Warriors: Dawn of the Clans #2: Thunder Rising Paperback – March 15, 2016"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    }
+  ],
+  "Fire and Ice": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Fire and Ice",
+      "coverImg": {
+        "file": "PB 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2003-06-27",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Fire-Ice-Prophecies-Begin/dp/0060000031/",
+        "name": "TPB2_EN-hardcover",
+        "title": "Warriors #2: Fire and Ice (Warriors: The Prophecies Begin) Hardcover – June 17, 2003"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Fire and Ice",
+      "isbn": "978-0060525569",
+      "pubDate": "2003-05-27",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Fire-Ice-Erin-Hunter/dp/0060525568/",
+        "name": "TPB2_US-libraryBinding",
+        "title": "Warriors #2: Fire and Ice (Warriors (Erin Hunter)) Library Binding – May 27, 2003"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Fire and Ice",
+      "isbn": "978-0060525590",
+      "pubDate": "2004-06-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Fire-Ice-Warriors-Book-2/dp/0060525592/",
+        "name": "TPB2_EN-paperbook",
+        "title": "Fire and Ice (Warriors, Book 2) Paperback – June 1, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Fire and Ice",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Fire-Ice-Prophecies-Begin-ebook/dp/B000VYX8PY/",
+        "name": "TPB2_EN-ebook",
+        "title": "Warriors #2: Fire and Ice (Warriors: The Prophecies Begin) Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Fire and Ice",
+      "isbn": "978-0062366979",
+      "coverImg": {
+        "file": "PB 2 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-3-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Fire-Ice-Prophecies-Begin/dp/0062366971/",
+        "name": "TPB2_EN2-paperback",
+        "title": "Warriors #2: Fire and Ice (Warriors: The Prophecies Begin) Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2017-10-10",
+      "publisher": "HarperAudio",
+      "title": "Fire and Ice",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Fire-Ice-Warriors-Book-2/dp/B0735T51X2/",
+        "name": "TPB2_EN-audiobook",
+        "title": "Fire and Ice: Warriors, Book 2   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "PB 2 cover a.jpg",
+        "title": "英语",
+        "area": "北美&英国"
+      },
+      "narrator": "MacLeod Andrews"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Fire and Ice",
+      "isbn": "978-0007140039",
+      "coverImg": {
+        "file": "PB 2 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2005-01-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Fire-Warrior-Cats-Erin-Hunter/dp/0007140037/",
+        "name": "TPB2_EN_UK-paperback",
+        "title": "Fire and Ice (Warrior Cats) Paperback – January 3, 2005"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "哈珀柯林斯儿童出版社",
+      "title": "Fire and Ice",
+      "isbn": "978-0007217885",
+      "editionNumber": 2, 
+      "coverImg": {
+        "file": "PB 2 cover en-uk 2.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2006-04-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "http://www.amazon.com/Fire-Ice-Erin-Hunter/dp/0007217889/",
+        "name": "TPB2_EN_UK2-paperback",
+        "title": "Fire and Ice (Warrior Cats) Paperback – April 1, 2006"
+      }
+    }
+  ],
+  "Omen of the Stars": [
+    {
+      "mediaType": "平装套书",
+      "publisher": "HarperCollins",
+      "title": "Omen of the Stars",
+      "isbn": "9780062268877",
+      "coverImg": {
+        "file": "OOTS boxset.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2013-09-24",
+      "ref": {
+        "work": "Barnes&Noble",
+        "url": "https://www.barnesandnoble.com/w/warriors-erin-hunter/1114634968?ean=9780062268877",
+        "name": "OOTS_EN-paperback-boxset",
+        "title": "Warriors: Omen of the Stars Box Set: Volumes 1 to 6"
+      }
+    },
+    {
+      "mediaType": "平装套书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Omen of the Stars",
+      "isbn": "978-0062382641",
+      "coverImg": {
+        "file": "OOTS boxset 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-11-03",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Omen-Stars-Box-Volumes/dp/0062382640/",
+        "name": "OOTS_EN2-paperback-boxset",
+        "title": "Warriors: Omen of the Stars Box Set: Volumes 1 to 6 Paperback – November 3, 2015"
+      }
+    }
+  ],
+  "A Clan in Need": [
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "A Clan in Need",
+      "isbn": "978-0061688669",
+      "coverImg": {
+        "file": "Manga 9 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2010-03-23",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Path-Clan-Need/dp/0061688665/",
+        "name": "Manga9_US-paperback",
+        "title": "Warriors: Ravenpaw's Path #2: A Clan in Need Paperback – March 23, 2010"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "A Clan in Need",
+      "pubDate": "2015-12-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Ravenpaws-Path-Clan-Manga-ebook/dp/B01767Z31U/",
+        "name": "Manga9_US-ebook",
+        "title": "Warriors: Ravenpaw's Path #2: A Clan in Need (Warriors Manga - Ravenpaw's Path) Kindle & comiXology"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Battles of the Clans": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Battles of the Clans",
+      "isbn": "978-0061702303",
+      "coverImg": {
+        "file": "Guide 4 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2010-06-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Battles-Clans-Field-Guide/dp/0061702307/",
+        "name": "Guide4_US-hardcover",
+        "title": "Warriors: Battles of the Clans (Warriors Field Guide) Hardcover – June 1, 2010"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Battles of the Clans",
+      "isbn": "978-0061702310",
+      "pubDate": "2010-06-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Battles-Clans-Field-Guide/dp/0061702315/",
+        "name": "Guide4_US-libraryBinding",
+        "title": "Warriors: Battles of the Clans (Warriors Field Guide) Library Binding – June 1, 2010"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Battles of the Clans",
+      "pubDate": "2010-06-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Battles-Clans-Field-Guide-ebook/dp/B003JBHUZ0/",
+        "name": "Guide4_US-ebook",
+        "title": "Warriors: Battles of the Clans (Warriors Field Guide) Kindle Edition"
+      }
+    }
+  ],
+  "Enter the Clans": [
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "Turtleback",
+      "title": "Enter the Clans",
+      "isbn": "978-0606262965",
+      "pubDate": "2012-06-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Turtleback-Library-Binding-Warriors-Unnumbered/dp/0606262962/",
+        "name": "Guide5_US-libraryBinding",
+        "title": "Enter The Clans (Turtleback School & Library Binding Edition) (Warriors (PB Unnumbered)) Library Binding – June 26, 2012"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Enter the Clans",
+      "pubDate": "2012-06-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Enter-Clans-Field-Guide-ebook/dp/B007MAXKY4/",
+        "name": "Guide5_US-ebook",
+        "title": "Warriors: Enter the Clans (Warriors Field Guide) Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Enter the Clans",
+      "isbn": "978-0062102393",
+      "coverImg": {
+        "file": "Guide 5 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-06-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Enter-Clans-Field-Guide/dp/0062102397/",
+        "name": "Guide5_US-paperback",
+        "title": "Warriors: Enter the Clans (Warriors Field Guide) Paperback – June 26, 2012"
+      }
+    }
+  ],
+  "Mistystar's Omen": [
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Mistystar's Omen",
+      "coverImg": {
+        "file": "Nov 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2012-09-11",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Mistystars-Omen-Erin-Hunter-ebook/dp/B0083DHIYW/",
+        "name": "Nov2_US-ebook",
+        "title": "Warriors: Mistystar's Omen Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin"
+    }
+  ],
+  "The Sun Trail": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "The Sun Trail",
+      "isbn": "978-0062063465",
+      "coverImg": {
+        "file": "DOTC 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2013-03-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Sun-Trail/dp/0062063464/",
+        "name": "DOTC1_US-hardcover",
+        "title": "Warriors: Dawn of the Clans #1: The Sun Trail Hardcover – March 5, 2013"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "The Sun Trail",
+      "isbn": "978-0062063472",
+      "pubDate": "2013-03-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Sun-Trail/dp/0062063472/",
+        "name": "DOTC1_US-libraryBinding",
+        "title": "Warriors: Dawn of the Clans #1: The Sun Trail Library Binding – March 5, 2013"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "The Sun Trail",
+      "pubDate": "2013-03-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Sun-Trail-ebook/dp/B0089LOIRI/",
+        "name": "DOTC1_US-ebook",
+        "title": "Warriors: Dawn of the Clans #1: The Sun Trail Kindle Edition"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "The Sun Trail",
+      "isbn": "978-0062063489",
+      "pubDate": "2014-04-08",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Sun-Trail/dp/0062063480/",
+        "name": "DOTC1_US-paperback",
+        "title": "Warriors: Dawn of the Clans #1: The Sun Trail Paperback – April 8, 2014"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "The Sun Trail",
+      "isbn": "978-0062410009",
+      "coverImg": {
+        "file": "DOTC 1 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-03-15",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Dawn-Clans-Sun-Trail/dp/0062410008/",
+        "name": "DOTC1_US2-paperback",
+        "title": "Warriors: Dawn of the Clans #1: The Sun Trail Paperback – March 15, 2016"
+      },
+      "illustrator": "Wayne McLoughlin, Allen Douglas"
+    },
+    {
+      "pubDate": "~2012-07-02",
+      "draftcoverImg": {
+        "file": "DOTC 1 cover draft.jpg",
+        "title": "英文",
+        "area": "北美"
+      },
+      "ref": {
+        "work": "wikia.de",
+        "url": "http://de.warrior-cats.wikia.com/wiki/Datei:Der_Sonnenpfad_EN3.jpg",
+        "name": "DOTC1_US-design",
+        "title": "Der Sonnenpfad EN3.jpg"
+      }
+    }
+  ],
+  "Hawkwing's Journey": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Hawkwing's Journey",
+      "isbn": "978-0062467683",
+      "coverImg": {
+        "file": "SE 9 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2016-11-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Hawkwings-Erin-Hunter/dp/0062467689/",
+        "name": "SE9_US-hardcover",
+        "title": "Warriors Super Edition: Hawkwing's Journey Hardcover – November 1, 2016"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Hawkwing's Journey",
+      "isbn": "978-0062467690",
+      "pubDate": "2016-11-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Hawkwings-Erin-Hunter/dp/0062467697/",
+        "name": "SE9_US-libraryBinding",
+        "title": "Warriors Super Edition: Hawkwing's Journey Library Binding – November 1, 2016"
+      },
+      "illustrator": "James L. Barry"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Hawkwing's Journey",
+      "pubDate": "2016-11-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Hawkwings-Erin-Hunter-ebook/dp/B01ARL3FVM/",
+        "name": "SE9_US-ebook",
+        "title": "Warriors Super Edition: Hawkwing's Journey Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Hawkwing's Journey",
+      "isbn": "978-0062467706",
+      "pubDate": "2017-09-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Super-Hawkwings-Erin-Hunter/dp/0062467700/",
+        "name": "SE9_US-paperback",
+        "title": "Warriors Super Edition: Hawkwing's Journey Paperback – September 5, 2017"
+      },
+      "illustrator": "James L. Barry"
+    }
+  ],
+  "Into the Wild": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Into the Wild",
+      "isbn": "978-0060000028",
+      "coverImg": {
+        "file": "PB 1 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2003-01-21",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Into-Wild-Erin-Hunter/dp/0060000023/",
+        "name": "TPB1_US-hardcover",
+        "title": "Warriors: Into the Wild Hardcover – January 21, 2003"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Into the Wild",
+      "isbn": "978-0060525484",
+      "pubDate": "2003-01-21",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-1-Into-Erin-Hunter/dp/0060525487/",
+        "name": "TPB1_US-libraryBinding",
+        "title": "Warriors #1: Into the Wild Library Binding – January 21, 2003"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Into the Wild",
+      "isbn": "978-0060525507",
+      "pubDate": "2004-01-06",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Erin-Hunter-Warriors-Into-Wild/dp/B004R60Z0S/",
+        "name": "TPB1_US-paperback",
+        "title": "Into the Wild (Warriors, Book 1) Paperback – January 6, 2004"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Into the Wild",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Into-Wild-Prophecies-Begin-ebook/dp/B000VYX8L8/",
+        "name": "TPB1_US-ebook",
+        "title": "Warriors #1: Into the Wild (Warriors: The Prophecies Begin) Kindle Edition"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "publisher": "HarperCollins",
+      "title": "Into the Wild",
+      "isbn": "0062366963",
+      "coverImg": {
+        "file": "PB 1 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2015-03-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Into-Wild-Prophecies-Begin/dp/0062366963/",
+        "name": "TPB1_USrp-paperback",
+        "title": "Warriors #1: Into the Wild (Warriors: The Prophecies Begin) Paperback – March 17, 2015"
+      },
+      "illustrator": "Dave Stevenson"
+    },
+    {
+      "mediaType": "有声书；完整版",
+      "pubDate": "2017-10-10",
+      "publisher": "HarperAudio",
+      "title": "Into the Wild",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Into-Wild-Warriors-Book-1/dp/B0735VB62R/",
+        "name": "TPB1_EN-audiobook",
+        "title": "Into the Wild: Warriors, Book 1   Audiobook – Unabridged"
+      },
+      "coverImg": {
+        "file": "PB 1 cover a.jpg",
+        "title": "英语",
+        "area": "北美&英国"
+      },
+      "narrator": "MacLeod Andrews"
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "Collins",
+      "title": "Into the Wild",
+      "isbn": "978-0007140022",
+      "coverImg": {
+        "file": "PB 1 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2004-04-05",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Into-Wild-Warrior-Cats-Hunter/dp/0007140029/",
+        "name": "TPB1_EN_UK",
+        "title": "Into the Wild (Warrior Cats) Paperback – April 5, 2004"
+      }
+    },
+      {
+        "mediaType": "平装书",
+        "publisher": "哈珀柯林斯儿童出版社",
+        "title": "Into the Wild",
+        "isbn": "978-0007217878",
+        "editionNumber": 2, 
+        "coverImg": {
+          "file": "PB 1 cover en-uk 2.jpg",
+          "title": "英文",
+          "area": "英国"
+        },
+        "pubDate": "2006-04-03",
+        "ref": {
+          "work": "Amazon",
+          "url": "https://www.amazon.com/Into-Wild-Warrior-Cats-Hunter/dp/0007217870/",
+          "name": "TPB1_EN_UK2",
+          "title": "Into the Wild (Warrior Cats) Paperback – April 3, 2006"
+        }
+      }
+  ],
+  "Dark River": [
+    {
+      "mediaType": "精装书",
+      "publisher": "HarperCollins",
+      "title": "Dark River",
+      "isbn": "978-0060892050",
+      "coverImg": {
+        "file": "PO3 2 cover.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      },
+      "pubDate": "2007-12-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "http://www.amazon.com/Dark-River-Warriors-Power-Three/dp/0060892056/",
+        "name": "PO32_EN-hardcover",
+        "title": "Dark River (Warriors: Power of Three #2) Hardcover – December 26, 2007"
+      }
+    },
+    {
+      "mediaType": "图书馆装订",
+      "publisher": "HarperCollins",
+      "title": "Dark River",
+      "isbn": "978-0060892067",
+      "pubDate": "2007-12-26",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Dark-River-Warriors-Power-Three/dp/0060892064/",
+        "name": "PO32_N-libraryBinding",
+        "title": "Dark River (Warriors: Power of Three #2) Library Binding – December 26, 2007"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "HarperCollins",
+      "title": "Dark River",
+      "isbn": "978-0060892074",
+      "pubDate": "2009-01-01",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Dark-River-DARK-RIVER-Hunter/dp/B003YUHPU6/",
+        "name": "PO32_EN-paperback",
+        "title": "Dark River [DARK RIVER] by Hunter, Erin Jan 01, 2009 Paperback – January 1, 2009"
+      }
+    },
+    {
+      "mediaType": "电子书",
+      "publisher": "HarperCollins",
+      "title": "Dark River",
+      "pubDate": "2009-10-13",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-Dark-River-ebook/dp/B000W968G4/",
+        "name": "PO32_EN-ebook",
+        "title": "Warriors: Power of Three #2: Dark River Kindle Edition"
+      }
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "978-0062367099",
+      "pubDate": "2015-06-30",
+      "publisher": "HarperCollins",
+      "title": "Dark River",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.com/Warriors-Power-Three-Dark-River/dp/0062367099/",
+        "name": "PO32_EN2-paperback",
+        "title": "Warriors: Power of Three #2: Dark River Paperback – June 30, 2015"
+      },
+      "coverImg": {
+        "file": "PO3 2 cover 2.jpg",
+        "title": "英文",
+        "area": "北美&英国"
+      }
+    },
+    {
+      "mediaType": "平装书",
+      "publisher": "Harper Trophy",
+      "title": "Dark River",
+      "coverImg": {
+        "file": "PO3 2 cover en-uk.jpg",
+        "title": "英文",
+        "area": "英国"
+      },
+      "pubDate": "2008-12-17",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.co.uk/Erin-Hunter-River-Warriors-Reprint/dp/B00I612KQW/",
+        "name": "PO32_EN_UK-paperback",
+        "title": "By Erin Hunter - Dark River (Warriors: Power of Three) (Reprint) Paperback – 17 Dec 2008"
+      }
+    }
+  ]
+}

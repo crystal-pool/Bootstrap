@@ -1,0 +1,813 @@
+[
+  {
+    "id": "Q50",
+    "en": "The Prophecies Begin",
+    "cn": "预言开始",
+    "cnReferAs": "首部曲",
+    "tw": "預言開始",
+    "volumes": [
+      {
+        "id": "Q57",
+        "en": "Into the Wild",
+        "cn": "呼唤野性",
+        "tw": "荒野新生",
+        "abbr": "OS1",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q59",
+        "en": "Fire and Ice",
+        "cn": "寒冰烈火",
+        "tw": "烈火寒冰",
+        "abbr": "OS2",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q60",
+        "en": "Forest of Secrets",
+        "cn": "疑云重重",
+        "tw": "祕密之森",
+        "abbr": "OS3",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q65",
+        "en": "Rising Storm",
+        "cn": "风起云涌",
+        "tw": "風暴將臨",
+        "abbr": "OS4",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q66",
+        "en": "A Dangerous Path",
+        "cn": "险路惊魂",
+        "tw": "危險小徑",
+        "abbr": "OS5",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q57",
+        "en": "The Darkest Hour",
+        "cn": "力挽狂澜",
+        "tw": "黑暗時刻",
+        "abbr": "OS6",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q52",
+    "en": "The New Prophecy",
+    "cn": "新预言",
+    "cnReferAs": "二部曲",
+    "tw": "新預言",
+    "volumes": [
+      {
+        "id": "Q139",
+        "en": "Midnight",
+        "cn": "午夜追踪",
+        "tw": "午夜追蹤",
+        "abbr": "NP1",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q140",
+        "en": "Moonrise",
+        "cn": "新月危机",
+        "tw": "新月危機",
+        "abbr": "NP2",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q141",
+        "en": "Dawn",
+        "cn": "重现家园",
+        "tw": "重現家園",
+        "abbr": "NP3",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q142",
+        "en": "Starlight",
+        "cn": "星光指路",
+        "tw": "星光指路",
+        "abbr": "NP4",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q143",
+        "en": "Twilight",
+        "cn": "黄昏战争",
+        "tw": "黃昏戰爭",
+        "abbr": "NP5",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q144",
+        "en": "Sunset",
+        "cn": "日落和平",
+        "tw": "日落和平",
+        "abbr": "NP6",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q53",
+    "en": "Power of Three",
+    "cn": "三力量",
+    "cnReferAs": "三部曲",
+    "tw": "三力量",
+    "volumes": [
+      {
+        "id": "Q152",
+        "en": "The Sight",
+        "cn": "预视力量",
+        "tw": "預視力量",
+        "abbr": "PO1",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q153",
+        "en": "Dark River",
+        "cn": "暗河汹涌",
+        "tw": "洶湧暗河",
+        "abbr": "PO2",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q154",
+        "en": "Outcast",
+        "cn": "驱逐之战",
+        "tw": "驅逐之戰",
+        "abbr": "PO3",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q155",
+        "en": "Eclipse",
+        "cn": "天蚀遮月",
+        "tw": "天蝕遮月",
+        "abbr": "PO4",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q156",
+        "en": "Long Shadows",
+        "cn": "暗夜长影",
+        "tw": "暗夜長影",
+        "abbr": "PO5",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q157",
+        "en": "Sunrise",
+        "cn": "拂晓之光",
+        "tw": "拂曉之光",
+        "abbr": "PO6",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q54",
+    "en": "Omen of the Stars",
+    "cn": "星预言",
+    "cnReferAs": "四部曲",
+    "tw": "星預兆",
+    "volumes": [
+      {
+        "id": "Q158",
+        "en": "The Fourth Apprentice",
+        "cn": "第四学徒",
+        "tw": "第四見習生",
+        "abbr": "OM1",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q159",
+        "en": "Fading Echoes",
+        "cn": "战声渐近",
+        "tw": "戰聲漸近",
+        "abbr": "OM2",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q160",
+        "en": "Night Whispers",
+        "cn": "暗夜密语",
+        "tw": "星夜私語",
+        "abbr": "OM3",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q161",
+        "en": "Sign of the Moon",
+        "cn": "月光印记",
+        "tw": "月亮蹤跡",
+        "abbr": "OM4",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q162",
+        "en": "The Forgotten Warrior",
+        "cn": "武士归来",
+        "tw": "失落戰士",
+        "abbr": "OM5",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q163",
+        "en": "The Last Hope",
+        "cn": "群星之战",
+        "tw": "最後希望",
+        "abbr": "OM6",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q55",
+    "en": "Dawn of the Clans",
+    "cn": "族群黎明",
+    "cnReferAs": "五部曲",
+    "tw": "部族誕生",
+    "volumes": [
+      {
+        "id": "Q164",
+        "en": "The Sun Trail",
+        "cn": "追随太阳",
+        "tw": "太陽之路",
+        "abbr": "DC1",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q165",
+        "en": "Thunder Rising",
+        "cn": "雷电崛起",
+        "tw": "迅雷崛起",
+        "abbr": "DC2",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q166",
+        "en": "The First Battle",
+        "cn": "首次战争",
+        "tw": "最初戰役",
+        "abbr": "DC3",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q167",
+        "en": "The Blazing Star",
+        "cn": "燃烧之星",
+        "tw": "熾烈之星",
+        "abbr": "DC4",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q168",
+        "en": "A Forest Divided",
+        "cn": "占地为王",
+        "tw": "分裂森林",
+        "abbr": "DC5",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q169",
+        "en": "Path of Stars",
+        "cn": "群星之路",
+        "tw": "眾星之路",
+        "abbr": "DC6",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q56",
+    "en": "A Vision of Shadows",
+    "cn": "暗影幻象",
+    "cnReferAs": "六部曲",
+    "tw": "幽暗異象",
+    "volumes": [
+      {
+        "id": "Q170",
+        "en": "The Apprentice's Quest",
+        "cn": "学徒探索",
+        "tw": "探索之旅",
+        "abbr": "VS1",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q171",
+        "en": "Thunder and Shadow",
+        "cn": "族群情仇",
+        "tw": "迅雷暗影",
+        "abbr": "VS2",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q172",
+        "en": "Shattered Sky",
+        "cn": "天空破碎",
+        "tw": "破碎天空",
+        "abbr": "VS3",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q173",
+        "en": "Darkest Night",
+        "cn": "极夜无光",
+        "tw": "極夜無光",
+        "abbr": "VS4",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q174",
+        "en": "River of Fire",
+        "cn": "River of Fire",
+        "tw": "River of Fire",
+        "abbr": "VS5",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q175",
+        "en": "The Raging Storm",
+        "cn": "The Raging Storm",
+        "tw": "The Raging Storm",
+        "abbr": "VS6",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q126",
+    "en": "Super Edition",
+    "cn": "长篇外传",
+    "cnReferAs": null,
+    "tw": "長篇外傳",
+    "volumes": [
+      {
+        "id": "Q176",
+        "en": "Firestar's Quest",
+        "cn": "火星的探索",
+        "tw": "火星的追尋",
+        "abbr": "FQ",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q177",
+        "en": "Bluestar's Prophecy",
+        "cn": "蓝星的预言",
+        "tw": "藍星的預言",
+        "abbr": "BP",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q178",
+        "en": "SkyClan's Destiny",
+        "cn": "天族外传",
+        "tw": "天族的命運",
+        "abbr": "SD",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q179",
+        "en": "Crookedstar's Promise",
+        "cn": "钩星的承诺",
+        "tw": "曲星的承諾",
+        "abbr": "CP",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q180",
+        "en": "Yellowfang's Secret",
+        "cn": "黄牙的秘密",
+        "tw": "黃牙的祕密",
+        "abbr": "YS",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q181",
+        "en": "Tallstar's Revenge",
+        "cn": "高星的复仇",
+        "tw": "高星的復仇",
+        "abbr": "TR",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q182",
+        "en": "Bramblestar's Storm",
+        "cn": "黑莓星的风暴",
+        "tw": "棘星的風暴",
+        "abbr": "BS",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q183",
+        "en": "Moth Flight's Vision",
+        "cn": "蛾飞的幻象",
+        "tw": "蛾飛的幻象",
+        "abbr": "MFV",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q184",
+        "en": "Hawkwing's Journey",
+        "cn": "鹰翅的旅程",
+        "tw": "鷹翅的旅程",
+        "abbr": "HJ",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q185",
+        "en": "Tigerheart's Shadow",
+        "cn": "虎心的阴影",
+        "tw": "虎心的陰影",
+        "abbr": "TS",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q186",
+        "en": "Crowfeather's Trial",
+        "cn": "Crowfeather's Trial",
+        "tw": "Crowfeather's Trial",
+        "abbr": "CT",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q127",
+    "en": "The Untold Stories",
+    "cn": "不为人知的故事",
+    "cnReferAs": null,
+    "tw": "說不完的故事1",
+    "volumes": [
+      {
+        "id": "Q187",
+        "en": "Hollyleaf's Story",
+        "cn": "冬青叶的故事",
+        "tw": "冬青葉的故事",
+        "abbr": "HS",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q188",
+        "en": "Mistystar's Omen",
+        "cn": "雾星的征兆",
+        "tw": "霧星的預言",
+        "abbr": "MO",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q189",
+        "en": "Cloudstar's Journey",
+        "cn": "云星的旅程",
+        "tw": "雲星的旅程",
+        "abbr": "CJ",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q128",
+    "en": "Tales from the Clans",
+    "cn": "族群的传说",
+    "cnReferAs": null,
+    "tw": "說不完的故事2",
+    "volumes": [
+      {
+        "id": "Q190",
+        "en": "Tigerclaw's Fury",
+        "cn": "虎掌的愤怒",
+        "tw": "虎爪的憤怒",
+        "abbr": "TF",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q191",
+        "en": "Leafpool's Wish",
+        "cn": "叶池的希望",
+        "tw": "葉池的願望",
+        "abbr": "LW",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q192",
+        "en": "Dovewing's Silence",
+        "cn": "鸽翅的沉默",
+        "tw": "鴿翅的沉默",
+        "abbr": "DS",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q129",
+    "en": "Shadows of the Clans",
+    "cn": "族群的阴影",
+    "cnReferAs": null,
+    "tw": "部族的陰影",
+    "volumes": [
+      {
+        "id": "Q193",
+        "en": "Mapleshade's Vengeance",
+        "cn": "枫荫的复仇",
+        "tw": "楓影的復仇",
+        "abbr": "MV",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q194",
+        "en": "Goosefeather's Curse",
+        "cn": "鹅羽的诅咒",
+        "tw": "鵝羽的詛咒",
+        "abbr": "GC",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q195",
+        "en": "Ravenpaw's Farewell",
+        "cn": "乌爪的告别",
+        "tw": "烏掌的告別",
+        "abbr": "RF",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q130",
+    "en": "Legends of the Clans",
+    "cn": "族群的传奇",
+    "cnReferAs": null,
+    "tw": "部族的傳奇",
+    "volumes": [
+      {
+        "id": "Q196",
+        "en": "Spottedleaf's Heart",
+        "cn": "斑叶的心声",
+        "tw": "斑葉的心聲",
+        "abbr": "SH",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q197",
+        "en": "Pinestar's Choice",
+        "cn": "松星的抉择",
+        "tw": "松星的抉擇",
+        "abbr": "PC",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q198",
+        "en": "Thunderstar's Echo",
+        "cn": "雷星的怀响",
+        "tw": "雷星的懷響",
+        "abbr": "TE",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q131",
+    "en": "Novella Compilation",
+    "cn": "短篇小说集",
+    "cnReferAs": null,
+    "tw": "短篇小說集",
+    "volumes": [],
+    "standAlone": false
+  },
+  {
+    "id": "Q132",
+    "en": "The Field Guide",
+    "cn": "荒野手册",
+    "cnReferAs": null,
+    "tw": "荒野手冊",
+    "volumes": [
+      {
+        "id": "Q199",
+        "en": "Secrets of the Clans",
+        "cn": "族群的秘密",
+        "tw": "部族解密",
+        "abbr": "SECRETS",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q200",
+        "en": "Cats of the Clans",
+        "cn": "族群的猫",
+        "tw": "預言之貓",
+        "abbr": "CATS",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q201",
+        "en": "Code of the Clans",
+        "cn": "族群的守则",
+        "tw": "守則解密",
+        "abbr": "CODE",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q202",
+        "en": "Battles of the Clans",
+        "cn": "族群的战争",
+        "tw": "部族戰爭",
+        "abbr": "BATTLES",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q203",
+        "en": "Enter the Clans",
+        "cn": "进入族群",
+        "tw": "進入部族",
+        "abbr": "ETC",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q204",
+        "en": "The Ultimate Guide",
+        "cn": "终极指南",
+        "tw": "終極指南",
+        "abbr": "TUG",
+        "instanceOf": "Q46"
+      },
+      {
+        "id": "Q205",
+        "en": "The Warriors Guide",
+        "cn": "武士指南",
+        "tw": "戰士指南",
+        "abbr": "TWG",
+        "instanceOf": "Q46"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": null,
+    "en": null,
+    "cn": null,
+    "cnReferAs": null,
+    "tw": null,
+    "volumes": [
+      {
+        "id": "Q206",
+        "en": "The Rise of Scourge",
+        "cn": "长鞭崛起",
+        "tw": "鞭子崛起",
+        "abbr": "MANGA1",
+        "instanceOf": "Q116"
+      }
+    ],
+    "standAlone": true
+  },
+  {
+    "id": "Q134",
+    "en": "The Lost Warrior",
+    "cn": "灰条历险记",
+    "cnReferAs": null,
+    "tw": "灰紋歷險記",
+    "volumes": [
+      {
+        "id": "Q207",
+        "en": "The Lost Warrior",
+        "cn": "武士失踪",
+        "tw": "迷途的戰士",
+        "abbr": "LW1",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q208",
+        "en": "Warrior's Refuge",
+        "cn": "武士避难",
+        "tw": "戰士的避難",
+        "abbr": "LW2",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q209",
+        "en": "Warrior's Return",
+        "cn": "武士回归",
+        "tw": "戰士的回歸",
+        "abbr": "LW3",
+        "instanceOf": "Q116"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q135",
+    "en": "Tigerstar and Sasha",
+    "cn": "虎星与莎夏",
+    "cnReferAs": null,
+    "tw": "虎星與莎夏",
+    "volumes": [
+      {
+        "id": "Q210",
+        "en": "Into the Woods",
+        "cn": "进入森林",
+        "tw": "進入森林",
+        "abbr": "TS1",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q211",
+        "en": "Escape from the Forest",
+        "cn": "逃出森林",
+        "tw": "逃出森林",
+        "abbr": "TS2",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q212",
+        "en": "Return to the Clans",
+        "cn": "返回族群",
+        "tw": "返回部族",
+        "abbr": "TS3",
+        "instanceOf": "Q116"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q136",
+    "en": "Ravenpaw's Path",
+    "cn": "乌爪的旅程",
+    "cnReferAs": null,
+    "tw": "烏掌的道路",
+    "volumes": [
+      {
+        "id": "Q213",
+        "en": "Shattered Peace",
+        "cn": "和平破碎",
+        "tw": "破碎和平",
+        "abbr": "RP1",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q214",
+        "en": "A Clan in Need",
+        "cn": "族群救星",
+        "tw": "求援部族",
+        "abbr": "RP2",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q215",
+        "en": "The Heart of a Warrior",
+        "cn": "武士之心",
+        "tw": "戰士之心",
+        "abbr": "RP3",
+        "instanceOf": "Q116"
+      }
+    ],
+    "standAlone": false
+  },
+  {
+    "id": "Q137",
+    "en": "SkyClan and the Stranger",
+    "cn": "天族与陌生者",
+    "cnReferAs": null,
+    "tw": "天族與陌生者",
+    "volumes": [
+      {
+        "id": "Q216",
+        "en": "The Rescue",
+        "cn": "救援",
+        "tw": "救援",
+        "abbr": "SS1",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q217",
+        "en": "Beyond the Code",
+        "cn": "超越守则",
+        "tw": "超越守則",
+        "abbr": "SS2",
+        "instanceOf": "Q116"
+      },
+      {
+        "id": "Q218",
+        "en": "After the Flood",
+        "cn": "洪水过后",
+        "tw": "洪水過後",
+        "abbr": "SS3",
+        "instanceOf": "Q116"
+      }
+    ],
+    "standAlone": false
+  }
+]

@@ -1,0 +1,1407 @@
+﻿{
+  "Goosefeather's Curse": [],
+  "Escape from the Forest": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541744587",
+      "pubDate": "2012-01-01",
+      "illustrator": "丹·哈德森",
+      "publisher": "未来出版社",
+      "title": "逃出森林",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/%E7%8C%AB%E6%AD%A6%E5%A3%AB%E6%BC%AB%E7%94%BB%E7%89%88%E8%99%8E%E6%98%9F%E4%B8%8E%E8%8E%8E%E5%A4%8F2-%E9%80%83%E5%87%BA%E6%A3%AE%E6%9E%97-%E8%89%BE%E7%90%B3%E2%80%A2%E4%BA%A8%E7%89%B9/dp/B007HUL56E/",
+        "name": "Manga6_CN",
+        "title": "猫武士漫画版虎星与莎夏2:逃出森林 平装 – 2012年1月1日"
+      },
+      "coverImg": {
+        "file": "Manga 6 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "高尹倩"
+    }
+  ],
+  "Beyond the Code": [],
+  "The Blazing Star": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541761386",
+      "pubDate": "2016-07-01",
+      "publisher": "未来出版社",
+      "title": "燃烧之星",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/燃烧之星-艾琳·亨特/dp/B01KGTK6PS/",
+        "name": "DOTC4_CN",
+        "title": "燃烧之星(猫武士族群黎明五部曲) 平装 – 2016年7月1日"
+      },
+      "coverImg": {
+        "file": "DOTC 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Dawn": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739026",
+      "pubDate": "2009-09-01",
+      "publisher": "未来出版社",
+      "title": "重现家园",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士二部曲之3-重现家园-艾琳-亨特/dp/B0030BO0DY/",
+        "name": "NP3_CN",
+        "title": "猫武士二部曲之3:重现家园 平装 – 2009年9月1日"
+      },
+      "coverImg": {
+        "file": "NP 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "高子梅"
+    }
+  ],
+  "Spottedleaf's Heart": [],
+  "The Warriors Guide": [],
+  "Eclipse": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739408",
+      "pubDate": "2010-04-01",
+      "publisher": "未来出版社",
+      "title": "天蚀遮月",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士三部曲之4-天蚀遮月-艾琳·亨特/dp/B003KTLY3A/",
+        "name": "PO34_CN",
+        "title": "猫武士三部曲之4:天蚀遮月 平装 – 2010年4月1日"
+      },
+      "coverImg": {
+        "file": "PO3 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "孟小豹"
+    }
+  ],
+  "Pinestar's Choice": [],
+  "Hollyleaf's Story": [],
+  "Bluestar's Prophecy": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787543053267",
+      "pubDate": "2010-10-01",
+      "publisher": "武汉出版社",
+      "title": "蓝星的预言",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士外传之2-蓝星的预言-艾琳·亨特/dp/B004CLZK1C/",
+        "name": "SE2_CN",
+        "title": "猫武士外传之2:蓝星的预言 平装 – 2010年10月1日"
+      },
+      "coverImg": {
+        "file": "SE 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787541760952",
+      "pubDate": "2017-03-01",
+      "publisher": "未来出版社",
+      "title": "蓝星的预言",
+      "ref": {
+        "work": "Megbook",
+        "url": "http://www.megbook.com.hk/mall/detail.jsp?proID=2974464",
+        "name": "SE2_CN2",
+        "title": "『簡體書』猫武士外传：蓝星的预言"
+      },
+      "coverImg": {
+        "file": "SE 2 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "Return to the Clans": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541744587",
+      "pubDate": "2012-01-01",
+      "illustrator": "丹·哈德森",
+      "publisher": "未来出版社",
+      "title": "返回族群",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士漫画版虎星与莎夏3-返回族群-艾琳•亨特/dp/B007HUL6F4/",
+        "name": "Manga7_CN",
+        "title": "猫武士漫画版虎星与莎夏2:逃出森林 平装 – 2012年1月1日"
+      },
+      "coverImg": {
+        "file": "Manga 7 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "高尹倩"
+    }
+  ],
+  "Bramblestar's Storm": [],
+  "Shattered Peace": [
+    {
+      "mediaType": "平装书",
+      "pubDate": "2011-08-01",
+      "illustrator": "丹·乔利, 詹姆斯·巴利",
+      "publisher": "未来出版社",
+      "title": "和平破碎",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/gp/product/B005XXLFMG/",
+        "name": "Manga8_CN",
+        "title": "猫武士•乌爪的旅程(漫画版)(套装共3册) 平装 – 2011年8月1日"
+      },
+      "coverImg": {
+        "file": "Manga 8 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "张子漠"
+    }
+  ],
+  "Tallstar's Revenge": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541754050",
+      "pubDate": "2015-01-01",
+      "publisher": "未来出版社",
+      "title": "高星的复仇",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士外传-高星的复仇-艾琳·亨特/dp/B00UWJQ6HA/",
+        "name": "SE6_CN",
+        "title": "猫武士外传:高星的复仇 平装 – 2015年1月1日"
+      },
+      "coverImg": {
+        "file": "SE 6 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰, 卜薛婧"
+    }
+  ],
+  "The Rescue": [],
+  "The Lost Warrior": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787805888149",
+      "pubDate": "2010-06",
+      "publisher": "甘肃人民美术出版社",
+      "title": "武士失踪",
+      "ref": {
+        "work": "Douban",
+        "url": "https://book.douban.com/subject/4874446/",
+        "name": "Manga1_CN",
+        "title": "猫武士漫画版之1:武士失踪"
+      },
+      "coverImg": {
+        "file": "Manga 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "三俗公社"
+    }
+  ],
+  "The Sight": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739293",
+      "pubDate": "2010-01-01",
+      "publisher": "未来出版社",
+      "title": "预视力量",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士三部曲之1-预视力量-艾琳-亨特/dp/B003E7FATC/",
+        "name": "PO31_CN",
+        "title": "猫武士三部曲之1:预视力量 平装 – 2010年1月1日"
+      },
+      "coverImg": {
+        "file": "PO3 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "张子漠"
+    }
+  ],
+  "The Forgotten Warrior": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541746369",
+      "pubDate": "2012-08-25",
+      "publisher": "未来出版社",
+      "title": "武士归来",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士•星预言四部曲之5-武士归来-艾琳•亨特/dp/B008Y97OZ8/",
+        "name": "OOTS5_CN",
+        "title": "猫武士•星预言四部曲之5: 武士归来 平装 – 2012年8月25日"
+      },
+      "coverImg": {
+        "file": "OOTS 5 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "Sign of the Moon": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541745430",
+      "pubDate": "2012-04-01",
+      "publisher": "未来出版社",
+      "title": "月光印记",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士星预言四部曲之4-月光印记-艾琳•亨特/dp/B0083P392A/",
+        "name": "OOTS4_CN",
+        "title": "猫武士星预言四部曲之4:月光印记 平装 – 2012年5月31日"
+      },
+      "coverImg": {
+        "file": "OOTS 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "After the Flood": [],
+  "The First Battle": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541757976",
+      "pubDate": "2016-01-01",
+      "publisher": "未来出版社",
+      "title": "首次战争",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/首次战争-艾琳·亨特/dp/B01A9TOL4M/",
+        "name": "DOTC3_CN",
+        "title": "首次战争(猫武士族群黎明五部曲) 平装 – 2016年1月1日"
+      },
+      "coverImg": {
+        "file": "DOTC 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Path of Stars": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541760938",
+      "pubDate": "2016-07-01",
+      "publisher": "未来出版社",
+      "title": "群星之路",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/群星之路-艾琳·亨特/dp/B01KGTK6UI/",
+        "name": "DOTC6_CN",
+        "title": "群星之路(猫武士族群黎明五部曲) 平装 – 2016年7月1日"
+      },
+      "coverImg": {
+        "file": "DOTC 6 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰, 马智良"
+    }
+  ],
+  "Thunder and Shadow": [],
+  "Tigerheart's Shadow": [],
+  "The Ultimate Guide": [],
+  "Twilight": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739064",
+      "pubDate": "2010-01-01",
+      "publisher": "未来出版社",
+      "title": "黄昏战争",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士二部曲之5-黄昏战争-艾琳·亨特/dp/B003479ONA/",
+        "name": "NP5_CN",
+        "title": "猫武士二部曲之5:黄昏战争 平装 – 2010年1月1日"
+      },
+      "coverImg": {
+        "file": "NP 5 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "韩宜辰"
+    }
+  ],
+  "Fading Echoes": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541743177",
+      "pubDate": "2011-07-01",
+      "publisher": "未来出版社",
+      "title": "战声渐近",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士星预言四部曲之2-战声渐近-艾琳·亨特/dp/B005IV5ZWY/",
+        "name": "OOTS2_CN",
+        "title": "猫武士星预言四部曲之2:战声渐近 平装 – 2011年7月1日"
+      },
+      "coverImg": {
+        "file": "OOTS 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "The Last Hope": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541747380",
+      "pubDate": "2012-11-20",
+      "publisher": "未来出版社",
+      "title": "群星之战",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士四部曲之6-群星之战-艾琳•亨特/dp/B00A3KJ7ZQ/",
+        "name": "OOTS6_CN",
+        "title": "猫武士四部曲之6:群星之战 平装 – 2012年11月20日"
+      },
+      "coverImg": {
+        "file": "OOTS 6 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Warrior's Return": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787805887760",
+      "pubDate": "2010-06",
+      "publisher": "甘肃人民美术出版社",
+      "title": "武士回归",
+      "ref": {
+        "work": "Douban",
+        "url": "https://book.douban.com/subject/4874447/",
+        "name": "Manga3_CN",
+        "title": "猫武士漫画版之3:武士回归"
+      },
+      "coverImg": {
+        "file": "Manga 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "三俗公社"
+    }
+  ],
+  "The Rise of Scourge": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541744570",
+      "pubDate": "2012-01-30",
+      "illustrator": "丹·乔利, 贝蒂娜·卡克斯克",
+      "publisher": "未来出版社",
+      "title": "长鞭崛起",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/gp/product/B006WHEUE2/",
+        "name": "Manga4_CN",
+        "title": "猫武士•长鞭崛起(漫画版) 平装 – 2012年1月1日"
+      },
+      "coverImg": {
+        "file": "Manga 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "张子漠"
+    }
+  ],
+  "Secrets of the Clans": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787543051751",
+      "pubDate": "2010-08-01",
+      "publisher": "武汉出版社",
+      "title": "族群的秘密",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/%E7%8C%AB%E6%AD%A6%E5%A3%AB%E8%8D%92%E9%87%8E%E6%89%8B%E5%86%8C%E4%B9%8B1-%E6%97%8F%E7%BE%A4%E7%9A%84%E7%A7%98%E5%AF%86-%E8%89%BE%E7%90%B3%C2%B7%E4%BA%A8%E7%89%B9/dp/B0041IYHB0",
+        "name": "Guide1_CN",
+        "title": "猫武士荒野手册之1:族群的秘密 平装 – 2010年8月1日"
+      },
+      "coverImg": {
+        "file": "Guide 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "Cats of the Clans": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787543053281",
+      "pubDate": "2010-10-01",
+      "publisher": "武汉出版社",
+      "title": "族群的猫",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士荒野手册2-族群的猫-艾琳-亨特/dp/B004GUTES4/",
+        "name": "Guide2_CN",
+        "title": "猫武士荒野手册2:族群的猫 平装 – 2010年10月1日"
+      },
+      "coverImg": {
+        "file": "Guide 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Code of the Clans": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787543053298",
+      "pubDate": "2010-10-01",
+      "publisher": "武汉出版社",
+      "title": "族群的守则",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士荒野手册3-族群的守则-艾琳·亨特/dp/B004GUTETS/",
+        "name": "Guide3_CN",
+        "title": "猫武士荒野手册3:族群的守则 平装 – 2010年10月1日"
+      },
+      "coverImg": {
+        "file": "Guide 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "Yellowfang's Secret": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541754036",
+      "pubDate": "2015-01-01",
+      "publisher": "未来出版社",
+      "title": "黄牙的秘密",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士外传-黄牙的秘密-艾琳·亨特/dp/B00UWJQ5MQ/",
+        "name": "SE5_CN",
+        "title": "猫武士外传:黄牙的秘密 平装 – 2015年1月1日"
+      },
+      "coverImg": {
+        "file": "SE 5 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰, 卜薛婧"
+    }
+  ],
+  "The Untold Stories": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541754043",
+      "pubDate": "2015-01-01",
+      "publisher": "未来出版社",
+      "title": "不为人知的故事",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士外传-不为人知的故事-艾琳·亨特/dp/B00UWJQGWA/",
+        "name": "NovC1_CN",
+        "title": "猫武士外传:不为人知的故事 平装 – 2015年1月1日"
+      },
+      "coverImg": {
+        "file": "NovC 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰, 卜薛婧"
+    }
+  ],
+  "Warrior's Refuge": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787805887753",
+      "pubDate": "2010-06",
+      "publisher": "甘肃人民美术出版社",
+      "title": "武士避难",
+      "ref": {
+        "work": "Douban",
+        "url": "https://book.douban.com/subject/4874448/",
+        "name": "Manga2_CN",
+        "title": "猫武士漫画版之2:武士避难"
+      },
+      "coverImg": {
+        "file": "Manga 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "三俗公社"
+    }
+  ],
+  "Thunderstar's Echo": [],
+  "Ravenpaw's Farewell": [],
+  "Midnight": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541738876",
+      "pubDate": "2009-09-01",
+      "publisher": "未来出版社",
+      "title": "午夜追踪",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士二部曲之1-午夜追踪-艾琳·亨特/dp/B002QVBKHI/",
+        "name": "NP1_CN",
+        "title": "猫武士二部曲之1:午夜追踪 平装 – 2010年1月1日"
+      },
+      "coverImg": {
+        "file": "NP 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "高子梅"
+    }
+  ],
+  "The Heart of a Warrior": [
+    {
+      "mediaType": "平装书",
+      "pubDate": "2011-08-01",
+      "illustrator": "丹·乔利, 詹姆斯·巴利",
+      "publisher": "未来出版社",
+      "title": "武士之心",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/gp/product/B005XXLFMG/",
+        "name": "Manga10_CN",
+        "title": "猫武士•乌爪的旅程(漫画版)(套装共3册) 平装 – 2011年8月1日"
+      },
+      "coverImg": {
+        "file": "Manga 10 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "张子漠"
+    }
+  ],
+  "Outcast": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739415",
+      "pubDate": "2010-04-01",
+      "publisher": "未来出版社",
+      "title": "驱逐之战",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士三部曲之3-驱逐之战-艾琳·亨特/dp/B003KTLY26/",
+        "name": "PO33_CN",
+        "title": "猫武士三部曲之3:驱逐之战 平装 – 2010年4月1日"
+      },
+      "coverImg": {
+        "file": "PO3 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "张子漠"
+    }
+  ],
+  "Dovewing's Silence": [],
+  "Moth Flight's Vision": [],
+  "Night Whispers": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541743184",
+      "pubDate": "2011-07-01",
+      "publisher": "未来出版社",
+      "title": "暗夜密语",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士四部曲之3-暗夜密语-艾琳·亨特/dp/B005IV6000/",
+        "name": "OOTS3_CN",
+        "title": "猫武士四部曲之3:暗夜密语 平装 – 2011年7月1日"
+      },
+      "coverImg": {
+        "file": "OOTS 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Long Shadows": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739392",
+      "pubDate": "2010-05-01",
+      "publisher": "未来出版社",
+      "title": "暗夜长影",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士三部曲之5-暗夜长影-艾琳·亨特/dp/B003OA4LN0/",
+        "name": "PO35_CN",
+        "title": "猫武士三部曲之5:暗夜长影 平装 – 2010年5月1日"
+      },
+      "coverImg": {
+        "file": "PO3 5 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "孟小豹"
+    }
+  ],
+  "The Fourth Apprentice": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541743160",
+      "pubDate": "2011-07-01",
+      "publisher": "未来出版社",
+      "title": "第四学徒",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士四部曲之1-第四学徒-艾琳-亨特/dp/B005IV5ZQK/",
+        "name": "OOTS1_CN",
+        "title": "猫武士四部曲之1:第四学徒 平装 – 2011年7月1日"
+      },
+      "coverImg": {
+        "file": "OOTS 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "A Dangerous Path": [
+    {
+      "mediaType": "平装书",
+      "isbn": "7500790554",
+      "pubDate": "2009-03-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "险路惊魂",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士5-险路惊魂-艾琳•亨特/dp/B0023AOZ74/",
+        "name": "TPB5_CN",
+        "title": "猫武士5:险路惊魂 平装 – 2009年6月1日"
+      },
+      "coverImg": {
+        "file": "PB 5 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787500790556",
+      "pubDate": "2013",
+      "publisher": "中国少年儿童出版社",
+      "title": "险路惊魂",
+      "ref": {
+        "work": "ChinaBooks",
+        "url": "https://www.chinabooks.com/shop/chin-fict3/cat-warrior-5-a-dangerous-path-chinese-only/",
+        "name": "TPB5_CN2",
+        "title": "Cat Warrior 5: A Dangerous Path (Chinese Only)"
+      },
+      "coverImg": {
+        "file": "PB 5 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787514840896",
+      "pubDate": "2017-09-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "险路惊魂",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士首部曲-5险路惊魂-艾琳-亨特-著-赵振中-译/dp/B075NCBYYN/",
+        "name": "TPB5_CN3",
+        "title": "猫武士首部曲——5险路惊魂 平装 – 2017年9月1日"
+      },
+      "coverImg": {
+        "file": "PB 5 cover cn 3.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    }
+  ],
+  "Rising Storm": [
+    {
+      "mediaType": "平装书",
+      "isbn": "7500790546",
+      "pubDate": "2009-03-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "风起云涌",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士4-风起云涌-艾琳•亨特/dp/B0023UACGM/",
+        "name": "TPB4_CN",
+        "title": "猫武士4:风起云涌 平装 – 2009年3月1日"
+      },
+      "coverImg": {
+        "file": "PB 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787500790549",
+      "pubDate": "2013",
+      "publisher": "中国少年儿童出版社",
+      "title": "风起云涌",
+      "ref": {
+        "work": "ChinaBooks",
+        "url": "https://www.chinabooks.com/shop/chin-fict3/cat-warrior-4-rising-storm-chinese-only/",
+        "name": "TPB4_CN2",
+        "title": "Cat Warrior 4: Rising Storm (Chinese Only)"
+      },
+      "coverImg": {
+        "file": "PB 4 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787514840681",
+      "pubDate": "2017-09-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "风起云涌",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士首部曲-4风起云涌-艾琳-亨特-著-赵振中-译/dp/B075N6DTKL/",
+        "name": "TPB4_CN3",
+        "title": "猫武士首部曲——4风起云涌 平装 – 2017年9月1日"
+      },
+      "coverImg": {
+        "file": "PB 4 cover cn 3.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    }
+  ],
+  "Mapleshade's Vengeance": [],
+  "Moonrise": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541738869",
+      "pubDate": "2009-09-01",
+      "publisher": "未来出版社",
+      "title": "新月危机",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士二部曲之2-新月危机-艾琳·亨特/dp/B002QVBKH8/",
+        "name": "NP2_CN",
+        "title": "猫武士二部曲之2:新月危机 平装 – 2009年9月1日"
+      },
+      "coverImg": {
+        "file": "NP 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "谢雅文"
+    }
+  ],
+  "A Forest Divided": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541760921",
+      "pubDate": "2016-07-01",
+      "publisher": "未来出版社",
+      "title": "占地为王",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士五部曲·族群黎明-占地为王-艾琳·亨特/dp/B01KGTK6QW/",
+        "name": "DOTC5_CN",
+        "title": "猫武士五部曲·族群黎明:占地为王 平装 – 2016年7月1日"
+      },
+      "coverImg": {
+        "file": "DOTC 5 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰, 马智良"
+    }
+  ],
+  "Forest of Secrets": [
+    {
+      "mediaType": "平装书",
+      "isbn": "7500790538",
+      "pubDate": "2009-06-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "疑云重重",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士3-疑云重重-艾琳•亨特/dp/B0023UACFI/",
+        "name": "TPB3_CN",
+        "title": "猫武士3:疑云重重 平装 – 2009年6月1日"
+      },
+      "coverImg": {
+        "file": "PB 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787500790532",
+      "pubDate": "2013",
+      "publisher": "中国少年儿童出版社",
+      "title": "疑云重重",
+      "ref": {
+        "work": "ChinaBooks",
+        "url": "https://www.chinabooks.com/shop/chin-fict3/cat-warrior-3-forest-of-secrets-chinese-only/",
+        "name": "TPB3_CN2",
+        "title": "Cat Warrior 3: Forest of Secrets (Chinese Only)"
+      },
+      "coverImg": {
+        "file": "PB 3 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787514840698",
+      "pubDate": "2017-09-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "疑云重重",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/疑云重重-猫武士首部曲/dp/B077H8S2NW/",
+        "name": "TPB3_CN3",
+        "title": "疑云重重/猫武士首部曲(3) 平装 – 2017年9月1日"
+      },
+      "coverImg": {
+        "file": "PB 3 cover cn 3.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    }
+  ],
+  "Cloudstar's Journey": [],
+  "The Apprentice's Quest": [],
+  "Into the Woods": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541744587",
+      "pubDate": "2012-01-01",
+      "illustrator": "丹·哈德森",
+      "publisher": "未来出版社",
+      "title": "进入森林",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士漫画版虎星与莎夏1-进入森林-艾琳•亨特/dp/B007H3759C/",
+        "name": "Manga5_CN",
+        "title": "猫武士漫画版虎星与莎夏1:进入森林 平装 – 2012年1月1日"
+      },
+      "coverImg": {
+        "file": "Manga 5 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "高尹倩"
+    }
+  ],
+  "SkyClan's Destiny": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787543053274",
+      "pubDate": "2010-10-01",
+      "publisher": "武汉出版社",
+      "title": "天族外传",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士外传3-天族外传-艾琳·亨特/dp/B004GUTEWK/",
+        "name": "SE3_CN",
+        "title": "猫武士外传3:天族外传 平装 – 2010年10月1日"
+      },
+      "coverImg": {
+        "file": "SE 3 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787541760969",
+      "pubDate": "2017-03-01",
+      "publisher": "未来出版社",
+      "title": "天族外传",
+      "ref": {
+        "work": "Megbook",
+        "url": "http://www.megbook.com.hk/mall/detail.jsp?proID=2974465",
+        "name": "SE3_CN2",
+        "title": "『簡體書』猫武士外传：天族外传"
+      },
+      "coverImg": {
+        "file": "SE 3 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Crookedstar's Promise": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787543068261",
+      "pubDate": "2012-04-01",
+      "publisher": "武汉出版社",
+      "title": "钩星的承诺",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士外传4-钩星的承诺-艾琳•亨特/dp/B007WPNNVY/",
+        "name": "SE4_CN",
+        "title": "猫武士外传4:钩星的承诺 平装 – 2012年4月1日"
+      },
+      "coverImg": {
+        "file": "SE 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787541760976 ",
+      "pubDate": "2017-03-01",
+      "publisher": "未来出版社",
+      "title": "钩星的承诺",
+      "ref": {
+        "work": "Megbook",
+        "url": "http://www.megbook.com.hk/mall/detail.jsp?proID=2974462",
+        "name": "SE4_CN2",
+        "title": "『簡體書』猫武士外传：钩星的承诺"
+      },
+      "coverImg": {
+        "file": "SE 4 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "Fire and Ice": [
+    {
+      "mediaType": "平装书",
+      "isbn": "750079052X",
+      "pubDate": "2009-03-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "寒冰烈火",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士2-寒冰烈火-艾琳·亨特/dp/B0023UACF8/",
+        "name": "TPB2_CN",
+        "title": "猫武士2:寒冰烈火 平装 – 2009年3月1日"
+      },
+      "coverImg": {
+        "file": "PB 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "750079052X",
+      "pubDate": "2013",
+      "publisher": "中国少年儿童出版社",
+      "title": "寒冰烈火",
+      "ref": {
+        "work": "ChinaBooks",
+        "url": "https://www.chinabooks.com/shop/chin-fict3/cat-warrior-2-fire-and-ice-chinese-only/",
+        "name": "TPB2_CN2",
+        "title": "Cat Warrior 2: Fire and Ice (Chinese Only)"
+      },
+      "coverImg": {
+        "file": "PB 2 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787514840704",
+      "pubDate": "2017-09-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "寒冰烈火",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士首部曲-2寒冰烈火-艾琳-亨特-著-赵振中-译/dp/B075N6DTKK/",
+        "name": "TPB2_CN3",
+        "title": "猫武士首部曲——2寒冰烈火 平装 – 2017年9月1日"
+      },
+      "coverImg": {
+        "file": "PB 2 cover cn 3.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    }
+  ],
+  "Shattered Sky": [],
+  "Firestar's Quest": [
+    {
+      "mediaType": "平装书",
+      "isbn": "99787543051768",
+      "pubDate": "2010-08-01",
+      "publisher": "武汉出版社",
+      "title": "火星的探索",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士外传之1-火星的探索-艾琳·亨特/dp/B0041IYH9M/",
+        "name": "SE1_CN",
+        "title": "猫武士外传之1:火星的探索 平装 – 2010年8月1日"
+      },
+      "coverImg": {
+        "file": "SE 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787541760945",
+      "pubDate": "2017-03-01",
+      "publisher": "未来出版社",
+      "title": "火星的探索",
+      "ref": {
+        "work": "Megbook",
+        "url": "http://www.megbook.com.hk/mall/detail.jsp?proID=2974463",
+        "name": "SE1_CN2",
+        "title": "『簡體書』猫武士外传：火星的探索"
+      },
+      "coverImg": {
+        "file": "SE 1 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Darkest Night": [],
+  "Leafpool's Wish": [],
+  "The Darkest Hour": [
+    {
+      "mediaType": "平装书",
+      "isbn": "7500790554",
+      "pubDate": "2009-03-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "力挽狂澜",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士6-力挽狂澜-艾琳•亨特/dp/B0023UACG2/",
+        "name": "TPB6_CN",
+        "title": "猫武士6:力挽狂澜 平装 – 2009年3月1日"
+      },
+      "coverImg": {
+        "file": "PB 6 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787500790563",
+      "pubDate": "2013",
+      "publisher": "中国少年儿童出版社",
+      "title": "力挽狂澜",
+      "ref": {
+        "work": "ChinaBooks",
+        "url": "https://www.chinabooks.com/shop/chin-fict3/cat-warrior-6-the-darkest-hour-chinese-only/",
+        "name": "TPB6_CN2",
+        "title": "Cat Warrior 6: The Darkest Hour (Chinese Only)"
+      },
+      "coverImg": {
+        "file": "PB 6 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787514840902",
+      "pubDate": "2017-09-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "力挽狂澜",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士首部曲-6力挽狂澜-艾琳-亨特-著-赵振中-译/dp/B075N576HR/",
+        "name": "TPB6_CN3",
+        "title": "猫武士首部曲——6力挽狂澜 平装 – 2017年9月1日"
+      },
+      "coverImg": {
+        "file": "PB 6 cover cn 3.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    }
+  ],
+  "Sunset": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739064",
+      "pubDate": "2010-01-01",
+      "publisher": "未来出版社",
+      "title": "日落和平",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士二部曲之6-日落和平-艾琳·亨特/dp/B003479OMG/",
+        "name": "NP6_CN",
+        "title": "猫武士二部曲之6:日落和平 平装 – 2010年1月1日"
+      },
+      "coverImg": {
+        "file": "NP 6 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "韩宜辰"
+    }
+  ],
+  "Sunrise": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739385",
+      "pubDate": "2010-05-01",
+      "publisher": "未来出版社",
+      "title": "拂晓之光",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士三部曲之6-拂晓之光-艾琳·亨特/dp/B003OA4LOY/",
+        "name": "PO36_CN",
+        "title": "猫武士三部曲之6:拂晓之光 平装 – 2010年5月1日"
+      },
+      "coverImg": {
+        "file": "PO3 6 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "A Clan in Need": [
+    {
+      "mediaType": "平装书",
+      "pubDate": "2011-08-01",
+      "illustrator": "丹·乔利, 詹姆斯·巴利",
+      "publisher": "未来出版社",
+      "title": "族群救星",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/gp/product/B005XXLFMG/",
+        "name": "Manga9_CN",
+        "title": "猫武士•乌爪的旅程(漫画版)(套装共3册) 平装 – 2011年8月1日"
+      },
+      "coverImg": {
+        "file": "Manga 9 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "张子漠"
+    }
+  ],
+  "Starlight": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541738135",
+      "pubDate": "2009-09-01",
+      "publisher": "未来出版社",
+      "title": "星光指路",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士二部曲之4-星光指路-艾琳·亨特/dp/B0030BO0DO/",
+        "name": "NP4_CN",
+        "title": "猫武士二部曲之4:星光指路 平装 – 2009年9月1日"
+      },
+      "coverImg": {
+        "file": "NP 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "谢雅文"
+    }
+  ],
+  "Battles of the Clans": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787543053304",
+      "pubDate": "2010-10-01",
+      "publisher": "武汉出版社",
+      "title": "族群的战争",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士•荒野手册4-族群的战争-艾琳·亨利/dp/B004GUTEUM/",
+        "name": "Guide4_CN",
+        "title": "猫武士•荒野手册4:族群的战争 平装 – 2010年10月1日"
+      },
+      "coverImg": {
+        "file": "Guide 4 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "杨冰"
+    }
+  ],
+  "Enter the Clans": [],
+  "Mistystar's Omen": [],
+  "The Sun Trail": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541751998",
+      "pubDate": "2014-05-01",
+      "illustrator": "李珂",
+      "publisher": "未来出版社",
+      "title": "追随太阳",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士五部曲·族群黎明-追随太阳-艾琳·亨特/dp/B00LAXE2BE/",
+        "name": "DOTC1_CN",
+        "title": "猫武士五部曲·族群黎明(1):追随太阳 平装 – 2014年5月1日"
+      },
+      "coverImg": {
+        "file": "DOTC 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Hawkwing's Journey": [],
+  "Into the Wild": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787500790518",
+      "pubDate": "2009-03-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "呼唤野性",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士1-呼唤野性-艾琳-亨特/dp/B0023UACGC/",
+        "name": "TPB1_CN",
+        "title": "猫武士1:呼唤野性 平装 – 2009年5月1日"
+      },
+      "coverImg": {
+        "file": "PB 1 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787500790518",
+      "pubDate": "2013",
+      "publisher": "中国少年儿童出版社",
+      "title": "呼唤野性",
+      "ref": {
+        "work": "ChinaBooks",
+        "url": "https://www.chinabooks.com/shop/chin-fict3/cat-warrior-1-into-the-wild-chinese-only/",
+        "name": "TPB1_CN2",
+        "title": "Cat Warrior 1: Into the Wild (Chinese Only)"
+      },
+      "coverImg": {
+        "file": "PB 1 cover cn 2.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    },
+    {
+      "mediaType": "平装书；封面重制",
+      "isbn": "9787514840711",
+      "pubDate": "2017-09-01",
+      "publisher": "中国少年儿童出版社",
+      "title": "呼唤野性",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士首部曲-1呼唤野性-艾琳-亨特-著-赵振中-译/dp/B075NC2C1D/",
+        "name": "TPB1_CN3",
+        "title": "猫武士首部曲——1呼唤野性 平装 – 2017年9月1日"
+      },
+      "coverImg": {
+        "file": "PB 1 cover cn 3.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "赵振中"
+    }
+  ],
+  "Thunder Rising": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541757969",
+      "pubDate": "2016-01-01",
+      "publisher": "未来出版社",
+      "title": "雷电崛起",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/雷电崛起-艾琳·亨特/dp/B01A9TOLMY/",
+        "name": "DOTC2_CN",
+        "title": "雷电崛起(猫武士族群黎明五部曲) 平装 – 2016年1月1日"
+      },
+      "coverImg": {
+        "file": "DOTC 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "周鹰"
+    }
+  ],
+  "Dark River": [
+    {
+      "mediaType": "平装书",
+      "isbn": "9787541739286",
+      "pubDate": "2010-01-01",
+      "publisher": "未来出版社",
+      "title": "暗河汹涌",
+      "ref": {
+        "work": "Amazon",
+        "url": "https://www.amazon.cn/猫武士三部曲之2-暗河汹涌-艾琳·亨特/dp/B003E7FATM/",
+        "name": "PO32_CN",
+        "title": "猫武士三部曲之2:暗河汹涌 平装 – 2010年1月1日"
+      },
+      "coverImg": {
+        "file": "PO3 2 cover cn.jpg",
+        "title": "简体中文",
+        "area": "中国"
+      },
+      "translator": "张子漠"
+    }
+  ]
+}
