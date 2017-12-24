@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
+using MwParserFromScratch;
 using VDS.RDF;
 using VDS.RDF.Parsing;
 using VDS.RDF.Query;
@@ -110,6 +111,21 @@ namespace EntitySeeding
                 return null;
             }
             return result.Value;
+        }
+
+        public static string EntityFromZhSiteLink(string link)
+        {
+            var query = CreateQuery(@"
+                    SELECT ?item {
+                        ?link   schema:isPartOf <https://warriors.huijiwiki.com/>;
+                                schema:about ?item;
+                                schema:name @title.
+                    }");
+            query.SetLiteral("title", MwParserUtility.NormalizeTitle(link), "zh");
+            var result = ExecuteQuery(query);
+            var uri = ((IUriNode)result.FirstOrDefault()?.Value("item"))?.Uri;
+            if (uri == null) return null;
+            return StripEntityUri(uri);
         }
 
         public static SparqlParameterizedString CreateQuery(string expr = null)

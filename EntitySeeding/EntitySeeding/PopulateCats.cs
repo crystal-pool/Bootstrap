@@ -34,13 +34,20 @@ namespace EntitySeeding
         public async Task RunAsync()
         {
             await zhWarriorsSite.Initialization;
-            var gen = new CategoryMembersGenerator(zhWarriorsSite, "猫物")
+            var gen = new CategoryMembersGenerator(zhWarriorsSite, "没有图片的猫物")
             {
                 PaginationSize = 50,
                 MemberTypes = CategoryMemberTypes.Page,
             };
+            var enu = gen.EnumPagesAsync(PageQueryOptions.FetchContent);
+            var fixedPages = @"
+焦风
+微光毛_(黑莓星的风暴)
+".Split(new[] {'\r', '\n'}, StringSplitOptions.RemoveEmptyEntries).Select(t => new WikiPage(zhWarriorsSite, t)).ToList();
+            await fixedPages.RefreshAsync(PageQueryOptions.FetchContent | PageQueryOptions.ResolveRedirects);
+            enu = fixedPages.ToAsyncEnumerable();
             var counter = 0;
-            using (var ie = gen.EnumPagesAsync(PageQueryOptions.FetchContent).GetEnumerator())
+            using (var ie = enu.GetEnumerator())
             {
                 while (await ie.MoveNext())
                 {
@@ -86,10 +93,12 @@ namespace EntitySeeding
                 {"河族", ("RiverClan", "河族", 10, 0)},
                 {"天族", ("SkyClan", "天族", 10, 0)},
                 {"星族", ("StarClan", "星族", 1, 0)},
-                {"黑森林", ("Dark Forest", "黑森林", 1, 2)},
-                {"宠物猫", ("kittypet", "寵物貓", 5, 1)},
+                {"同胞", ("the Kin", "同胞", 6, 0)},
+                {"守护者", ("guardian cat", "守護者", 1, 1)},
+                {"宠物猫", ("kittypet", "寵物貓", 3, 1)},
                 {"独行猫", ("loner", "獨行貓", 4, 1)},
-                {"泼皮猫", ("rogue", "潑皮貓", 3, 1)},
+                {"泼皮猫", ("rogue", "潑皮貓", 5, 1)},
+                {"黑森林", ("Dark Forest", "黑森林", 1, 2)},
                 {"山地猫", ("Ancient Tribe", "遠古部落", 10, 2)},
                 {"远古部落", ("Ancient Tribe", "遠古部落", 10, 2)},
                 {"急水部落", ("Tribe of Rushing Water", "急水部落", 10, 2)},
@@ -174,6 +183,7 @@ namespace EntitySeeding
                     string tw = null;
                     var lt = name.Arguments[1].Value.EnumDescendants().TemplatesWithTitle("LT").FirstOrDefault();
                     var diffVer = name.Arguments[1].Value.EnumDescendants().TemplatesWithTitle("DiffVer").FirstOrDefault();
+                    var dt = name.Arguments[1].Value.EnumDescendants().TemplatesWithTitle("DT").FirstOrDefault();
                     if (lt != null)
                     {
                         var parsed = await Task.WhenAll(
@@ -190,6 +200,11 @@ namespace EntitySeeding
                     {
                         cn = diffVer.Arguments["cn"].Value.ToPlainText(NodePlainTextOptions.RemoveRefTags).Trim();
                         tw = diffVer.Arguments["tw"].Value.ToPlainText(NodePlainTextOptions.RemoveRefTags).Trim();
+                    }
+                    else if (dt != null)
+                    {
+                        cn = dt.Arguments[1]?.Value.ToPlainText(NodePlainTextOptions.RemoveRefTags).Trim();
+                        tw = dt.Arguments[2]?.Value.ToPlainText(NodePlainTextOptions.RemoveRefTags).Trim();
                     }
                     else
                     {

@@ -72,5 +72,20 @@ namespace EntitySeeding
                 .FirstOrDefault(l => !string.IsNullOrEmpty(l));
         }
 
+        public static IEnumerable<ICollection<T>> Buffer<T>(this IEnumerable<T> source, int count)
+        {
+            var block = new List<T>();
+            foreach (var i in source)
+            {
+                block.Add(i);
+                if (block.Count >= count)
+                {
+                    yield return block;
+                    block.Clear();
+                }
+            }
+            if (block.Count >= 0) yield return block;
+        }
+
     }
 }
