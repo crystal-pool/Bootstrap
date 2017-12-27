@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
@@ -9,6 +10,7 @@ using MwParserFromScratch;
 using MwParserFromScratch.Nodes;
 using VDS.RDF;
 using VDS.RDF.Nodes;
+using VDS.RDF.Query;
 using WikiClientLibrary;
 using WikiClientLibrary.Pages;
 using WikiClientLibrary.Sites;
@@ -27,8 +29,7 @@ namespace EntitySeeding
         }
 
         private readonly WikiSite zhWarriorsSite;
-        private HashSet<string> processedEntities;
-        private const string statusFileName = "PopulateCats1.json";
+        private const string statusFileName = "PopulateCats1-{0}.json";
         private static readonly WikitextParser parser = new WikitextParser();
 
         private void WriteMissingEntity(string name)
@@ -36,34 +37,53 @@ namespace EntitySeeding
             File.AppendAllLines("MissingEntities.txt", new[] {name});
         }
 
-        public async Task PopulateRelationsAsync()
+        private SparqlResultSet GetCats()
         {
-            if (File.Exists(statusFileName))
-            {
-                processedEntities = Utility.ReadJsonFrom<HashSet<string>>(statusFileName);
-            }
-            else
-            {
-                processedEntities = new HashSet<string>();
-            }
-            await zhWarriorsSite.Initialization;
-            var cats = CPRepository.ExecuteQuery(@"
+            return CPRepository.ExecuteQuery(@"
                     SELECT ?cat ?title {
                         ?cat wdt:P3 wd:Q622.
                         ?link   schema:isPartOf <https://warriors.huijiwiki.com/>;
                                 schema:about ?cat;
                                 schema:name ?title.
                     }");
-            var counter = 0;
-            foreach (var catg0 in cats.Buffer(50))
+        }
+
+        private IEnumerable<(string Id, string Title, WikiPage ZhPage)> GetCatsToProcess(ICollection<string> processed)
+        {
+            var cats = GetCats();
+            return cats.Select(c => (id: CPRepository.StripEntityUri(((IUriNode)c.Value("cat")).Uri), title: c.Value("title").AsValuedNode().AsString()))
+                .Where(t => !processed.Contains(t.id))
+                .Select(t => (t.id, t.title, page: new WikiPage(zhWarriorsSite, t.title)));
+        }
+
+        private ISet<string> GetProcessedEntities([CallerMemberName] string subName = null)
+        {
+            var fn = string.Format(statusFileName, subName);
+            if (File.Exists(fn))
             {
-                var catg = catg0.Select(c => (id: CPRepository.StripEntityUri(((IUriNode)c.Value("cat")).Uri), title: c.Value("title").AsValuedNode().AsString()))
-                    .Where(t => !processedEntities.Contains(t.id))
-                    .Select(t => (t.id, t.title, page: new WikiPage(zhWarriorsSite, t.title)))
-                    .ToList();
-                counter += catg0.Count - catg.Count;
-                if (catg.Count == 0) continue;
-                await catg.Select(t => t.page).RefreshAsync(PageQueryOptions.FetchContent);
+                return Utility.ReadJsonFrom<HashSet<string>>(fn);
+            }
+            else
+            {
+                return new HashSet<string>();
+            }
+        }
+
+        private void WriteProcessedEntities(IEnumerable<string> processedEntities, [CallerMemberName] string subName = null)
+        {
+            var fn = string.Format(statusFileName, subName);
+            Utility.WriteJsonTo(fn, processedEntities);
+        }
+
+
+        public async Task PopulateRelationsAsync()
+        {
+            var processedEntities = GetProcessedEntities();
+            await zhWarriorsSite.Initialization;
+            var counter = 0;
+            foreach (var catg in GetCatsToProcess(processedEntities).Buffer(50))
+            {
+                await catg.Select(t => t.ZhPage).RefreshAsync(PageQueryOptions.FetchContent);
                 foreach (var (id, title, page) in catg)
                 {
                     counter++;
@@ -77,7 +97,7 @@ namespace EntitySeeding
                     {
                         Logger.LogWarning("Missing entity.");
                     }
-                    Utility.WriteJsonTo(statusFileName, processedEntities);
+                    WriteProcessedEntities(processedEntities);
                 }
             }
 
