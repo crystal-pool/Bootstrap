@@ -1,6 +1,7 @@
 
 using System;
 using System.Collections.Generic;
+using Newtonsoft.Json.Linq;
 
 namespace ConvertTimeline.Contracts
 {
@@ -20,7 +21,8 @@ namespace ConvertTimeline.Contracts
 
         public string BookName { get; set; }
 
-        public IDictionary<string, DetailEntry> Details { get; set; }
+        // IDictionary<string, DetailEntry>
+        public JToken Details { get; set; }
 
     }
 

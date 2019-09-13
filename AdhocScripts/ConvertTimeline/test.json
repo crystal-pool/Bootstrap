@@ -1,0 +1,1026 @@
+{
+  "fq": {
+    "interval": [
+      "1",
+      "31",
+      "ep"
+    ],
+    "bookName": "火星的探索",
+    "details": {
+      "ep": {
+        "year": 27,
+        "month": 9
+      },
+      "1": {
+        "year": 27,
+        "month": 3
+      },
+      "31": {
+        "year": 27,
+        "month": 6
+      }
+    }
+  },
+  "om3": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "暗夜密语",
+    "details": [
+      {
+        "year": 31,
+        "month": 9
+      }
+    ]
+  },
+  "vs3": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "天空破碎",
+    "details": [
+      {
+        "year": 35,
+        "month": 0
+      }
+    ]
+  },
+  "vs2": {
+    "interval": [
+      "1",
+      "12",
+      "16"
+    ],
+    "bookName": "雷影交加",
+    "details": {
+      "1": {
+        "year": 34,
+        "month": 6
+      },
+      "12": {
+        "year": 34,
+        "month": 9
+      },
+      "16": {
+        "year": 35,
+        "month": 0
+      }
+    }
+  },
+  "np3": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "重现家园",
+    "details": [
+      {
+        "year": 28,
+        "month": 9
+      }
+    ]
+  },
+  "os5": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "险路惊魂",
+    "details": [
+      {
+        "year": 26,
+        "month": 6
+      }
+    ]
+  },
+  "om4": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "月光印记",
+    "details": [
+      {
+        "year": 31,
+        "month": 9
+      }
+    ]
+  },
+  "vs1": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "学徒探索",
+    "details": [
+      {
+        "year": 34,
+        "month": 3
+      }
+    ]
+  },
+  "bs": {
+    "interval": [
+      "1",
+      "m"
+    ],
+    "bookName": "黑莓星的风暴",
+    "details": {
+      "m": {
+        "year": 33,
+        "month": 9
+      },
+      "1": {
+        "year": 33,
+        "month": 0
+      }
+    }
+  },
+  "ds": {
+    "interval": [
+      "1",
+      "6"
+    ],
+    "bookName": "鸽翅的沉默",
+    "details": {
+      "1": {
+        "year": 32,
+        "month": 6
+      },
+      "6": {
+        "year": 32,
+        "month": 9
+      }
+    }
+  },
+  "ts": {
+    "interval": [
+      "1",
+      "19",
+      "33"
+    ],
+    "bookName": "虎心的阴影",
+    "details": {
+      "1": {
+        "year": 35,
+        "month": 6
+      },
+      "19": {
+        "year": 35,
+        "month": 9
+      },
+      "33": {
+        "year": 35,
+        "month": 11
+      }
+    }
+  },
+  "np2": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "新月危机",
+    "details": [
+      {
+        "year": 28,
+        "month": 6
+      }
+    ]
+  },
+  "ys": {
+    "interval": [
+      "1",
+      "4",
+      "8",
+      "8.6",
+      "13",
+      "14",
+      "22",
+      "24",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34",
+      "38",
+      "39"
+    ],
+    "bookName": "黄牙的秘密",
+    "details": {
+      "1": {
+        "year": 19,
+        "month": 3
+      },
+      "4": {
+        "year": 19,
+        "month": 9
+      },
+      "8": {
+        "year": 20,
+        "month": 0
+      },
+      "8.6": {
+        "year": 20,
+        "month": 3
+      },
+      "13": {
+        "year": 20,
+        "month": 6
+      },
+      "14": {
+        "year": 20,
+        "month": 9
+      },
+      "22": {
+        "year": 21,
+        "month": 6
+      },
+      "24": {
+        "year": 21,
+        "month": 9
+      },
+      "28": {
+        "year": 22,
+        "month": 0
+      },
+      "29": {
+        "year": 22,
+        "month": 3
+      },
+      "30": {
+        "year": 22,
+        "month": 6
+      },
+      "31": {
+        "year": 22,
+        "month": 9
+      },
+      "32": {
+        "year": 23,
+        "month": 0
+      },
+      "33": {
+        "year": 24,
+        "month": 3
+      },
+      "34": {
+        "year": 24,
+        "month": 6
+      },
+      "38": {
+        "year": 25,
+        "month": 0
+      },
+      "39": {
+        "year": 25,
+        "month": 3
+      }
+    }
+  },
+  "vs5": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "烈火焚河",
+    "details": [
+      {
+        "year": 35,
+        "month": 7
+      }
+    ]
+  },
+  "om2": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "战声渐近",
+    "details": [
+      {
+        "year": 31,
+        "month": 6
+      }
+    ]
+  },
+  "np6": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "日落和平",
+    "details": [
+      {
+        "year": 29,
+        "month": 2
+      }
+    ]
+  },
+  "nowTS": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "虎心的阴影",
+    "details": [
+      {
+        "year": 35,
+        "month": 12
+      }
+    ]
+  },
+  "po4": {
+    "interval": [
+      "1",
+      "2"
+    ],
+    "bookName": "天蚀遮月",
+    "details": [
+      {
+        "year": 30,
+        "month": 3
+      },
+      {
+        "year": 30,
+        "month": 6
+      }
+    ]
+  },
+  "tf": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "虎掌的憤怒",
+    "details": [
+      {
+        "year": 26,
+        "month": 3
+      }
+    ]
+  },
+  "sd": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "天族外传",
+    "details": [
+      {
+        "year": 28,
+        "month": 0
+      }
+    ]
+  },
+  "np1": {
+    "interval": [
+      "1",
+      "10"
+    ],
+    "bookName": "午夜追踪",
+    "details": {
+      "1": {
+        "year": 28,
+        "month": 3
+      },
+      "10": {
+        "year": 28,
+        "month": 6
+      }
+    }
+  },
+  "bp": {
+    "interval": [
+      "1",
+      "3",
+      "6",
+      "10",
+      "14",
+      "18",
+      "25",
+      "32",
+      "33",
+      "38",
+      "44",
+      "45"
+    ],
+    "bookName": "蓝星的预言",
+    "details": {
+      "1": {
+        "year": 20,
+        "month": 0
+      },
+      "3": {
+        "year": 20,
+        "month": 6
+      },
+      "6": {
+        "year": 20,
+        "month": 8
+      },
+      "10": {
+        "year": 20,
+        "month": 9
+      },
+      "14": {
+        "year": 21,
+        "month": 0
+      },
+      "18": {
+        "year": 21,
+        "month": 3
+      },
+      "25": {
+        "year": 21,
+        "month": 6
+      },
+      "32": {
+        "year": 21,
+        "month": 9
+      },
+      "33": {
+        "year": 22,
+        "month": 6
+      },
+      "38": {
+        "year": 22,
+        "month": 9
+      },
+      "44": {
+        "year": 23,
+        "month": 0
+      },
+      "45": {
+        "year": 25,
+        "month": 0
+      }
+    }
+  },
+  "cp": {
+    "interval": [
+      "pr",
+      "1",
+      "5",
+      "9",
+      "12",
+      "16",
+      "20",
+      "27",
+      "28",
+      "29",
+      "34",
+      "35",
+      "38"
+    ],
+    "bookName": "钩星的承诺",
+    "details": {
+      "pr": {
+        "year": 19,
+        "month": 9
+      },
+      "1": {
+        "year": 20,
+        "month": 0
+      },
+      "5": {
+        "year": 20,
+        "month": 3
+      },
+      "9": {
+        "year": 20,
+        "month": 6
+      },
+      "12": {
+        "year": 20,
+        "month": 9
+      },
+      "16": {
+        "year": 21,
+        "month": 0
+      },
+      "20": {
+        "year": 21,
+        "month": 3
+      },
+      "27": {
+        "year": 21,
+        "month": 6
+      },
+      "28": {
+        "year": 21,
+        "month": 9
+      },
+      "29": {
+        "year": 22,
+        "month": 3
+      },
+      "34": {
+        "year": 22,
+        "month": 6
+      },
+      "35": {
+        "year": 22,
+        "month": 9
+      },
+      "38": {
+        "year": 24,
+        "month": 3
+      }
+    }
+  },
+  "vs4": {
+    "interval": [
+      "1",
+      "11"
+    ],
+    "bookName": "极夜无光",
+    "details": {
+      "1": {
+        "year": 35,
+        "month": 3
+      },
+      "11": {
+        "year": 35,
+        "month": 6
+      }
+    }
+  },
+  "os6": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "力挽狂澜",
+    "details": [
+      {
+        "year": 26,
+        "month": 9
+      }
+    ]
+  },
+  "vs6": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "风暴来袭",
+    "details": [
+      {
+        "year": 36,
+        "month": 0
+      }
+    ]
+  },
+  "bc1": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "迷失群星",
+    "details": [
+      {
+        "year": 36,
+        "month": 9
+      }
+    ]
+  },
+  "ss3": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "超越守则",
+    "details": [
+      {
+        "year": 29,
+        "month": 0
+      }
+    ]
+  },
+  "np4": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "星光指路",
+    "details": [
+      {
+        "year": 28,
+        "month": 10
+      }
+    ]
+  },
+  "gc": {
+    "interval": [
+      "1",
+      "5",
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "bookName": "鹅羽的诅咒",
+    "details": {
+      "1": {
+        "year": 18,
+        "month": 3
+      },
+      "5": {
+        "year": 18,
+        "month": 3
+      },
+      "6": {
+        "year": 18,
+        "month": 6
+      },
+      "7": {
+        "year": 18,
+        "month": 9
+      },
+      "8": {
+        "year": 18,
+        "month": 9
+      },
+      "10": {
+        "year": 19,
+        "month": 0
+      }
+    }
+  },
+  "tr": {
+    "interval": [
+      "1",
+      "3",
+      "5",
+      "21",
+      "24",
+      "41",
+      "44"
+    ],
+    "bookName": "高星的复仇",
+    "details": {
+      "1": {
+        "year": 18,
+        "month": 9
+      },
+      "3": {
+        "year": 19,
+        "month": 0
+      },
+      "5": {
+        "year": 19,
+        "month": 3
+      },
+      "21": {
+        "year": 19,
+        "month": 6
+      },
+      "24": {
+        "year": 19,
+        "month": 9
+      },
+      "41": {
+        "year": 19,
+        "month": 11
+      },
+      "44": {
+        "year": 20,
+        "month": 0
+      }
+    }
+  },
+  "po6": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "拂晓之光",
+    "details": [
+      {
+        "year": 30,
+        "month": 9
+      }
+    ]
+  },
+  "ts3": {
+    "interval": [
+      "1",
+      "2"
+    ],
+    "bookName": "返回族群",
+    "details": [
+      {
+        "year": 26,
+        "month": 9
+      },
+      {
+        "year": 27,
+        "month": 0
+      }
+    ]
+  },
+  "po3": {
+    "interval": [
+      "1",
+      "26"
+    ],
+    "bookName": "驱逐之战",
+    "details": {
+      "1": {
+        "year": 30,
+        "month": 0
+      },
+      "26": {
+        "year": 30,
+        "month": 3
+      }
+    }
+  },
+  "now": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "迷失群星",
+    "details": [
+      {
+        "year": 36,
+        "month": 9
+      }
+    ]
+  },
+  "mo": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "雾星的征兆",
+    "details": [
+      {
+        "year": 31,
+        "month": 6
+      }
+    ]
+  },
+  "hj": {
+    "interval": [
+      "1",
+      "15",
+      "29",
+      "29.5",
+      "30",
+      "32",
+      "m"
+    ],
+    "bookName": "鹰翅的旅程",
+    "details": {
+      "m": {
+        "year": 35,
+        "month": 0
+      },
+      "1": {
+        "year": 33,
+        "month": 3
+      },
+      "15": {
+        "year": 34,
+        "month": 0
+      },
+      "29": {
+        "year": 34,
+        "month": 3
+      },
+      "29.5": {
+        "year": 34,
+        "month": 4
+      },
+      "30": {
+        "year": 34,
+        "month": 6
+      },
+      "32": {
+        "year": 34,
+        "month": 9
+      }
+    }
+  },
+  "os3": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "疑云重重",
+    "details": [
+      {
+        "year": 26,
+        "month": 0
+      }
+    ]
+  },
+  "pc": {
+    "interval": [
+      "1",
+      "3",
+      "4",
+      "6",
+      "7",
+      "8"
+    ],
+    "bookName": "松星的抉择",
+    "details": {
+      "1": {
+        "year": 11,
+        "month": 3
+      },
+      "3": {
+        "year": 11,
+        "month": 9
+      },
+      "4": {
+        "year": 18,
+        "month": 0
+      },
+      "6": {
+        "year": 20,
+        "month": 6
+      },
+      "7": {
+        "year": 21,
+        "month": 0
+      },
+      "8": {
+        "year": 21,
+        "month": 3
+      }
+    }
+  },
+  "os1": {
+    "interval": [
+      "1",
+      "6"
+    ],
+    "bookName": "呼唤野性",
+    "details": {
+      "1": {
+        "year": 25,
+        "month": 0
+      },
+      "6": {
+        "year": 25,
+        "month": 3
+      }
+    }
+  },
+  "po2": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "暗河汹涌",
+    "details": [
+      {
+        "year": 30,
+        "month": 0
+      }
+    ]
+  },
+  "ss2": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "超越守则",
+    "details": [
+      {
+        "year": 28,
+        "month": 10
+      }
+    ]
+  },
+  "om1": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "第四学徒",
+    "details": [
+      {
+        "year": 31,
+        "month": 3
+      }
+    ]
+  },
+  "ss1": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "救援",
+    "details": [
+      {
+        "year": 28,
+        "month": 9
+      }
+    ]
+  },
+  "os2": {
+    "interval": [
+      "1",
+      "13"
+    ],
+    "bookName": "寒冰烈火",
+    "details": {
+      "1": {
+        "year": 25,
+        "month": 6
+      },
+      "13": {
+        "year": 25,
+        "month": 9
+      }
+    }
+  },
+  "om6": {
+    "interval": [
+      "1",
+      "19"
+    ],
+    "bookName": "群星之战",
+    "details": {
+      "1": {
+        "year": 32,
+        "month": 4
+      },
+      "19": {
+        "year": 32,
+        "month": 6
+      }
+    }
+  },
+  "np5": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "黄昏战争",
+    "details": [
+      {
+        "year": 29,
+        "month": 0
+      }
+    ]
+  },
+  "po1": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "预视力量",
+    "details": [
+      {
+        "year": 29,
+        "month": 9
+      }
+    ]
+  },
+  "po5": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "暗夜长影",
+    "details": [
+      {
+        "year": 30,
+        "month": 6
+      }
+    ]
+  },
+  "os4": {
+    "interval": [
+      "1"
+    ],
+    "bookName": "风起云涌",
+    "details": [
+      {
+        "year": 26,
+        "month": 3
+      }
+    ]
+  },
+  "om5": {
+    "interval": [
+      "1",
+      "9"
+    ],
+    "bookName": "武士归来",
+    "details": {
+      "1": {
+        "year": 32,
+        "month": 0
+      },
+      "9": {
+        "year": 32,
+        "month": 3
+      }
+    }
+  },
+  "rf": {
+    "interval": [
+      "1",
+      "3",
+      "4"
+    ],
+    "bookName": "乌爪的告别",
+    "details": {
+      "1": {
+        "year": 31,
+        "month": 6
+      },
+      "3": {
+        "year": 31,
+        "month": 9
+      },
+      "4": {
+        "year": 32,
+        "month": 0
+      }
+    }
+  }
+}
