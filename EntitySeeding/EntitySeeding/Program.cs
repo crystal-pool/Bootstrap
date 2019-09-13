@@ -31,7 +31,8 @@ namespace EntitySeeding
             //await new PopulateEditionsRoutine(site, loggerFactory, "zh-tw").RunAsync();
             //await new PopulateChapters(site, loggerFactory).RunAsync();
             //await new PopulateCats(site, loggerFactory).RunAsync();
-            await new PopulateCats1(site, loggerFactory).PopulateRelationsAsync();
+            //await new PopulateCats1(site, loggerFactory).PopulateRelationsAsync();
+            await new PopulateCats1(site, loggerFactory).PopulateAffiliationsAsync();
         }
     }
 }

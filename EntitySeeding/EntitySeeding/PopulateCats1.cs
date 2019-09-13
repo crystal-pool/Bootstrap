@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -197,6 +198,128 @@ namespace EntitySeeding
             }
         }
 
+        private ConcurrentDictionary<string, string> bookLocationCacheDict = new ConcurrentDictionary<string, string>();
+
+        private IList<(string Name, string Book, string Location)> ExtractAffiliations(Node root)
+        {
+            string lastLink = null;
+            var list = new List<(string, string, string)>();
+
+            void PushLastLink(string b, string l)
+            {
+                if (lastLink != null)
+                {
+                    list.Add((lastLink, b, l));
+                    lastLink = null;
+                }
+            }
+
+            foreach (var node in root.EnumDescendants())
+            {
+                if (node is WikiLink link)
+                {
+                    PushLastLink(null, null);
+                    lastLink = link.Target.ToString().Trim();
+                } else if (node is Template template && MwParserUtility.NormalizeTitle(template.Name) == "R")
+                {
+                    if (lastLink != null)
+                    {
+                        var b = template.Arguments[1].ToString().Trim();
+                        var l = template.Arguments[2]?.ToString().Trim();
+                        PushLastLink(b, l);
+                    }
+                }
+            }
+            return list;
+        }
+
+        public async Task PopulateAffiliationsAsync()
+        {
+            var processedEntities = GetProcessedEntities();
+            await zhWarriorsSite.Initialization;
+            var counter = 0;
+            foreach (var catg in GetCatsToProcess(processedEntities).Buffer(50))
+            {
+                await catg.Select(t => t.ZhPage).RefreshAsync(PageQueryOptions.FetchContent);
+                foreach (var (id, title, page) in catg)
+                {
+                    counter++;
+                    Logger.LogInformation("[{}] Processing {} -> {}", counter, title, id);
+                    try
+                    {
+                        await EditEntityAsync(new Entity(Site, id), page);
+                        processedEntities.Add(id);
+                    }
+                    catch (KeyNotFoundException)
+                    {
+                        Logger.LogWarning("Missing entity.");
+                    }
+                    WriteProcessedEntities(processedEntities);
+                }
+
+                async Task EditEntityAsync(Entity entity, WikiPage page)
+                {
+                    var root = parser.Parse(page.Content);
+                    var infobox = root.EnumDescendants().TemplatesWithTitle("Infobox cat").FirstOrDefault();
+                    if (infobox == null)
+                    {
+                        Logger.LogError("No {{Infobox cat}} found.");
+                        return;
+                    }
+                    var pastAff = await ExtractAffiliationsEx(infobox.Arguments["past_affiliation"]?.Value);
+                    var curAff = await ExtractAffiliationsEx(infobox.Arguments["current_affiliation"]?.Value);
+                    var claims = new List<Claim>();
+                    foreach (var (AffId, PosId) in pastAff.Concat(curAff))
+                    {
+                        Claim c;
+                        if (AffId != null)
+                            c = new Claim("P76", AffId, BuiltInDataTypes.WikibaseItem);
+                        else
+                            c = new Claim(new Snak("P76", SnakType.SomeValue));
+                        if (PosId != null)
+                            c.Qualifiers.Add(new Snak("P92", PosId, BuiltInDataTypes.WikibaseItem));
+                        Logger.LogInformation("Affiliation: {}, Pos: {}", CPRepository.LabelFromEntity(AffId, "en"),
+                            PosId == null ? null : CPRepository.LabelFromEntity(PosId, "en"));
+                        claims.Add(c);
+                    }
+                    if (claims.Any())
+                    {
+                        await entity.EditAsync(claims.Select(c => new EntityEditEntry(nameof(entity.Claims), c)),
+                            "Populate affiliations from zhwarriorswiki.", EntityEditOptions.Bot);
+                    }
+
+                    async Task<IList<(string AffId, string PosId)>> ExtractAffiliationsEx(Node afNode)
+                    {
+                        var rawAffiliations = afNode == null ? null : ExtractAffiliations(afNode);
+                        if (rawAffiliations == null || rawAffiliations.Count == 0)
+                            return new List<(string Name, string Position)>();
+
+                        async Task<(string, string)> SubTask(string aff, string book, string location)
+                        {
+                            var affid = CPRepository.EntityFromZhSiteLink(aff) ?? CPRepository.EntityFromLabel(aff);
+                            if (location != null && location.EndsWith("章"))
+                            {
+                                var pos = (await Site.SearchItemsAsync(book + "-" + location)).FirstOrDefault();
+                                if (pos != null) return (affid, pos);
+                            }
+                            if (book != null)
+                            {
+                                if (!bookLocationCacheDict.TryGetValue(book, out var pos))
+                                {
+                                    pos = (await Site.SearchItemsAsync(book)).FirstOrDefault();
+                                    bookLocationCacheDict.TryAdd(book, pos);
+                                }
+                                if (pos != null) return (affid, pos);
+                            }
+                            return (affid, null);
+                        }
+
+                        var processed = await Task.WhenAll(rawAffiliations.Select(aff => SubTask(aff.Name, aff.Book, aff.Location)));
+                        return processed;
+                    }
+                }
+            }
+        }
 
     }
 }

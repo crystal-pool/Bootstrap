@@ -3,12 +3,16 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 using MwParserFromScratch;
 using MwParserFromScratch.Nodes;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using VDS.RDF;
 using VDS.RDF.Parsing;
+using WikiClientLibrary.Client;
+using WikiClientLibrary.Sites;
 using WikiClientLibrary.Wikibase.DataTypes;
 
 namespace EntitySeeding
@@ -85,6 +89,21 @@ namespace EntitySeeding
                 }
             }
             if (block.Count >= 0) yield return block;
+        }
+
+        public static async Task<IList<string>> SearchItemsAsync(this WikiSite site, string keywords)
+        {
+            var request = new MediaWikiFormRequestMessage(
+                new
+                {
+                    action = "wbsearchentities",
+                    search = keywords,
+                    language = "en",
+                    type = "item",
+                    limit = 5
+                });
+            var response = await site.InvokeMediaWikiApiAsync(request, CancellationToken.None);
+            return response["search"].Select(item => (string)item["id"]).ToList();
         }
 
     }
