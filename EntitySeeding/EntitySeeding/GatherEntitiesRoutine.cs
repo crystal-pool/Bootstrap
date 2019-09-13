@@ -16,13 +16,13 @@ namespace EntitySeeding
 
     public class EntityInfo
     {
-        
+
         public string Id { get; set; }
 
         public string NameEn { get; set; }
 
         public string NameCn { get; set; }
-        
+
     }
 
     public class EntityInfoCollection : Collection<EntityInfo>
@@ -49,11 +49,10 @@ namespace EntitySeeding
                 PaginationSize = 100
             };
             using (var writer = File.CreateText(FileName))
-            using (var ie = apg.EnumItemsAsync().Buffer(100).GetEnumerator())
             {
-                while (await ie.MoveNext())
+                await foreach (var pages in apg.EnumItemsAsync().BufferAsync(100))
                 {
-                    var entities = ie.Current.Select(s => new Entity(Site, WikiLink.Parse(Site, s.Title).Title)).ToList();
+                    var entities = pages.Select(s => new Entity(Site, WikiLink.Parse(Site, s.Title).Title)).ToList();
                     await entities.RefreshAsync(EntityQueryOptions.FetchLabels, new[]
                     {
                         "en", "zh", "zh-cn", "zh-hans"

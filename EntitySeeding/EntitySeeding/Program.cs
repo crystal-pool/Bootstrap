@@ -2,7 +2,6 @@
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.Console;
 using WikiClientLibrary.Client;
 using WikiClientLibrary.Sites;
 
@@ -13,13 +12,14 @@ namespace EntitySeeding
 
         static async Task Main(string[] args)
         {
-            var loggerFactory = new LoggerFactory();
-            loggerFactory.AddConsole(LogLevel.Information, true);
-            var client = new WikiClient {Logger = loggerFactory.CreateLogger<WikiClient>()};
+            var loggerFactory = LoggerFactory.Create(builder =>
+                builder.AddConsole(config => config.IncludeScopes = true)
+            );
+            var client = new WikiClient { Logger = loggerFactory.CreateLogger<WikiClient>() };
             var site = new WikiSite(client, "https://crystalpool.cxuesong.com/api.php")
             {
                 Logger = loggerFactory.CreateLogger<WikiSite>(),
-                ModificationThrottler = {ThrottleTime = TimeSpan.FromSeconds(1)},
+                ModificationThrottler = { ThrottleTime = TimeSpan.FromSeconds(1) },
             };
             Console.WriteLine(CPRepository.Graph.Triples.Count);
             await site.Initialization;

@@ -43,40 +43,36 @@ namespace EntitySeeding
             var fixedPages = @"
 焦风
 微光毛_(黑莓星的风暴)
-".Split(new[] {'\r', '\n'}, StringSplitOptions.RemoveEmptyEntries).Select(t => new WikiPage(zhWarriorsSite, t)).ToList();
+".Split(new[] { '\r', '\n' }, StringSplitOptions.RemoveEmptyEntries).Select(t => new WikiPage(zhWarriorsSite, t)).ToList();
             await fixedPages.RefreshAsync(PageQueryOptions.FetchContent | PageQueryOptions.ResolveRedirects);
             enu = fixedPages.ToAsyncEnumerable();
             var counter = 0;
-            using (var ie = enu.GetEnumerator())
+            await foreach (var page in enu)
             {
-                while (await ie.MoveNext())
-                {
-                    counter++;
-                    var page = ie.Current;
-                    var query = CPRepository.CreateQuery(@"
+                counter++;
+                var query = CPRepository.CreateQuery(@"
                     SELECT ?link {
                         ?link   schema:isPartOf <https://warriors.huijiwiki.com/>;
                                 schema:name @title.
                     }");
-                    query.SetLiteral("title", page.Title, "zh");
-                    if (CPRepository.ExecuteQuery(query).Any())
-                    {
-                        Logger.LogWarning("Exists {}", page);
-                        continue;
-                    }
-                    Logger.LogInformation("[{}] Processing {}", counter, page);
-                    RETRY:
-                    try
-                    {
-                        await ExportEntityAsync(page);
-                    }
-                    catch (WikiClientException ex)
-                    {
-                        Console.WriteLine(ex);
-                        Console.ReadKey();
-                        await page.RefreshAsync(PageQueryOptions.FetchContent);
-                        goto RETRY;
-                    }
+                query.SetLiteral("title", page.Title, "zh");
+                if (CPRepository.ExecuteQuery(query).Any())
+                {
+                    Logger.LogWarning("Exists {}", page);
+                    continue;
+                }
+                Logger.LogInformation("[{}] Processing {}", counter, page);
+                RETRY:
+                try
+                {
+                    await ExportEntityAsync(page);
+                }
+                catch (WikiClientException ex)
+                {
+                    Console.WriteLine(ex);
+                    Console.ReadKey();
+                    await page.RefreshAsync(PageQueryOptions.FetchContent);
+                    goto RETRY;
                 }
             }
         }
@@ -136,7 +132,7 @@ namespace EntitySeeding
                         formatGender("male ", "female ", "gender-unknown ") + clanInfo.en,
                         formatGender("公", "母", "未知性別") + clanInfo.tw);
                 case 2:
-                    return (formatGender("公猫，来自", "母猫，来自", "性别未知，来自") + matchingClan, 
+                    return (formatGender("公猫，来自", "母猫，来自", "性别未知，来自") + matchingClan,
                         formatGender("a tom from ", " a she-cat from ", "gender unknown, comes from ") + clanInfo.en,
                         null);
                 default:
@@ -196,7 +192,8 @@ namespace EntitySeeding
                         cn = doc.DocumentNode.InnerText.Trim();
                         doc.LoadHtml(parsed[1].Content);
                         tw = doc.DocumentNode.InnerText.Trim();
-                    } else if (diffVer != null)
+                    }
+                    else if (diffVer != null)
                     {
                         cn = diffVer.Arguments["cn"].Value.ToPlainText(NodePlainTextOptions.RemoveRefTags).Trim();
                         tw = diffVer.Arguments["tw"].Value.ToPlainText(NodePlainTextOptions.RemoveRefTags).Trim();

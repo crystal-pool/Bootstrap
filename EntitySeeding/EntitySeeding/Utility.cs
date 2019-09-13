@@ -106,5 +106,23 @@ namespace EntitySeeding
             return response["search"].Select(item => (string)item["id"]).ToList();
         }
 
+        public static async IAsyncEnumerable<IList<T>> BufferAsync<T>(this IAsyncEnumerable<T> sequence, int bufferSize)
+        {
+            if (sequence == null) throw new ArgumentNullException(nameof(sequence));
+            if (bufferSize <= 0) throw new ArgumentOutOfRangeException(nameof(bufferSize));
+            var partition = new List<T>();
+            await foreach (var item in sequence.ConfigureAwait(false))
+            {
+                partition.Add(item);
+                if (partition.Count == bufferSize)
+                {
+                    yield return partition;
+                    partition = new List<T>();
+                }
+            }
+            if (partition.Count > 0)
+                yield return partition;
+        }
+
     }
 }
