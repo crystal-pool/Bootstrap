@@ -38,7 +38,7 @@ namespace EntitySeeding
 
         public async Task RunAsync()
         {
-            var enWw = new WikiSite(Site.WikiClient, "http://warriors.wikia.com/api.php");
+            var enWw = new WikiSite(Site.WikiClient, "https://warriors.fandom.com/api.php");
             //            var books = CPRepository.ExecuteQuery(@"
             //SELECT ?book ?link {
             //    { ?book wdt:P3 wd:Q46. } UNION { ?book wdt:P3 wd:Q116. }
@@ -59,16 +59,16 @@ SELECT ?book ?label {
                 string lastChapterId = null;
                 var bookItem = new Entity(Site, book.id);
                 var tlabel = book.label;
-                RETRY:
+            RETRY:
                 var parsingTask = enWw.ParseContentAsync("{{Chapters/b|" + tlabel + "}}", null, null, ParsingOptions.None);
-                await bookItem.RefreshAsync(EntityQueryOptions.FetchLabels | EntityQueryOptions.FetchAliases, new[] {"en", "zh-cn", "zh-tw"});
+                await bookItem.RefreshAsync(EntityQueryOptions.FetchLabels | EntityQueryOptions.FetchAliases, new[] { "en", "zh-cn", "zh-tw" });
                 var labelEn = bookItem.Labels["en"];
-                var labelCn = bookItem.Labels["zh-cn"] ?? labelEn;
-                var labelTw = bookItem.Labels["zh-tw"] ?? labelCn;
+                var labelCn = bookItem.Labels["zh-cn"] ?? bookItem.Labels["zh-hans"] ?? labelEn;
+                var labelTw = bookItem.Labels["zh-tw"] ?? bookItem.Labels["zh-hant"] ?? labelCn;
                 Logger.LogInformation("{}, {}, {}", labelEn, labelCn, labelTw);
                 var doc = new HtmlDocument();
                 doc.LoadHtml((await parsingTask).Content);
-                var nodes = doc.DocumentNode.SelectNodes("//a[@href]");
+                var nodes = doc.DocumentNode.SelectNodes("//a[@href|@data-uncrawlable-url]");
                 if (nodes == null)
                 {
                     if (!tlabel.Contains('('))
@@ -159,9 +159,11 @@ SELECT ?book ?label {
                     string cid = null;
                     if ((cid = CPRepository.EntityFromLabel(chLabels["en"])) != null)
                     {
-                        Logger.LogWarning("Entity exists.");
+                        // Bypass the whole book if any chapter has been populated.
+                        Logger.LogWarning("Entity exists: {Name}", chLabels["en"]);
                         lastChapterId = cid;
                         if (labelEn.Contains("Hollyleaf's Story")) continue;
+                        // continue;
                         break;
                     }
                     if (labelEn == labelCn)
@@ -202,8 +204,18 @@ SELECT ?book ?label {
                         var title = WebUtility.UrlDecode(node.GetAttributeValue("href", "").Replace("/wiki/", ""));
                         edits.Add(new EntityEditEntry(nameof(chEntity.SiteLinks), new EntitySiteLink("enwarriorswiki", title)));
                     }
+                    //try
+                    //{
                     await chEntity.EditAsync(edits, "Populate chapter.", EntityEditOptions.Bulk | EntityEditOptions.Bot);
                     lastChapterId = chEntity.Id;
+                    //}
+                    //catch (OperationFailedException ex) when (ex.ErrorCode == "modification-failed")
+                    //{
+                    //    var id = Regex.Match(ex.ErrorMessage, @"\[\[Item:(Q\d+)\|Q").Groups[1].Value;
+                    //    if (string.IsNullOrEmpty(id)) throw;
+                    //    Logger.LogInformation("Entity exists: {Name} as {Entity}", chLabels["en"], id);
+                    //    lastChapterId = id;
+                    //}
                 }
             }
         }

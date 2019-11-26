@@ -16,12 +16,12 @@
   <ItemGroup>
     <PackageReference Include="CXuesong.Luaon" Version="0.2.2" />
     <PackageReference Include="CXuesong.MW.MwParserFromScratch" Version="0.2.1" />
-    <PackageReference Include="CXuesong.MW.WikiClientLibrary" Version="0.7.0-int.5" />
+    <PackageReference Include="CXuesong.MW.WikiClientLibrary" Version="0.7.0-int.7" />
     <PackageReference Include="CXuesong.MW.WikiClientLibrary.Wikibase" Version="0.7.0-int.2" />
     <PackageReference Include="dotNetRDF" Version="2.2.0" />
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.12" />
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.0.0-preview9.19423.4" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="3.0.0-preview9.19423.4" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.17" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="3.0.1" />
   </ItemGroup>
 
 </Project>
