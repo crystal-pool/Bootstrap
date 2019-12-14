@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EntityLabelUpdater": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
