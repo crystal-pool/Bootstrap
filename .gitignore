@@ -262,3 +262,4 @@ __pycache__/
 
 *.ttl
 _private
+*._private.*
