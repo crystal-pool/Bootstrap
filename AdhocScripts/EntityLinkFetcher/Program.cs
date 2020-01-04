@@ -29,7 +29,7 @@ namespace EntityLinkFetcher
             await site.LoginAsync(config.UserName, config.Password);
             config.Password = "";
             Console.WriteLine("Logged in as {0} on {1}.", site.AccountInfo, site);
-            site.ModificationThrottler.ThrottleTime = TimeSpan.FromSeconds(0.5);
+            site.ModificationThrottler.ThrottleTime = TimeSpan.FromSeconds(1);
             var interwikiSites = new Dictionary<string, WikiSite>();
 
             async Task<WikiSite> GetExternalSiteAsync(string lang)
@@ -63,16 +63,22 @@ namespace EntityLinkFetcher
             {
                 var items = stubs.Select(s => new Entity(site, WikiLink.Parse(site, s.Title).Title)).ToList();
                 await items.RefreshAsync(EntityQueryOptions.FetchLabels | EntityQueryOptions.FetchSiteLinks, new List<string> { "en" });
-                foreach (var item in items)
+                var enwwPages = items.ToDictionary(i => i, i =>
                 {
-                    var enwwtitle = item.SiteLinks.ContainsKey("enwarriorswiki") ? item.SiteLinks["enwarriorswiki"].Title : null;
+                    var enwwtitle = i.SiteLinks.ContainsKey("enwarriorswiki") ? i.SiteLinks["enwarriorswiki"].Title : null;
                     if (string.IsNullOrEmpty(enwwtitle))
                     {
-                        Console.WriteLine("{0}: No enww sitelink available.", item);
-                        continue;
+                        Console.WriteLine("{0}: No enww sitelink available.", i);
+                        return null;
                     }
-                    var enPage = new WikiPage(enSite, enwwtitle);
-                    await enPage.RefreshAsync(new WikiPageQueryProvider { Properties = { new LanguageLinksPropertyProvider() } });
+                    return new WikiPage(enSite, enwwtitle);
+                });
+                Console.WriteLine("Fetching language links from enww.");
+                await enwwPages.Values.Where(p => p != null).RefreshAsync(new WikiPageQueryProvider { Properties = { new LanguageLinksPropertyProvider() } });
+                foreach (var item in items)
+                {
+                    var enPage = enwwPages[item];
+                    if (enPage == null) continue;
                     foreach (var langLink in enPage.GetPropertyGroup<LanguageLinksPropertyGroup>().LanguageLinks)
                     {
                         if (langLink.Language == "zh") continue;
