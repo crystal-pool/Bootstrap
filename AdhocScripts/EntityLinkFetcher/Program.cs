@@ -45,13 +45,14 @@ namespace EntityLinkFetcher
                 interwikiSites.Add(lang, s);
                 return s;
             }
-            await FetchLabels(site, GetExternalSiteAsync);
+            await FetchLabels(site, GetExternalSiteAsync, "Item:Q46");
+            await FetchLabels(site, GetExternalSiteAsync, "Item:Q622");
             await site.LogoutAsync();
         }
 
-        private static async Task FetchLabels(WikiSite site, Func<string, Task<WikiSite>> getExternalSiteAsync)
+        private static async Task FetchLabels(WikiSite site, Func<string, Task<WikiSite>> getExternalSiteAsync, string originEntity)
         {
-            var apg = new BacklinksGenerator(site, "Item:Q622" /*"Item:Q46"*/)
+            var apg = new BacklinksGenerator(site, originEntity)
             {
                 NamespaceIds = new[] { site.Namespaces["Item"].Id },
                 RedirectsFilter = PropertyFilterOption.WithoutProperty,

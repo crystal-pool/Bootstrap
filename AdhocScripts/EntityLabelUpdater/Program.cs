@@ -27,8 +27,9 @@ namespace EntityLabelUpdater
             await site.LoginAsync(config.UserName, config.Password);
             config.Password = "";
             Console.WriteLine("Logged in as {0} on {1}.", site.AccountInfo, site);
-            site.ModificationThrottler.ThrottleTime = TimeSpan.FromSeconds(1);
-            await UpdateLabels(site);
+            site.ModificationThrottler.ThrottleTime = TimeSpan.FromSeconds(0.5);
+            await UpdateLabels(site, "Item:Q46");
+            await UpdateLabels(site, "Item:Q622");
             await site.LogoutAsync();
         }
 
@@ -37,9 +38,9 @@ namespace EntityLabelUpdater
             return Regex.Replace(title, @"(?!<=^)\s*\(.+", "");
         }
 
-        private static async Task UpdateLabels(WikiSite site)
+        private static async Task UpdateLabels(WikiSite site, string originEntity)
         {
-            var apg = new BacklinksGenerator(site, "Item:Q46")
+            var apg = new BacklinksGenerator(site, originEntity)
             {
                 NamespaceIds = new[] { site.Namespaces["Item"].Id },
                 RedirectsFilter = PropertyFilterOption.WithoutProperty,
@@ -72,30 +73,30 @@ namespace EntityLabelUpdater
                         var culture = CultureInfo.GetCultureInfo(language);
                         var label = Regex.Replace(siteLink.Title, @"(?!<=^)\s*\(.+", "");
                         var curLabel = item.Labels[language];
-                        if (language != "en")
-                        {
-                            if (enLabels.Contains(curLabel))
-                            {
-                                Console.Write("{0}: Remove label: {1}@{2}", item, curLabel, language);
-                                await item.EditAsync(new[]
-                                {
-                                    new EntityEditEntry(nameof(item.Labels), new WbMonolingualText(language, "dummy"), EntityEditEntryState.Removed)
-                                }, "", EntityEditOptions.Bot);
-                                Console.WriteLine();
-                            }
-                            //foreach (var alias in item.Aliases[language])
-                            //{
-                            //    if (enLabels.Contains(alias))
-                            //    {
-                            //        Console.Write("{0}: Remove alias: {1}@{2}", item, alias, language);
-                            //        await item.EditAsync(new[]
-                            //        {
-                            //            new EntityEditEntry(nameof(item.Aliases), new WbMonolingualText(language, alias), EntityEditEntryState.Removed)
-                            //        }, "", EntityEditOptions.Bot);
-                            //        Console.WriteLine();
-                            //    }
-                            //}
-                        }
+                        //if (language != "en")
+                        //{
+                        //    if (enLabels.Contains(curLabel))
+                        //    {
+                        //        Console.Write("{0}: Remove label: {1}@{2}", item, curLabel, language);
+                        //        await item.EditAsync(new[]
+                        //        {
+                        //            new EntityEditEntry(nameof(item.Labels), new WbMonolingualText(language, "dummy"), EntityEditEntryState.Removed)
+                        //        }, "", EntityEditOptions.Bot);
+                        //        Console.WriteLine();
+                        //    }
+                        //    foreach (var alias in item.Aliases[language])
+                        //    {
+                        //        if (enLabels.Contains(alias))
+                        //        {
+                        //            Console.Write("{0}: Remove alias: {1}@{2}", item, alias, language);
+                        //            await item.EditAsync(new[]
+                        //            {
+                        //                new EntityEditEntry(nameof(item.Aliases), new WbMonolingualText(language, alias), EntityEditEntryState.Removed)
+                        //            }, "", EntityEditOptions.Bot);
+                        //            Console.WriteLine();
+                        //        }
+                        //    }
+                        //}
                         if (!enLabels.Contains(label) && (curLabel == null || label.ToLower(culture) != curLabel.ToLower(culture)))
                         {
                             var convertToAlias = !string.IsNullOrWhiteSpace(curLabel) && !enLabels.Contains(curLabel);
