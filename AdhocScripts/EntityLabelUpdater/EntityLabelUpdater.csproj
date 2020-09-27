@@ -6,9 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CXuesong.MW.WikiClientLibrary" Version="0.7.0-int.8" />
-    <PackageReference Include="CXuesong.MW.WikiClientLibrary.Wikibase" Version="0.7.0-int.2" />
-    <PackageReference Include="System.Interactive.Async" Version="4.0.0" />
+    <PackageReference Include="CXuesong.MW.WikiClientLibrary" Version="0.7.1" />
+    <PackageReference Include="CXuesong.MW.WikiClientLibrary.Wikibase" Version="0.7.0" />
+    <PackageReference Include="System.Interactive.Async" Version="4.1.1" />
   </ItemGroup>
 
 </Project>

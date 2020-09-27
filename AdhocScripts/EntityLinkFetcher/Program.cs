@@ -80,7 +80,9 @@ namespace EntityLinkFetcher
                 {
                     var enPage = enwwPages[item];
                     if (enPage == null) continue;
-                    foreach (var langLink in enPage.GetPropertyGroup<LanguageLinksPropertyGroup>().LanguageLinks)
+                    foreach (var langLink in enPage.GetPropertyGroup<LanguageLinksPropertyGroup>().LanguageLinks
+                        // Wikia returns duplicate language links
+                        .Select(l => (l.Language, l.Title)).Distinct())
                     {
                         if (langLink.Language == "zh") continue;
                         var siteName = langLink.Language + "warriorswiki";
