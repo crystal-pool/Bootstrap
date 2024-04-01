@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    See
+    * https://www.mediawiki.org/wiki/Manual:Sites_table
+    * https://www.mediawiki.org/wiki/Manual:ImportSites.php
+-->
+<sites version="1.0" xmlns="https://www.mediawiki.org/xml/sitelist-1.0/">
+    <site type="mediawiki">
+        <globalid>cswarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://valecnici.fandom.com/cs/$1</path>
+        <path type="page_path">https://valecnici.fandom.com/cs/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>dawarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://krigerkattene.fandom.com/da/$1</path>
+        <path type="page_path">https://krigerkattene.fandom.com/da/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>dewarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warrior-cats.fandom.com/de/$1</path>
+        <path type="page_path">https://warrior-cats.fandom.com/de/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>eswarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://gatosguerreros.fandom.com/es/$1</path>
+        <path type="page_path">https://gatosguerreros.fandom.com/es/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>fiwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://soturikissat.fandom.com/fi/$1</path>
+        <path type="page_path">https://soturikissat.fandom.com/fi/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>frwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://lgdc.fandom.com/fr/$1</path>
+        <path type="page_path">https://lgdc.fandom.com/fr/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>itwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warriors.fandom.com/it/$1</path>
+        <path type="page_path">https://warriors.fandom.com/it/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>kowarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warriors.fandom.com/ko/$1</path>
+        <path type="page_path">https://warriors.fandom.com/ko/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>ltwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://klanukariailt.fandom.com/lt/$1</path>
+        <path type="page_path">https://klanukariailt.fandom.com/lt/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>lvwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://klanukaki.fandom.com/$1</path>
+        <path type="page_path">https://klanukaki.fandom.com/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>nlwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warriorcats.fandom.com/nl/$1</path>
+        <path type="page_path">https://warriorcats.fandom.com/nl/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>nowarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://kattekrigerne.fandom.com/no/$1</path>
+        <path type="page_path">https://kattekrigerne.fandom.com/no/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>plwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://wojownicy.fandom.com/pl/$1</path>
+        <path type="page_path">https://wojownicy.fandom.com/pl/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>pt_brwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warriorscats.fandom.com/pt-br/$1</path>
+        <path type="page_path">https://warriorscats.fandom.com/pt-br/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>rowarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://pisicile-razboinice.fandom.com/ro/$1</path>
+        <path type="page_path">https://pisicile-razboinice.fandom.com/ro/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>ruwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warriors-cats.fandom.com/ru/$1</path>
+        <path type="page_path">https://warriors-cats.fandom.com/ru/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>svwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warriors-svensk.fandom.com/sv/$1</path>
+        <path type="page_path">https://warriors-svensk.fandom.com/sv/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>ukwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://uawarriors.fandom.com/uk/$1</path>
+        <path type="page_path">https://uawarriors.fandom.com/uk/wiki/$1</path>
+    </site>
+    <site type="mediawiki">
+        <globalid>zhwarriorswiki</globalid>
+        <group>warriorswiki</group>
+        <path type="file_path">https://warriors.huijiwiki.com/$1</path>
+        <path type="page_path">https://warriors.huijiwiki.com/wiki/$1</path>
+    </site>
+</sites>
