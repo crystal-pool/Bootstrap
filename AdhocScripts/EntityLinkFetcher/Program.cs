@@ -55,7 +55,7 @@ internal static class Program
         };
         var itemCounter = 0;
         var enSite = await getExternalSiteAsync("en");
-        await foreach (var stubs in apg.EnumItemsAsync().Buffer(100))
+        await foreach (var stubs in apg.EnumItemsAsync().Skip(1300).Buffer(100))
         {
             var items = stubs.Select(s => new Entity(site, WikiLink.Parse(site, s.Title).Title)).ToList();
             await items.RefreshAsync(EntityQueryOptions.FetchLabels | EntityQueryOptions.FetchSiteLinks, new List<string> { "en" });
@@ -75,7 +75,9 @@ internal static class Program
             {
                 var enPage = enwwPages[item];
                 if (enPage == null) continue;
-                foreach (var langLink in enPage.GetPropertyGroup<LanguageLinksPropertyGroup>().LanguageLinks
+                var langLinks = enPage.GetPropertyGroup<LanguageLinksPropertyGroup>()?.LanguageLinks;
+                if (langLinks == null) continue;
+                foreach (var langLink in langLinks
                              // Wikia returns duplicate language links
                              .Select(l => (l.Language, l.Title)).Distinct())
                 {
