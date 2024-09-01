@@ -1,5 +1,5 @@
-﻿using EntityLabelUpdater;
-using Newtonsoft.Json;
+﻿using System.Text.Json;
+using EntityLabelUpdater;
 using WikiClientLibrary;
 using WikiClientLibrary.Client;
 using WikiClientLibrary.Generators;
@@ -16,7 +16,7 @@ internal static class Program
 
     public static async Task Main(string[] args)
     {
-        var config = JsonConvert.DeserializeObject<Config>(File.ReadAllText("Config._private.json"));
+        var config = JsonSerializer.Deserialize<Config>(await File.ReadAllTextAsync("Config._private.json"));
         using var client = new WikiClient();
         var site = new WikiSite(client, config.ApiEndpoint);
         await site.Initialization;
